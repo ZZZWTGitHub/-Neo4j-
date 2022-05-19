@@ -5,6 +5,8 @@ import { Provider } from "react-redux"
 import store from "./store"
 // test of router
 import Router from './router/index'
+// element-ui 
+import 'element-theme-default'
 
 ReactDOM.render(
   <Provider store={store}>
