@@ -1,7 +1,24 @@
 import React, {Fragment} from 'react'
 import { connect } from 'react-redux'
+import { Outlet, Link, useLocation, useNavigate } from 'react-router-dom'
 
 function App(props) {
+  const location = useLocation()
+  const navigate = useNavigate()
+  console.log(location.pathname)
+
+  const goHome = () => {
+    navigate('/home?id=zzzwt')
+  }
+
+  const goList = () => {
+    navigate('/list')
+  }
+
+  const goDetail = () => {
+    navigate('/detail/456789')
+  }
+
   return (
     <Fragment>
       <div>App</div>
@@ -10,6 +27,19 @@ function App(props) {
       <p>num store in redux: {props.num}</p>
       <button onClick={() => props.numAdd()}>add</button>
       <hr />
+      <h2>Test of React router</h2>
+      <ul>
+        <li><Link to="/home?id=admin">home</Link></li>
+        <li><Link to="/list">list</Link></li>
+        <li><Link to="detail/123456">detail</Link></li>
+      </ul>
+      <hr />
+      <button onClick={goHome}>HOME</button>
+      <button onClick={goList}>LIST</button>
+      <button onClick={goDetail}>DETAIL</button>
+      <hr />
+      <Outlet />
+      {/* render child router element here */}
     </Fragment>
   )
 }
