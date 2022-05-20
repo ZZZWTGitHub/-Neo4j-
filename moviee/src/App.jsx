@@ -1,6 +1,8 @@
-import React, {Fragment} from 'react'
+import React, { Fragment } from 'react'
 import { connect } from 'react-redux'
 import { Outlet, Link, useLocation, useNavigate } from 'react-router-dom'
+
+import "./App.css"
 
 function App(props) {
   const location = useLocation()
@@ -21,7 +23,7 @@ function App(props) {
 
   return (
     <Fragment>
-      <div>App</div>
+      <div className='header'>App</div>
       <hr />
       <h2>Test of React redux</h2>
       <p>num store in redux: {props.num}</p>
@@ -55,7 +57,7 @@ const mapStateToProps = (state) => {
 const mapDispatchToProps = (dispatch) => {
   return {
     numAdd() {
-      const action = {type: 'numAdd', value: 2}
+      const action = { type: 'numAdd', value: 2 }
       dispatch(action)
     }
   }

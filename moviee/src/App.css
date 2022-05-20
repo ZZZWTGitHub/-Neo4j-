@@ -1,25 +1,12 @@
-.el-header {
+* {
+  background-color: rgb(40, 46, 85);
+}
+
+.header {
   display: block;
-  background-color: #B3C0D1;
-  color: #333;
-  text-align: center;
-  line-height: 60px;
-}
-
-.el-aside {
-  background-color: #D3DCE6;
-  color: #333;
-  text-align: center;
-  line-height: 200px;
-}
-
-.el-main {
-  background-color: #E9EEF3;
-  color: #333;
-  text-align: center;
-  line-height: 160px;
-}
-
-body > .el-container {
-  margin-bottom: 40px;
+  height: 200px;
+  background-color: rgb(40, 46, 85);
+  border-bottom: 2px solid #999;
+  color: #aaa;
+  font-size: 5rem;
 }
