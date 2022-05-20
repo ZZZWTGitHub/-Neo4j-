@@ -70,6 +70,11 @@
   padding: 10px;
   border-radius: 4px;
   box-shadow: 0 0 2px #444;
+  transition: 0.5s;
+}
+
+.Entity:hover {
+  color: #555;
 }
 
 .EntityName {
