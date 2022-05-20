@@ -11,8 +11,14 @@ export default function Home() {
   const useID = searchParams.get('id')
   return (
     <>
-      <div className="EntityQueryTitle"><FontAwesomeIcon icon={ faSearch } /> <span>Entity Query</span></div>
+      <div className="EntityQueryTitle"><FontAwesomeIcon icon={faSearch} /> <span>Entity Query</span></div>
       {/* <h2>Home of {useID}</h2> */}
+      <div className="search">
+        <div className="search-box">
+          <input type="text" className="search-input" placeholder="Input the Entity you want to search..." />
+          <button type="submit" className="search-btn"><FontAwesomeIcon icon={faSearch} /></button>
+        </div>
+      </div>
     </>
   )
 }
