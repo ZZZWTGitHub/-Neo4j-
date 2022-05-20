@@ -1,12 +1,14 @@
 import React from 'react'
-import { useParams } from 'react-router-dom'
+import { useSearchParams } from 'react-router-dom'
 
 export default function Detail() {
-  const {id} = useParams()
+  // eslint-disable-next-line
+  const [searchParams, setSearchParams] = useSearchParams()
+  const thingToSearch = searchParams.get('thing')
   return (
     <>
       <h2>Detail</h2>
-      <p>detail is {id}</p>
+      <p>thingToSearch is {thingToSearch}</p>
     </>
   )
 }

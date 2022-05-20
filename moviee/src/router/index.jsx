@@ -2,7 +2,7 @@ import App from "../App"
 import Home from "../pages/Home"
 import List from "../pages/List"
 import Detail from "../pages/Detail"
-import { BrowserRouter, Route, Routes, Redirect } from "react-router-dom"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 
 const BaseRouter = () => {
   return (

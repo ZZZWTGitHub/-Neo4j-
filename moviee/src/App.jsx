@@ -1,12 +1,11 @@
-import React, { Fragment, useState } from 'react'
+import React, { Fragment } from 'react'
 import { connect } from 'react-redux'
-import { Outlet, Link, useLocation, useNavigate } from 'react-router-dom'
+import { Outlet, useLocation, useNavigate } from 'react-router-dom'
 import logo from "./image/logo_moviee.png"
 
 import "./App.css"
 
 function App(props) {
-  const [active, setActive] = useState(0)
 
   const logoURL = logo
 
@@ -16,23 +15,14 @@ function App(props) {
 
   const goHome = () => {
     navigate('/home?id=zzzwt')
-    setActive(1)
-    // console.log('active=' + active)
-    console.log(location.pathname)
   }
 
   const goList = () => {
     navigate('/list')
-    setActive(2)
-    // console.log('active=' + active)
-    console.log(location.pathname)
   }
 
   const goDetail = () => {
-    navigate('/detail')
-    setActive(3)
-    // console.log('active=' + active)
-    console.log(location)
+    navigate('/detail?thing=sample')
   }
 
   return (
@@ -43,9 +33,9 @@ function App(props) {
         </div>
         <div className='container'>
           <div className='aside'>
-            <button onClick={goHome} className={location.pathname === '/home' ? 'active' : ''}>Home</button>
-            <button onClick={goList} className={location.pathname === '/list' ? 'active' : ''}>List</button>
-            <button onClick={goDetail} className={location.pathname === '/detail' ? 'active' : ''}>Detail</button>
+            <button onClick={goHome} className={location.pathname === '/home' ? 'active' : ''}>Entity Query</button>
+            <button onClick={goList} className={location.pathname === '/list' ? 'active' : ''}>Relational Query</button>
+            <button onClick={goDetail} className={location.pathname === '/detail' ? 'active' : ''}>Graph Overview</button>
           </div>
           <div className='mainbox'><Outlet /></div>
         </div>
