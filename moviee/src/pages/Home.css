@@ -54,3 +54,32 @@
   width: 500px;
   padding-left: 10px;
 }
+
+.EntityResults {
+  display: block;
+  width: 60vw;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #ccc;
+}
+
+.Entity {
+  margin-bottom: 6px;
+  background-color: rgba(185, 152, 109, 0.7);
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 0 2px #444;
+}
+
+.EntityName {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.EntityDetail {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

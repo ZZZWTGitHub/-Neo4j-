@@ -34,7 +34,7 @@ function App(props) {
         <div className='container'>
           <div className='aside'>
             <button onClick={goHome} className={location.pathname === '/home' ? 'active' : ''}>Entity Query</button>
-            <button onClick={goList} className={location.pathname === '/list' ? 'active' : ''}>Relational Query</button>
+            <button onClick={goList} className={location.pathname === '/list' ? 'active' : ''}>Relation Query</button>
             <button onClick={goDetail} className={location.pathname === '/detail' ? 'active' : ''}>Graph Overview</button>
           </div>
           <div className='mainbox'><Outlet /></div>
