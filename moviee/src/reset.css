@@ -47,3 +47,13 @@ input:focus,select:focus,textarea:focus {
 	F1， 然后minify：document
 		可以压缩css文件
 */
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#root {
+	height: 100%;
+	width: 100%;
+}

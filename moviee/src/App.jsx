@@ -1,10 +1,13 @@
 import React, { Fragment } from 'react'
 import { connect } from 'react-redux'
 import { Outlet, Link, useLocation, useNavigate } from 'react-router-dom'
+import logo from "./image/logo_moviee.png"
 
 import "./App.css"
 
 function App(props) {
+  const logoURL = logo
+
   const location = useLocation()
   const navigate = useNavigate()
   console.log(location.pathname)
@@ -23,8 +26,20 @@ function App(props) {
 
   return (
     <Fragment>
-      <div className='header'>App</div>
-      <hr />
+      <div className='appPage'>
+        <div className='header'>
+          <img src={logoURL} alt="" height={150} />
+        </div>
+        <div className='container'>
+          <div className='aside'>
+            <button onClick={goHome}>Home</button>
+            <button onClick={goList}>List</button>
+            <button onClick={goDetail}>Detail</button>
+          </div>
+          <div className='mainbox'><Outlet /></div>
+        </div>
+      </div>
+      {/* <hr />
       <h2>Test of React redux</h2>
       <p>num store in redux: {props.num}</p>
       <button onClick={() => props.numAdd()}>add</button>
@@ -39,8 +54,8 @@ function App(props) {
       <button onClick={goHome}>HOME</button>
       <button onClick={goList}>LIST</button>
       <button onClick={goDetail}>DETAIL</button>
-      <hr />
-      <Outlet />
+      <hr /> */}
+      {/* <Outlet /> */}
       {/* render child router element here */}
     </Fragment>
   )
