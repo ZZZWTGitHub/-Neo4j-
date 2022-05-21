@@ -77,6 +77,11 @@
   color: #555;
 }
 
+.Entity:hover .EntityName {
+  font-size: 1.85rem;
+  font-weight: 700;
+}
+
 .EntityName {
   font-size: 1.8rem;
   font-weight: 600;
