@@ -59,7 +59,7 @@
   display: block;
   width: 60vw;
   margin: 0 auto;
-  margin-top: 50px;
+  margin-top: 38px;
   margin-bottom: 50px;
   color: #ccc;
 }
@@ -74,11 +74,11 @@
 }
 
 .Entity:hover {
-  color: #555;
+  color: #666;
 }
 
 .Entity:hover .EntityName {
-  font-size: 1.85rem;
+  /* font-size: 1.85rem; */
   font-weight: 700;
 }
 

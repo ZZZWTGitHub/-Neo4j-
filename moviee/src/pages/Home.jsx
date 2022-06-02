@@ -3,32 +3,62 @@ import { useSearchParams } from "react-router-dom";
 import "./Home.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
+import axios from 'axios'
+import { connect } from "react-redux";
 
-export default function Home() {
+function Home(props) {
   // eslint-disable-next-line
   const [searchParams, setSearchParams] = useSearchParams()
   // console.log(searchParams.get('id'))
   const useID = searchParams.get('id')
+
   return (
     <>
       <div className="EntityQueryTitle"><FontAwesomeIcon icon={faSearch} /> <span>Entity Query</span></div>
       {/* <h2>Home of {useID}</h2> */}
       <div className="search">
         <div className="search-box">
-          <input type="text" className="search-input" placeholder="Input the Entity you want to search..." />
-          <button type="submit" className="search-btn"><FontAwesomeIcon icon={faSearch} /></button>
+          <input  type="text" 
+                  className="search-input" 
+                  placeholder="Input the Entity you want to search..."
+                  onKeyDown={() => props.entityQuery(document.getElementsByClassName('search-input')[0].value)} />
+          <button type="submit" 
+                  className="search-btn" 
+                  onClick={() => props.entityQuery(document.getElementsByClassName('search-input')[0].value)}>
+            <FontAwesomeIcon icon={faSearch} />
+          </button>
         </div>
       </div>
       <div className="EntityResults">
-        <div className="Entity">
-          <h3 className="EntityName">斯坦利·库布里克</h3>
-          <p className="EntityDetail">这里是一段详细的介绍...斯坦利·库布里克是过去40年间始终最吸引人的电影制作人 他的作品受到的赞扬几乎和招致的咒骂一样多。影片中不可思议的视觉风格为他赢得如潮好评，而他非传统的叙述感又常常会引来轻蔑的挑剔。尽管如此，他在重复和模仿主导的传媒圈仍旧是一位独一无二的艺术家。</p>
-        </div>
-        <div className="Entity">
-          <h3 className="EntityName">斯坦利·库布里克</h3>
-          <p className="EntityDetail">这里是一段详细的介绍...斯坦利·库布里克是过去40年间始终最吸引人的电影制作人 他的作品受到的赞扬几乎和招致的咒骂一样多。影片中不可思议的视觉风格为他赢得如潮好评，而他非传统的叙述感又常常会引来轻蔑的挑剔。尽管如此，他在重复和模仿主导的传媒圈仍旧是一位独一无二的艺术家。</p>
-        </div>
+        {
+          props.entityQueryRes.map((name, index) => {
+            return (
+              <div className="Entity" key={name[0]}>
+                <h3 className="EntityName">{name[0]}</h3>
+                <p className="EntityDetail">{name[1]}</p>
+              </div>
+            )
+          })
+        }
       </div>
     </>
   )
 }
+
+const mapStateToProps = (state) => {
+  return {
+    entityQueryRes: state.entityQueryRes
+  }
+}
+
+// 事件派发映射：将reducer中事件映射到props，以便组件使用其中的方法
+const mapDispatchToProps = (dispatch) => {
+  return {
+    entityQuery(movieName) {
+      const action = { type: 'entityQuery', value: movieName }
+      dispatch(action)
+    }
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Home)
