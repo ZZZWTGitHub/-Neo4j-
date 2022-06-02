@@ -15,7 +15,7 @@ export default function Detail() {
 
     myChart.setOption({
       title: {
-        text: 'ECharts 入门示例'
+        text: 'ECharts 例'
       },
       tooltip: {},
       xAxis: {
