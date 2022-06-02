@@ -1,13 +1,6 @@
 const query = require('./query')
 const cors = require('cors')
 
-// console.log('------in test1------')
-// query.queryMovie('Tom').then((result) => {
-
-//   console.log("result", result);
-  
-// })
-
 const express = require('express')
 
 const app = express()
@@ -15,7 +8,7 @@ const app = express()
 app.use(cors())
 
 app.get('/user', (req, res) => {
-  console.log('+++++')
+  console.log('-----------')
   console.log('moviename:', req.query.name)
   // console.log(req.query.age)
   // console.log(req.query.gender)
