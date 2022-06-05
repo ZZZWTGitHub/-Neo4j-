@@ -3,6 +3,7 @@ const axios = require('axios')
 const defaultState = {
   num: 100,
   entityQueryRes: [],
+  detail: [],
 }
 
 // eslint-disable-next-line
@@ -15,10 +16,19 @@ export default (state = defaultState, action) => {
     }
     case "entityQuery": {
       const movieName = action.value
-      axios.get(`http://127.0.0.1:8000/user?name=${movieName}`).then(res => {
+      axios.get(`http://127.0.0.1:8000/movie?name=${movieName}`).then(res => {
         console.log(res, '++++')
         newState.entityQueryRes = res.data
-        console.log()
+      }).catch(err => {
+        console.log(err)
+      })
+      break
+    }
+    case "detail": {
+      const movieName = action.value
+      axios.get(`http://127.0.0.1:8000/moviedetail?movietitle=${movieName}`).then(res => {
+        console.log(res, '++++')
+        newState.detail = res.data
       }).catch(err => {
         console.log(err)
       })

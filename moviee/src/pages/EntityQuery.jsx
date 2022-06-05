@@ -1,16 +1,22 @@
 import React from "react";
-import { useSearchParams } from "react-router-dom";
-import "./Home.css"
+import { useSearchParams, useNavigate } from "react-router-dom";
+import "./EntityQuery.css"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import axios from 'axios'
 import { connect } from "react-redux";
 
-function Home(props) {
+function EntityQuery(props) {
   // eslint-disable-next-line
   const [searchParams, setSearchParams] = useSearchParams()
   // console.log(searchParams.get('id'))
   const useID = searchParams.get('id')
+
+  const navigate = useNavigate()
+
+  const goDetail = (title) => {
+    navigate('/detail?movietitle=' + title)
+  }
 
   return (
     <>
@@ -33,7 +39,7 @@ function Home(props) {
         {
           props.entityQueryRes.map((name, index) => {
             return (
-              <div className="Entity" key={name[0]}>
+              <div className="Entity" key={name[0]} onClick={() => {goDetail(name[0])}}>
                 <h3 className="EntityName">{name[0]}</h3>
                 <p className="EntityDetail">{name[1]}</p>
               </div>
@@ -61,4 +67,4 @@ const mapDispatchToProps = (dispatch) => {
   }
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(Home)
+export default connect(mapStateToProps, mapDispatchToProps)(EntityQuery)

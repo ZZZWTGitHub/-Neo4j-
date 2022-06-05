@@ -14,15 +14,19 @@ function App(props) {
   // console.log(location.pathname)
 
   const goHome = () => {
-    navigate('/home?id=zzzwt')
+    navigate('/entityquery')
   }
 
   const goList = () => {
-    navigate('/list')
+    navigate('/relationquery')
   }
 
-  const goDetail = () => {
-    navigate('/detail?thing=sample')
+  const goOverview = () => {
+    navigate('/overview')
+  }
+
+  const goQuest = () => {
+    navigate('/quest')
   }
 
   return (
@@ -33,9 +37,10 @@ function App(props) {
         </div>
         <div className='container'>
           <div className='aside'>
-            <button onClick={goHome} className={location.pathname === '/home' ? 'active' : ''}>Entity Query</button>
-            <button onClick={goList} className={location.pathname === '/list' ? 'active' : ''}>Relation Query</button>
-            <button onClick={goDetail} className={location.pathname === '/detail' ? 'active' : ''}>Graph Overview</button>
+            <button onClick={goHome} className={location.pathname === '/entityquery' ? 'active' : ''}>Entity Query</button>
+            <button onClick={goList} className={location.pathname === '/relationquery' ? 'active' : ''}>Relation Query</button>
+            <button onClick={goOverview} className={location.pathname === '/overview' ? 'active' : ''}>Graph Overview</button>
+            <button onClick={goQuest} className={location.pathname === '/quest' ? 'active' : ''}>Intelligent Q&#38;A</button>
           </div>
           <div className='mainbox'><Outlet /></div>
         </div>

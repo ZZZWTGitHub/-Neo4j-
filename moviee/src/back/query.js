@@ -1,9 +1,13 @@
 const neo4j = require('neo4j-driver')
 
+const boltURL = 'bolt://18.206.127.86:7687'
+const username = 'neo4j'
+const password = 'crack-buy-intensities'
+
 async function queryPerson(personName) {
   const driver = neo4j.driver(
-    'bolt://54.227.217.146:7687',
-    neo4j.auth.basic('neo4j', 'patrol-molecules-flush'))
+    boltURL,
+    neo4j.auth.basic(username, password))
   
   const session1 = driver.session({
     database: 'neo4j',
@@ -18,33 +22,22 @@ async function queryPerson(personName) {
       { name: personName }
     )
   })
-  
-  
+
   const names = res.records.map( row => {
-    // console.log(row.get('p')['properties']['name'])
-    // console.log('---------------')
-    return [row.get('p')['properties']['name'], row.get('p')['properties']['bio']]
+    return [row.get('p')['properties']['name'], row.get('p')['properties']['born']]
   })
-  
-  // console.log(res.records[0].get('tom'))
-  // console.log(names)
   
   await session1.close()
   
-  // console.log('end')
-  
   await driver.close()
-  
-  // console.log('end 2')
 
-  // console.log(names)
   return names
 }
 
 async function queryMovie(movieName) {
   const driver = neo4j.driver(
-    'bolt://54.227.217.146:7687',
-    neo4j.auth.basic('neo4j', 'patrol-molecules-flush'))
+    boltURL,
+    neo4j.auth.basic(username, password))
   
   const session1 = driver.session({
     database: 'neo4j',
@@ -60,11 +53,8 @@ async function queryMovie(movieName) {
     )
   })
   
-  
   const names = res.records.map( row => {
-    // console.log(row.get('m'))
-    // console.log('---------------')
-    return [row.get('m')['properties']['title'], row.get('m')['properties']['plot']]
+    return [row.get('m')['properties']['title'], row.get('m')['properties']['tagline']]
   })
   
   await session1.close()

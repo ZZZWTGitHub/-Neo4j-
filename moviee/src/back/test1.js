@@ -7,7 +7,7 @@ const app = express()
 
 app.use(cors())
 
-app.get('/user', (req, res) => {
+app.get('/movie', (req, res) => {
   console.log('-----------')
   console.log('moviename:', req.query.name)
   // console.log(req.query.age)
@@ -15,6 +15,10 @@ app.get('/user', (req, res) => {
   query.queryMovie(req.query.name).then((result) => {
     res.send(result)
   })
+})
+
+app.get('/moviedetail', (req, res) => {
+  console.log('moviedetail', req.query.movietitle)
 })
 
 app.listen(8000, () => { 
