@@ -18,19 +18,35 @@ function EntityQuery(props) {
     navigate('/detail?movietitle=' + title)
   }
 
+  var timeOut = null
+
+  const antiShake = (fn, wait) => {
+    return args => {
+      if (timeOut) {
+        clearTimeout(timeOut)
+      }
+      // 如果有timeOut，清除并重新请求
+      fn()
+      timeOut = setTimeout(fn, wait)
+    }
+  }
+
+  const searchMovie = () => props.entityQuery(document.getElementsByClassName('search-input')[0].value)
+  
+
   return (
     <>
       <div className="EntityQueryTitle"><FontAwesomeIcon icon={faSearch} /> <span>Entity Query</span></div>
       {/* <h2>Home of {useID}</h2> */}
       <div className="search">
         <div className="search-box">
-          <input  type="text" 
-                  className="search-input" 
-                  placeholder="Input the Entity you want to search..."
-                  onKeyDown={() => props.entityQuery(document.getElementsByClassName('search-input')[0].value)} />
-          <button type="submit" 
-                  className="search-btn" 
-                  onClick={() => props.entityQuery(document.getElementsByClassName('search-input')[0].value)}>
+          <input type="text"
+            className="search-input"
+            placeholder="Input the Entity you want to search..."
+            onKeyDown={antiShake(searchMovie, 2000)} />
+          <button type="submit"
+            className="search-btn"
+            onClick={antiShake(searchMovie, 2000)}>
             <FontAwesomeIcon icon={faSearch} />
           </button>
         </div>
@@ -39,7 +55,7 @@ function EntityQuery(props) {
         {
           props.entityQueryRes.map((name, index) => {
             return (
-              <div className="Entity" key={name[0]} onClick={() => {goDetail(name[0])}}>
+              <div className="Entity" key={name[0]} onClick={() => { goDetail(name[0]) }}>
                 <h3 className="EntityName">{name[0]}</h3>
                 <p className="EntityDetail">{name[1]}</p>
               </div>
