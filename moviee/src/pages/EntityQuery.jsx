@@ -26,13 +26,14 @@ function EntityQuery(props) {
         clearTimeout(timeOut)
       }
       // 如果有timeOut，清除并重新请求
-      fn()
       timeOut = setTimeout(fn, wait)
     }
   }
 
-  const searchMovie = () => props.entityQuery(document.getElementsByClassName('search-input')[0].value)
-  
+  const searchMovie = () => {
+    const res = props.entityQuery(document.getElementsByClassName('search-input')[0].value)
+    return res
+  }
 
   return (
     <>
@@ -43,10 +44,10 @@ function EntityQuery(props) {
           <input type="text"
             className="search-input"
             placeholder="Input the Entity you want to search..."
-            onKeyDown={antiShake(searchMovie, 2000)} />
+            onKeyDown={antiShake(searchMovie, 500)} />
           <button type="submit"
             className="search-btn"
-            onClick={antiShake(searchMovie, 2000)}>
+            onClick={antiShake(searchMovie, 500)}>
             <FontAwesomeIcon icon={faSearch} />
           </button>
         </div>
