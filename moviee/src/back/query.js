@@ -64,7 +64,38 @@ async function queryMovie(movieName) {
   return names
 }
 
+async function queryMovieDetail(movieName) {
+  const driver = neo4j.driver(
+    boltURL,
+    neo4j.auth.basic(username, password))
+  
+  const session1 = driver.session({
+    database: 'neo4j',
+  })
+  
+  const res = await session1.readTransaction( tx => {
+    return tx.run(
+      `MATCH (m:Movie)
+      WHERE m.title Contains $title
+      RETURN m
+      LIMIT 1`,
+      { title: movieName }
+    )
+  })
+
+  const names = res.records.map( row => {
+    return [row.get('m')['properties']['title'], row.get('m')['properties']['tagline'], String(row.get('m')['properties']['released'])]
+  })
+  
+  await session1.close()
+  
+  await driver.close()
+  
+  return names
+}
+
 module.exports = {
   queryPerson,
-  queryMovie
+  queryMovie,
+  queryMovieDetail
 }

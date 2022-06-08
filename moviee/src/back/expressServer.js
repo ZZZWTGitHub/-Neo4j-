@@ -19,6 +19,9 @@ app.get('/movie', (req, res) => {
 
 app.get('/moviedetail', (req, res) => {
   console.log('moviedetail', req.query.movietitle)
+  query.queryMovieDetail(req.query.movietitle).then((result) => {
+    res.send(result)
+  })
 })
 
 app.listen(8000, () => { 
