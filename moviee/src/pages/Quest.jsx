@@ -1,9 +1,10 @@
-import React from 'react'
-import "./RelationQuery.css"
+import React from 'react';
+import "./RelationQuery.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSearch, faComment, faC } from "@fortawesome/free-solid-svg-icons";
-import * as echarts from 'echarts'
-import { useEffect } from 'react';
+import { faSearch, faComment } from "@fortawesome/free-solid-svg-icons";
+// import { faC } from '@fortawesome/free-solid-svg-icons';
+// import * as echarts from 'echarts';
+// import { useEffect } from 'react';
 
 export default function Quest() {
 
@@ -18,5 +19,5 @@ export default function Quest() {
       </div>
       <div id='echartsRel' style={{ width: '600px', height: '400px', top:'20px', left:'300px' }}></div>
     </>
-  )
-}
+  );
+};

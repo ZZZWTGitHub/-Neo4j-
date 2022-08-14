@@ -1,8 +1,8 @@
-import React from 'react'
-import "./RelationQuery.css"
+import React from 'react';
+import "./RelationQuery.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiagramProject, faSearch } from "@fortawesome/free-solid-svg-icons";
-import * as echarts from 'echarts'
+import * as echarts from 'echarts';
 import { useEffect } from 'react';
 
 export default function RelationQuery() {
@@ -28,7 +28,7 @@ export default function RelationQuery() {
         }
       ]
     });
-  }, [])
+  }, []);
 
   return (
     <>
@@ -41,5 +41,5 @@ export default function RelationQuery() {
       </div>
       <div id='echartsRel' style={{ width: '600px', height: '400px', top:'20px', left:'300px' }}></div>
     </>
-  )
-}
+  );
+};

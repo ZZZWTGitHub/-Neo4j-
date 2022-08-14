@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBookOpen } from "@fortawesome/free-solid-svg-icons";
 // import { useSearchParams } from "react-router-dom"; 
-import { connect } from "react-redux"
+import { connect } from "react-redux";
 // import { useEffect } from 'react';
 
 function Detail(props) {
@@ -19,22 +19,22 @@ function Detail(props) {
       <div className="RelationQueryTitle"><FontAwesomeIcon icon={faBookOpen} /> <span>Detail Page</span></div>
       
     </>
-  )
-}
+  );
+};
 
 const mapStateToProps = (state) => {
   return {
     detail: state.detail
-  }
-}
+  };
+};
 
 const mapDispatchToProps = (dispatch) => {
   return {
     queryDetail(movietitle) {
-      const action = { type: 'queryDetail', value: movietitle }
-      dispatch(action)
+      const action = { type: 'queryDetail', value: movietitle };
+      dispatch(action);
     }
-  }
-}
+  };
+};
 
-export default connect(mapStateToProps, mapDispatchToProps)(Detail)
+export default connect(mapStateToProps, mapDispatchToProps)(Detail);

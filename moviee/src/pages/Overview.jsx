@@ -1,13 +1,13 @@
-import React from 'react'
-import { useSearchParams } from 'react-router-dom'
-import * as echarts from 'echarts'
-import { useEffect } from 'react'
+import React from 'react';
+import { useSearchParams } from 'react-router-dom';
+import * as echarts from 'echarts';
+import { useEffect } from 'react';
 
 export default function Overview() {
   // eslint-disable-next-line
-  const [searchParams, setSearchParams] = useSearchParams()
-  const thingToSearch = searchParams.get('thing')
-  console.log(echarts.init)
+  const [searchParams, setSearchParams] = useSearchParams();
+  // const thingToSearch = searchParams.get('thing');
+  console.log(echarts.init);
 
   useEffect(() => {
     //  模拟componentDidMount  首次渲染
@@ -39,5 +39,5 @@ export default function Overview() {
       <div id='echartsAll' style={{ width: '600px', height: '400px', top:'100px', left:'300px' }}></div>
 
     </>
-  )
-}
+  );
+};

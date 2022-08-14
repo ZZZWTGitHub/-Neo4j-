@@ -1,12 +1,12 @@
-import ReactDOM from "react-dom"
-// import App from "./App"
+import ReactDOM from "react-dom";
+// import App from "./App";
 // test of redux
-import { Provider } from "react-redux"
-import store from "./store"
+import { Provider } from "react-redux";
+import store from "./store";
 // test of router
-import Router from './router/index'
+import Router from './router/index';
 // clear origin style
-import "./reset.css"
+import "./reset.css";
 
 
 ReactDOM.render(
@@ -14,4 +14,4 @@ ReactDOM.render(
     <Router />
   </Provider>,
   document.getElementById('root')
-)
+);

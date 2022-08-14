@@ -1,10 +1,10 @@
-import App from "../App"
-import RelationQuery from "../pages/RelationQuery"
-import Overview from "../pages/Overview"
-import { BrowserRouter, Route, Routes } from "react-router-dom"
-import Quest from "../pages/Quest"
-import EntityQuery from "../pages/EntityQuery"
-import Detail from "../pages/Detail"
+import App from "../App";
+import RelationQuery from "../pages/RelationQuery";
+import Overview from "../pages/Overview";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Quest from "../pages/Quest";
+import EntityQuery from "../pages/EntityQuery";
+import Detail from "../pages/Detail";
 
 const BaseRouter = () => {
   return (
@@ -20,6 +20,6 @@ const BaseRouter = () => {
       </Routes>
     </BrowserRouter>
   )
-}
+};
 
-export default BaseRouter
+export default BaseRouter;

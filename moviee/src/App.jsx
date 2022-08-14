@@ -1,33 +1,33 @@
-import React, { Fragment } from 'react'
-import { connect } from 'react-redux'
-import { Outlet, useLocation, useNavigate } from 'react-router-dom'
-import logo from "./image/logo_moviee.png"
+import React, { Fragment } from 'react';
+import { connect } from 'react-redux';
+import { Outlet, useLocation, useNavigate } from 'react-router-dom';
+import logo from "./image/logo_moviee.png";
 
-import "./App.css"
+import "./App.css";
 
 function App(props) {
 
-  const logoURL = logo
+  const logoURL = logo;
 
-  const location = useLocation()
-  const navigate = useNavigate()
-  // console.log(location.pathname)
+  const location = useLocation();
+  const navigate = useNavigate();
+  // console.log(location.pathname);
 
   const goHome = () => {
-    navigate('/entityquery')
-  }
+    navigate('/entityquery');
+  };
 
   const goList = () => {
-    navigate('/relationquery')
-  }
+    navigate('/relationquery');
+  };
 
   const goOverview = () => {
-    navigate('/overview')
-  }
+    navigate('/overview');
+  };
 
   const goQuest = () => {
-    navigate('/quest')
-  }
+    navigate('/quest');
+  };
 
   return (
     <Fragment>
@@ -65,23 +65,23 @@ function App(props) {
       {/* render child router element here */}
     </Fragment>
   )
-}
+};
 
 // 状态映射：reducer中的state，映射到props，以便调用state中的数据
 const mapStateToProps = (state) => {
   return {
     num: state.num
-  }
-}
+  };
+};
 
 // 事件派发映射：将reducer中事件映射到props，以便组件使用其中的方法
 const mapDispatchToProps = (dispatch) => {
   return {
     numAdd() {
-      const action = { type: 'numAdd', value: 2 }
-      dispatch(action)
+      const action = { type: 'numAdd', value: 2 };
+      dispatch(action);
     }
-  }
-}
+  };
+};
 
-export default connect(mapStateToProps, mapDispatchToProps)(App)
+export default connect(mapStateToProps, mapDispatchToProps)(App);
