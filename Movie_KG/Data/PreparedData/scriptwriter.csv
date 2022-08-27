@@ -1,0 +1,6103 @@
+scriptwriter_id,scriptwriter_name,rank,Label
+0,倪匡,104,scriptwriter
+1,王晶,66,scriptwriter
+2,查理·卓别林,63,scriptwriter
+3,司徒安,42,scriptwriter
+4,阿涅斯·瓦尔达,40,scriptwriter
+5,张彻,39,scriptwriter
+6,伍迪·艾伦,36,scriptwriter
+7,吕克·贝松,35,scriptwriter
+8,黑泽明,29,scriptwriter
+9,李翰祥,28,scriptwriter
+10,让-吕克·戈达尔,26,scriptwriter
+11,罗伯托·罗西里尼,24,scriptwriter
+12,子母泽宽,24,scriptwriter
+13,斯坦·李,22,scriptwriter
+14,伊恩·弗莱明,22,scriptwriter
+15,陈嘉上,21,scriptwriter
+16,游乃海,21,scriptwriter
+17,徐克,20,scriptwriter
+18,楚原,20,scriptwriter
+19,依田义贤,20,scriptwriter
+20,刘镇伟,19,scriptwriter
+21,比利·怀尔德,19,scriptwriter
+22,黄炳耀,19,scriptwriter
+23,乔治·卢卡斯,19,scriptwriter
+24,谷德昭,17,scriptwriter
+25,米开朗基罗·安东尼奥尼,16,scriptwriter
+26,彭浩翔,16,scriptwriter
+27,克日什托夫·基耶斯洛夫斯基,16,scriptwriter
+28,庄文强,15,scriptwriter
+29,陈庆嘉,15,scriptwriter
+30,杰克·科比,15,scriptwriter
+31,王风,15,scriptwriter
+32,宫崎骏,14,scriptwriter
+33,王家卫,14,scriptwriter
+34,黄百鸣,14,scriptwriter
+35,文隽,14,scriptwriter
+36,阮世生,14,scriptwriter
+37,古龙,14,scriptwriter
+38,费德里科·费里尼,13,scriptwriter
+39,张坚庭,13,scriptwriter
+40,程刚,13,scriptwriter
+41,英格玛·伯格曼,13,scriptwriter
+42,西尔维斯特·史泰龙,13,scriptwriter
+43,理查德·麦鲍姆,13,scriptwriter
+44,特里·鲁西奥,12,scriptwriter
+45,斯坦利·库布里克,12,scriptwriter
+46,邓景生,12,scriptwriter
+47,邹静之,12,scriptwriter
+48,士郎正宗,12,scriptwriter
+49,阿尔弗雷德·希区柯克,12,scriptwriter
+50,Vincent Bryan,12,scriptwriter
+51,小津安二郎,12,scriptwriter
+52,斯蒂芬·金,11,scriptwriter
+53,李敏,11,scriptwriter
+54,张炭,11,scriptwriter
+55,查尔斯·布拉克特,11,scriptwriter
+56,吴炜伦,11,scriptwriter
+57,乔尔·科恩,11,scriptwriter
+58,戴维·贝尼奥夫,11,scriptwriter
+59,司徒锦源,11,scriptwriter
+60,邱刚健,11,scriptwriter
+61,刘浩良,11,scriptwriter
+62,尔冬升,11,scriptwriter
+63,艾玛·雷维尔,11,scriptwriter
+64,韦家辉,11,scriptwriter
+65,克里斯托弗·诺兰,10,scriptwriter
+66,麦兆辉,10,scriptwriter
+67,J. K. 罗琳,10,scriptwriter
+68,曾瑾昌,10,scriptwriter
+69,小国英雄,10,scriptwriter
+70,吉尔莫·德尔·托罗,10,scriptwriter
+71,吕奇,10,scriptwriter
+72,野田高梧,10,scriptwriter
+73,张家鲁,10,scriptwriter
+74,罗伯特·马克·卡门,10,scriptwriter
+75,冯志强,10,scriptwriter
+76,陈建忠,10,scriptwriter
+77,司徒卓汉,10,scriptwriter
+78,谭广源,10,scriptwriter
+79,大卫·凯普,10,scriptwriter
+80,Maverick Terrell,10,scriptwriter
+81,大卫·S·高耶,9,scriptwriter
+82,本·赫克特,9,scriptwriter
+83,泰德·艾略特,9,scriptwriter
+84,吴宇森,9,scriptwriter
+85,黄建新,9,scriptwriter
+86,黄浩华,9,scriptwriter
+87,史蒂夫·迪特寇,9,scriptwriter
+88,成龙,9,scriptwriter
+89,邹凯光,9,scriptwriter
+90,尼尔·珀维斯,9,scriptwriter
+91,罗伯特·韦德,9,scriptwriter
+92,贾樟柯,9,scriptwriter
+93,陈凯歌,9,scriptwriter
+94,吕冠南,9,scriptwriter
+95,克里斯托弗·马库斯,9,scriptwriter
+96,斯蒂芬·麦克菲利,9,scriptwriter
+97,杜国威,9,scriptwriter
+98,保罗·安德森,9,scriptwriter
+99,李碧华,8,scriptwriter
+100,斯蒂文·泽里安,8,scriptwriter
+101,安德鲁·斯坦顿,8,scriptwriter
+102,杰夫·内桑森,8,scriptwriter
+103,昆汀·塔伦蒂诺,8,scriptwriter
+104,周星驰,8,scriptwriter
+105,陈文强,8,scriptwriter
+106,霍昕,8,scriptwriter
+107,是枝裕和,8,scriptwriter
+108,雷·沃纳尔,8,scriptwriter
+109,图里奥·皮内利,8,scriptwriter
+110,恩尼奥·弗拉亚诺,8,scriptwriter
+111,罗耀辉,8,scriptwriter
+112,阿斯哈·法哈蒂,8,scriptwriter
+113,洪常秀,8,scriptwriter
+114,D·B·威斯,8,scriptwriter
+115,乔治·马丁,8,scriptwriter
+116,盖瑞·斯科特·汤普森,8,scriptwriter
+117,大卫·林奇,8,scriptwriter
+118,伊桑·科恩,8,scriptwriter
+119,邢爱娜,8,scriptwriter
+120,陈大利,8,scriptwriter
+121,拉斯·冯·提尔,8,scriptwriter
+122,欧健儿,8,scriptwriter
+123,黄子桓,8,scriptwriter
+124,克里斯托弗·麦奎里,8,scriptwriter
+125,梁鸿华,8,scriptwriter
+126,叶广俭,8,scriptwriter
+127,艾瑞克·罗斯,7,scriptwriter
+128,詹姆斯·卡梅隆,7,scriptwriter
+129,彼特·道格特,7,scriptwriter
+130,弗朗西斯·福特·科波拉,7,scriptwriter
+131,史蒂夫·克洛夫斯,7,scriptwriter
+132,弗兰·威尔士,7,scriptwriter
+133,菲利帕·鲍恩斯,7,scriptwriter
+134,彼得·杰克逊,7,scriptwriter
+135,莉莉·沃卓斯基,7,scriptwriter
+136,拉娜·沃卓斯基,7,scriptwriter
+137,詹姆斯·夏慕斯,7,scriptwriter
+138,阿齐瓦·高斯曼,7,scriptwriter
+139,盖·里奇,7,scriptwriter
+140,王朔,7,scriptwriter
+141,肯·道里欧,7,scriptwriter
+142,辛科·保罗,7,scriptwriter
+143,桥本忍,7,scriptwriter
+144,托尼·吉尔罗伊,7,scriptwriter
+145,金庸,7,scriptwriter
+146,鲍勃·凯恩,7,scriptwriter
+147,何冀平,7,scriptwriter
+148,徐芸,7,scriptwriter
+149,郭敬明,7,scriptwriter
+150,赛尔乔·阿米德伊,7,scriptwriter
+151,川口松太郎,7,scriptwriter
+152,杰里·西格尔,7,scriptwriter
+153,乔·舒斯特,7,scriptwriter
+154,王思敏,7,scriptwriter
+155,谢尔盖·爱森斯坦,7,scriptwriter
+156,查尔斯·贝内特,7,scriptwriter
+157,李仁港,7,scriptwriter
+158,杨倩玲,7,scriptwriter
+159,克里斯·摩根,7,scriptwriter
+160,苏照彬,7,scriptwriter
+161,劳伦斯·卡斯丹,7,scriptwriter
+162,托尼诺·格拉,7,scriptwriter
+163,司徒慧焯,7,scriptwriter
+164,菊岛隆三,7,scriptwriter
+165,皮埃尔·布尔,7,scriptwriter
+166,马伟豪,7,scriptwriter
+167,陈文贵,7,scriptwriter
+168,罗纳德·舒塞特,7,scriptwriter
+169,罗伯托·奥奇,7,scriptwriter
+170,弗兰克·米勒,7,scriptwriter
+171,秦天南,7,scriptwriter
+172,朱塞佩·托纳多雷,6,scriptwriter
+173,J. R. R. 托尔金,6,scriptwriter
+174,鲍勃·彼德森,6,scriptwriter
+175,姜文,6,scriptwriter
+176,述平,6,scriptwriter
+177,郭俊立,6,scriptwriter
+178,琳达·伍尔芙顿,6,scriptwriter
+179,王蕙玲,6,scriptwriter
+180,卢恰诺·温琴佐尼,6,scriptwriter
+181,赛尔乔·莱昂内,6,scriptwriter
+182,奉俊昊,6,scriptwriter
+183,斯图尔特·贝亚蒂耶,6,scriptwriter
+184,李力持,6,scriptwriter
+185,约翰·拉塞特,6,scriptwriter
+186,扎克·佩恩,6,scriptwriter
+187,温子仁,6,scriptwriter
+188,罗启锐,6,scriptwriter
+189,宁浩,6,scriptwriter
+190,高畑勋,6,scriptwriter
+191,万秦,6,scriptwriter
+192,弗朗索瓦·特吕弗,6,scriptwriter
+193,让·科克托,6,scriptwriter
+194,邵丽琼,6,scriptwriter
+195,俞白眉,6,scriptwriter
+196,威廉·莎士比亚,6,scriptwriter
+197,亚当·麦凯,6,scriptwriter
+198,保罗·施拉德,6,scriptwriter
+199,布鲁诺·杜蒙,6,scriptwriter
+200,陈果,6,scriptwriter
+201,吉姆·贾木许,6,scriptwriter
+202,切萨雷·扎瓦蒂尼,6,scriptwriter
+203,陈木胜,6,scriptwriter
+204,管虎,6,scriptwriter
+205,伊伦·克鲁格,6,scriptwriter
+206,让-克劳德·卡里埃尔,6,scriptwriter
+207,梁礼彦,6,scriptwriter
+208,郭子健,6,scriptwriter
+209,斯科特·弗兰克,6,scriptwriter
+210,扎克·施奈德,6,scriptwriter
+211,犬冢稔,6,scriptwriter
+212,马丁·斯科塞斯,6,scriptwriter
+213,冲方丁,6,scriptwriter
+214,埃里克·侯麦,6,scriptwriter
+215,清水崇,6,scriptwriter
+216,叶念琛,6,scriptwriter
+217,彭顺,6,scriptwriter
+218,马克·鲍姆贝克,6,scriptwriter
+219,Eliot Stannard,6,scriptwriter
+220,西蒙·金伯格,6,scriptwriter
+221,李思臻,6,scriptwriter
+222,冯小刚,6,scriptwriter
+223,方令正,6,scriptwriter
+224,関沢新一,6,scriptwriter
+225,陈淑贤,6,scriptwriter
+226,陈国富,6,scriptwriter
+227,埃德加·赖特,6,scriptwriter
+228,严歌苓,6,scriptwriter
+229,林岭东,6,scriptwriter
+230,约翰·洛根,6,scriptwriter
+231,乔纳森·阿贝尔,6,scriptwriter
+232,格伦·伯杰,6,scriptwriter
+233,丁晟,6,scriptwriter
+234,叶天成,6,scriptwriter
+235,张志成,6,scriptwriter
+236,丹·欧班农,6,scriptwriter
+237,朱延平,6,scriptwriter
+238,艾里克斯·库兹曼,6,scriptwriter
+239,新藤兼人,5,scriptwriter
+240,乔纳森·诺兰,5,scriptwriter
+241,安德鲁·尼科尔,5,scriptwriter
+242,黄东赫,5,scriptwriter
+243,马里奥·普佐,5,scriptwriter
+244,艾琳·梅琪,5,scriptwriter
+245,恩斯特·莱赫曼,5,scriptwriter
+246,韦斯·安德森,5,scriptwriter
+247,M·奈特·沙马兰,5,scriptwriter
+248,理查德·林克莱特,5,scriptwriter
+249,北野武,5,scriptwriter
+250,罗伯特·L·贝尔德,5,scriptwriter
+251,阮继志,5,scriptwriter
+252,岸西,5,scriptwriter
+253,理查德·柯蒂斯,5,scriptwriter
+254,瑞特·里斯,5,scriptwriter
+255,约翰·奥古斯特,5,scriptwriter
+256,姜炯哲,5,scriptwriter
+257,罗伯特·鲁德鲁姆,5,scriptwriter
+258,高志森,5,scriptwriter
+259,岳小军,5,scriptwriter
+260,比尔·芬格,5,scriptwriter
+261,汤姆·提克威,5,scriptwriter
+262,罗兰·艾默里奇,5,scriptwriter
+263,斯派克·琼斯,5,scriptwriter
+264,普雷斯顿·莱西,5,scriptwriter
+265,克里斯·麦克纳,5,scriptwriter
+266,埃里克·萨默斯,5,scriptwriter
+267,薛晓路,5,scriptwriter
+268,保罗·托马斯·安德森,5,scriptwriter
+269,包蕾,5,scriptwriter
+270,胡金铨,5,scriptwriter
+271,丁善玺,5,scriptwriter
+272,李志毅,5,scriptwriter
+273,迈克尔·鲍威尔,5,scriptwriter
+274,乔·斯派茨,5,scriptwriter
+275,滨口龙介,5,scriptwriter
+276,于勇敢,5,scriptwriter
+277,和月伸宏,5,scriptwriter
+278,迈克尔·威尔逊,5,scriptwriter
+279,尼克·帕克,5,scriptwriter
+280,杰弗里·M·霍华德,5,scriptwriter
+281,泰勒·谢里丹,5,scriptwriter
+282,黑泽清,5,scriptwriter
+283,克里斯·特里奥,5,scriptwriter
+284,布鲁内洛·龙迪,5,scriptwriter
+285,迈克尔·道赫蒂,5,scriptwriter
+286,查理·考夫曼,5,scriptwriter
+287,李沧东,5,scriptwriter
+288,保罗·舒尔灵,5,scriptwriter
+289,里克·杰法,5,scriptwriter
+290,阿曼达·斯尔沃,5,scriptwriter
+291,潘垒,5,scriptwriter
+292,埃里克·海瑟尔,5,scriptwriter
+293,神山健治,5,scriptwriter
+294,李荣章,5,scriptwriter
+295,荒井晴彦,5,scriptwriter
+296,德里克·康纳利,5,scriptwriter
+297,琼·哈里森,5,scriptwriter
+298,约翰·科里,5,scriptwriter
+299,比利·雷,5,scriptwriter
+300,斯科特·罗森伯格,5,scriptwriter
+301,高桥留美子,5,scriptwriter
+302,马克·弗罗斯特,5,scriptwriter
+303,田羽生,5,scriptwriter
+304,达伦·莱姆克,5,scriptwriter
+305,陈国辉,5,scriptwriter
+306,张肇麟,5,scriptwriter
+307,布莱恩·海尔格兰德,5,scriptwriter
+308,吉姆·托马斯,5,scriptwriter
+309,约翰·托马斯,5,scriptwriter
+310,山田洋次,5,scriptwriter
+311,平松惠美子,5,scriptwriter
+312,黄鹰,5,scriptwriter
+313,本多猪四郎,5,scriptwriter
+314,迈克尔·克莱顿,5,scriptwriter
+315,崔斯韦,5,scriptwriter
+316,张志光,5,scriptwriter
+317,埃文·达赫迪,5,scriptwriter
+318,大卫·里恩,5,scriptwriter
+319,陆以心,5,scriptwriter
+320,何东,5,scriptwriter
+321,郑忠泰,5,scriptwriter
+322,束焕,5,scriptwriter
+323,迈克尔·格林,5,scriptwriter
+324,傅立,5,scriptwriter
+325,简·古德曼,5,scriptwriter
+326,比尔·科拉奇,5,scriptwriter
+327,亚当·库珀,5,scriptwriter
+328,埃文·斯彼里奥托普洛斯,5,scriptwriter
+329,丹·吉尔罗伊,5,scriptwriter
+330,詹姆士·V·哈特,5,scriptwriter
+331,罗伯特·泽米吉斯,5,scriptwriter
+332,李敏才,5,scriptwriter
+333,克日什托夫·皮耶谢维奇,5,scriptwriter
+334,秋婷,5,scriptwriter
+335,程孝泽,5,scriptwriter
+336,汪海林,5,scriptwriter
+337,黄永辉,5,scriptwriter
+338,黄宏基,5,scriptwriter
+339,谢立文,5,scriptwriter
+340,乔纳森·汉斯雷,5,scriptwriter
+341,尼古拉斯·斯托勒,5,scriptwriter
+342,梅莉莎·罗森伯格,5,scriptwriter
+343,安德鲁·亚当森,5,scriptwriter
+344,马楚成,5,scriptwriter
+345,迈克尔·G·威尔森,5,scriptwriter
+346,刘恒,5,scriptwriter
+347,郑丹瑞,5,scriptwriter
+348,丹·福格尔曼,5,scriptwriter
+349,科马克·韦伯利,5,scriptwriter
+350,玛丽安·韦伯利,5,scriptwriter
+351,吴峥,5,scriptwriter
+352,弗兰克·德拉邦特,4,scriptwriter
+353,吉姆·里尔顿,4,scriptwriter
+354,珍妮弗·李,4,scriptwriter
+355,汤姆·麦卡锡,4,scriptwriter
+356,彼得·法雷里,4,scriptwriter
+357,岩井俊二,4,scriptwriter
+358,马克·蒙雷,4,scriptwriter
+359,今敏,4,scriptwriter
+360,蒂姆·波顿,4,scriptwriter
+361,森淳一,4,scriptwriter
+362,五十岚大介,4,scriptwriter
+363,丹尼尔·吉尔森,4,scriptwriter
+364,迪恩·德布洛斯,4,scriptwriter
+365,克里斯·桑德斯,4,scriptwriter
+366,迈克尔·伯格,4,scriptwriter
+367,迈克尔·J·威尔森,4,scriptwriter
+368,罗纳德·巴斯,4,scriptwriter
+369,陆川,4,scriptwriter
+370,雅克·贝汉,4,scriptwriter
+371,吴念真,4,scriptwriter
+372,约翰尼·诺克斯维尔,4,scriptwriter
+373,梁乐民,4,scriptwriter
+374,德里克·科尔斯塔,4,scriptwriter
+375,弗朗索瓦·欧容,4,scriptwriter
+376,瑟琳·席安玛,4,scriptwriter
+377,唐季礼,4,scriptwriter
+378,李媛,4,scriptwriter
+379,何可可,4,scriptwriter
+380,徐峥,4,scriptwriter
+381,冲田修一,4,scriptwriter
+382,叶伟信,4,scriptwriter
+383,罗维,4,scriptwriter
+384,江扬,4,scriptwriter
+385,凯莉·马塞尔,4,scriptwriter
+386,青山刚昌,4,scriptwriter
+387,特瑞·吉列姆,4,scriptwriter
+388,埃默里克·普雷斯伯格,4,scriptwriter
+389,苏索·切基·达米科,4,scriptwriter
+390,村上春树,4,scriptwriter
+391,尼克·申克,4,scriptwriter
+392,阿城,4,scriptwriter
+393,雷蒙德·钱德勒,4,scriptwriter
+394,安德烈·塔可夫斯基,4,scriptwriter
+395,詹姆斯·古恩,4,scriptwriter
+396,菲利普·加瑞尔,4,scriptwriter
+397,弗朗西斯·皮克罗,4,scriptwriter
+398,李平分,4,scriptwriter
+399,艾莉森·斯诺登,4,scriptwriter
+400,张艺谋,4,scriptwriter
+401,隅沢克之,4,scriptwriter
+402,艾伦·索金,4,scriptwriter
+403,陶秦,4,scriptwriter
+404,藤子·F·不二雄,4,scriptwriter
+405,沟口健二,4,scriptwriter
+406,崔铁志,4,scriptwriter
+407,陈舒,4,scriptwriter
+408,久板荣二郎,4,scriptwriter
+409,韩延,4,scriptwriter
+410,大鹏,4,scriptwriter
+411,邱礼涛,4,scriptwriter
+412,列夫·托尔斯泰,4,scriptwriter
+413,奥逊·威尔斯,4,scriptwriter
+414,靳蜀美,4,scriptwriter
+415,保罗·韦尼克,4,scriptwriter
+416,冉平,4,scriptwriter
+417,冉甲男,4,scriptwriter
+418,张冀,4,scriptwriter
+419,浅井昭三郎,4,scriptwriter
+420,大卫·H·斯坦伯格,4,scriptwriter
+421,尹志文,4,scriptwriter
+422,马克·伯顿,4,scriptwriter
+423,亚历山大·佩恩,4,scriptwriter
+424,苏珊娜·格兰特,4,scriptwriter
+425,魏德圣,4,scriptwriter
+426,林纪陶,4,scriptwriter
+427,陈咏燊,4,scriptwriter
+428,詹姆斯·范德比尔特,4,scriptwriter
+429,格伦·摩根,4,scriptwriter
+430,让·奥朗什,4,scriptwriter
+431,朴赞郁,4,scriptwriter
+432,皮埃尔·保罗·帕索里尼,4,scriptwriter
+433,杜致朗,4,scriptwriter
+434,林超贤,4,scriptwriter
+435,马克斯韦尔·安德森,4,scriptwriter
+436,安格斯·麦克费尔,4,scriptwriter
+437,J·J·艾布拉姆斯,4,scriptwriter
+438,杰夫·皮克纳,4,scriptwriter
+439,彭发,4,scriptwriter
+440,彭柏成,4,scriptwriter
+441,刁亦男,4,scriptwriter
+442,许月珍,4,scriptwriter
+443,布莱恩·林奇,4,scriptwriter
+444,陈德森,4,scriptwriter
+445,马特·霍洛维,4,scriptwriter
+446,阿特·马库姆,4,scriptwriter
+447,大卫·杜西,4,scriptwriter
+448,江玉仪,4,scriptwriter
+449,吴楠,4,scriptwriter
+450,瑞恩·库格勒,4,scriptwriter
+451,罗尔德·达尔,4,scriptwriter
+452,东野圭吾,4,scriptwriter
+453,凌志民,4,scriptwriter
+454,大卫·莱斯利·约翰逊-麦戈德里克,4,scriptwriter
+455,大森一树,4,scriptwriter
+456,马克·斯蒂文·约翰逊,4,scriptwriter
+457,张永祥,4,scriptwriter
+458,乔治·克莱顿·约翰逊,4,scriptwriter
+459,布鲁斯·盖勒,4,scriptwriter
+460,刘永健,4,scriptwriter
+461,麦曦茵,4,scriptwriter
+462,乔·霍贝尔,4,scriptwriter
+463,埃里希·霍贝尔,4,scriptwriter
+464,徐小明,4,scriptwriter
+465,布拉德·伯德,4,scriptwriter
+466,斯科特·纽斯塔德,4,scriptwriter
+467,迈克尔·H·韦伯,4,scriptwriter
+468,张杨,4,scriptwriter
+469,乔斯·韦登,4,scriptwriter
+470,西蒙·佩吉,4,scriptwriter
+471,梁咏梅,4,scriptwriter
+472,大卫·N·怀特,4,scriptwriter
+473,马修·沃恩,4,scriptwriter
+474,迪安·德夫林,4,scriptwriter
+475,菲利普·迪克,4,scriptwriter
+476,真边克彦,4,scriptwriter
+477,理查德·温克,4,scriptwriter
+478,张挺,4,scriptwriter
+479,路易斯·布努埃尔,4,scriptwriter
+480,卡洛·伯纳德,4,scriptwriter
+481,道格·米洛,4,scriptwriter
+482,孙仲,4,scriptwriter
+483,伦·怀斯曼,4,scriptwriter
+484,鲁俊谷,4,scriptwriter
+485,J·迈克尔·斯特拉辛斯基,4,scriptwriter
+486,理查德·麦瑟森,4,scriptwriter
+487,鲍勃·盖尔,4,scriptwriter
+488,汤姆·罗杰斯,4,scriptwriter
+489,至尊玉,4,scriptwriter
+490,特德·西尔斯,4,scriptwriter
+491,彼得·本奇利,4,scriptwriter
+492,迭戈·法布里,4,scriptwriter
+493,许冠文,4,scriptwriter
+494,亚当·赫兹,4,scriptwriter
+495,斯蒂芬妮·梅耶,4,scriptwriter
+496,罗锦辉,4,scriptwriter
+497,大卫·阿耶,4,scriptwriter
+498,胡耀辉,4,scriptwriter
+499,林超荣,4,scriptwriter
+500,陈十三,4,scriptwriter
+501,琼瑶,4,scriptwriter
+502,陈冠中,4,scriptwriter
+503,埃里克·达尼尔,4,scriptwriter
+504,刘家良,4,scriptwriter
+505,劳伦斯·康纳尔,4,scriptwriter
+506,陈汗,4,scriptwriter
+507,尹济均,4,scriptwriter
+508,Craig Hutchinson,4,scriptwriter
+509,迈克尔·弗朗斯,4,scriptwriter
+510,萧若元,4,scriptwriter
+511,鲍兹·亚金,4,scriptwriter
+512,帕特里克·梅尔顿,4,scriptwriter
+513,马库斯·邓斯坦,4,scriptwriter
+514,保罗·戴恩,4,scriptwriter
+515,杰弗里·雷迪克,4,scriptwriter
+516,约翰·汉博格,4,scriptwriter
+517,邝文伟,4,scriptwriter
+518,王兴东,4,scriptwriter
+519,林爱华,4,scriptwriter
+520,斯蒂芬·E.德·索萨,4,scriptwriter
+521,艾尔弗雷德·高福,4,scriptwriter
+522,迈尔斯·米勒,4,scriptwriter
+523,保罗·哈吉斯,4,scriptwriter
+524,乔·斯蒂尔曼,4,scriptwriter
+525,郭在容,4,scriptwriter
+526,斯基普·伍兹,4,scriptwriter
+527,李炯楷,4,scriptwriter
+528,罗伯茨·甘纳韦,4,scriptwriter
+529,卡梅伦·克罗,4,scriptwriter
+530,巩向东,4,scriptwriter
+531,马切拉·马里亚尼,4,scriptwriter
+532,Luciano Scaffa,4,scriptwriter
+533,芦苇,3,scriptwriter
+534,勒·惠勒,3,scriptwriter
+535,瑞奇·摩尔,3,scriptwriter
+536,杰拉德·布什,3,scriptwriter
+537,菲尔·约翰斯顿,3,scriptwriter
+538,阿加莎·克里斯蒂,3,scriptwriter
+539,斯蒂夫·康拉德,3,scriptwriter
+540,李·昂克里奇,3,scriptwriter
+541,乔·斯沃林,3,scriptwriter
+542,博·古德曼,3,scriptwriter
+543,罗纳德·哈伍德,3,scriptwriter
+544,杨宇硕,3,scriptwriter
+545,李安,3,scriptwriter
+546,弗洛里安·亨克尔·冯·多纳斯马尔克,3,scriptwriter
+547,奥里奥尔·保罗,3,scriptwriter
+548,托马斯·哈里斯,3,scriptwriter
+549,埃里克·布雷斯,3,scriptwriter
+550,杰·沃尔伯特,3,scriptwriter
+551,托马斯·温特伯格,3,scriptwriter
+552,刘英雅,3,scriptwriter
+553,卡罗琳·汤普森,3,scriptwriter
+554,金·克里桑,3,scriptwriter
+555,约翰·李·汉考克,3,scriptwriter
+556,丹羽圭子,3,scriptwriter
+557,葛蕾熙达·柯维尔,3,scriptwriter
+558,迈克尔·阿恩特,3,scriptwriter
+559,简·奥斯汀,3,scriptwriter
+560,村井贞之,3,scriptwriter
+561,梅格·勒福夫,3,scriptwriter
+562,新海诚,3,scriptwriter
+563,乔治·诺非,3,scriptwriter
+564,张婉婷,3,scriptwriter
+565,西蒙·博福伊,3,scriptwriter
+566,张爱玲,3,scriptwriter
+567,张承,3,scriptwriter
+568,彼得·阿克曼,3,scriptwriter
+569,约翰·J·麦克劳克林,3,scriptwriter
+570,黄信尧,3,scriptwriter
+571,安东尼·麦卡滕,3,scriptwriter
+572,乔治·米勒,3,scriptwriter
+573,罗伯特·E·舍伍德,3,scriptwriter
+574,查尔斯·里维特,3,scriptwriter
+575,约翰·卡尼,3,scriptwriter
+576,乔希·辛格,3,scriptwriter
+577,维杰耶德拉·普拉萨德,3,scriptwriter
+578,乔治·加洛,3,scriptwriter
+579,袁牧之,3,scriptwriter
+580,马特·里夫斯,3,scriptwriter
+581,萨缪尔·A·泰勒,3,scriptwriter
+582,中野量太,3,scriptwriter
+583,蒋琳,3,scriptwriter
+584,邢文雄,3,scriptwriter
+585,尼克·霍恩比,3,scriptwriter
+586,杰夫·特里梅因,3,scriptwriter
+587,黄海,3,scriptwriter
+588,潘依然,3,scriptwriter
+589,舒兰,3,scriptwriter
+590,大友克洋,3,scriptwriter
+591,托尼·库什纳,3,scriptwriter
+592,朱尔斯·福瑟曼,3,scriptwriter
+593,冯德伦,3,scriptwriter
+594,诺埃尔·考沃德,3,scriptwriter
+595,简·坎皮恩,3,scriptwriter
+596,柯达,3,scriptwriter
+597,林炳宝,3,scriptwriter
+598,韦辛,3,scriptwriter
+599,罗曼·科波拉,3,scriptwriter
+600,彼得·贝恩汉姆,3,scriptwriter
+601,约瑟夫·L·曼凯维奇,3,scriptwriter
+602,王鹏展,3,scriptwriter
+603,王川,3,scriptwriter
+604,田博,3,scriptwriter
+605,戴夫·卡拉汉姆,3,scriptwriter
+606,吉姆·斯特林,3,scriptwriter
+607,朱利安·杜维威尔,3,scriptwriter
+608,桂治洪,3,scriptwriter
+609,山姆森·雷佛森,3,scriptwriter
+610,维姆·文德斯,3,scriptwriter
+611,柳昇完,3,scriptwriter
+612,李唯,3,scriptwriter
+613,唐耀良,3,scriptwriter
+614,舒琪,3,scriptwriter
+615,朱天文,3,scriptwriter
+616,深田晃司,3,scriptwriter
+617,琳恩·拉姆塞,3,scriptwriter
+618,坂元裕二,3,scriptwriter
+619,吴兵,3,scriptwriter
+620,大友启史,3,scriptwriter
+621,阿莱特·朗曼,3,scriptwriter
+622,埃里克·皮尔森,3,scriptwriter
+623,史超,3,scriptwriter
+624,王军,3,scriptwriter
+625,鲁道夫·索内戈,3,scriptwriter
+626,理查德·斯塔扎克,3,scriptwriter
+627,罗伯·达德利,3,scriptwriter
+628,卡洛·利扎尼,3,scriptwriter
+629,翁子光,3,scriptwriter
+630,成泽昌茂,3,scriptwriter
+631,饶晓志,3,scriptwriter
+632,麦克·怀特,3,scriptwriter
+633,奥古斯托·吉尼那,3,scriptwriter
+634,秦海燕,3,scriptwriter
+635,路阳,3,scriptwriter
+636,威尔·比尔,3,scriptwriter
+637,基尔·默里,3,scriptwriter
+638,麦克思·鲍伦斯坦,3,scriptwriter
+639,斯派克·李,3,scriptwriter
+640,奥利佛·斯通,3,scriptwriter
+641,杨薇薇,3,scriptwriter
+642,弗兰克·皮尔森,3,scriptwriter
+643,凯莉·莱卡特,3,scriptwriter
+644,尼古拉斯·派勒吉,3,scriptwriter
+645,威廉姆·高德曼,3,scriptwriter
+646,霍华德·塞克勒,3,scriptwriter
+647,李·哈尔,3,scriptwriter
+648,凯瑞·柯克帕特里克,3,scriptwriter
+649,克里斯·马克,3,scriptwriter
+650,莫里·里斯金德,3,scriptwriter
+651,申江,3,scriptwriter
+652,阿杰诺雷·因克罗奇,3,scriptwriter
+653,富里奥·斯卡佩利,3,scriptwriter
+654,一濑隆重,3,scriptwriter
+655,藤咲淳一,3,scriptwriter
+656,樱井圭记,3,scriptwriter
+657,菅正太郎,3,scriptwriter
+658,格斯·范·桑特,3,scriptwriter
+659,黄毅瑜,3,scriptwriter
+660,路易斯·卡罗尔,3,scriptwriter
+661,阿方索·卡隆,3,scriptwriter
+662,塔伊加·维迪提,3,scriptwriter
+663,希尔万·肖默,3,scriptwriter
+664,格里高利·亚历山德罗夫,3,scriptwriter
+665,达芙妮·杜穆里埃,3,scriptwriter
+666,约翰·迈克尔·海耶斯,3,scriptwriter
+667,龙文康,3,scriptwriter
+668,乔·卡纳汉,3,scriptwriter
+669,罗恩·谢尔顿,3,scriptwriter
+670,詹姆斯·布里狄,3,scriptwriter
+671,港岳彦,3,scriptwriter
+672,布拉德·科普兰,3,scriptwriter
+673,科林·特雷沃罗,3,scriptwriter
+674,格蕾塔·葛韦格,3,scriptwriter
+675,查尔斯·伦道夫,3,scriptwriter
+676,伊恩·海伊,3,scriptwriter
+677,丹·戈登,3,scriptwriter
+678,乔什·弗莱德曼,3,scriptwriter
+679,饶雪漫,3,scriptwriter
+680,杰斯·巴特沃斯,3,scriptwriter
+681,许伊萌,3,scriptwriter
+682,文宁,3,scriptwriter
+683,诺亚·鲍姆巴赫,3,scriptwriter
+684,莱恩·约翰逊,3,scriptwriter
+685,加里·多伯曼,3,scriptwriter
+686,冢本晋也,3,scriptwriter
+687,罗志良,3,scriptwriter
+688,约翰·福斯克,3,scriptwriter
+689,罗伯特·恩格斯,3,scriptwriter
+690,哈利·佩顿,3,scriptwriter
+691,关皓月,3,scriptwriter
+692,劳威尔·坎宁安,3,scriptwriter
+693,张艾嘉,3,scriptwriter
+694,董润年,3,scriptwriter
+695,何文龙,3,scriptwriter
+696,尼科尔·帕尔曼,3,scriptwriter
+697,大森立嗣,3,scriptwriter
+698,菲尔·罗德,3,scriptwriter
+699,小泉德宏,3,scriptwriter
+700,韩寒,3,scriptwriter
+701,曾咏婷,3,scriptwriter
+702,菲利普·考夫曼,3,scriptwriter
+703,非行,3,scriptwriter
+704,刘毅,3,scriptwriter
+705,柏原宽司,3,scriptwriter
+706,罗德尼·罗斯曼,3,scriptwriter
+707,丹尼·麦克布莱德,3,scriptwriter
+708,Brett Hoffman,3,scriptwriter
+709,大卫·芬,3,scriptwriter
+710,A·A·米尔恩,3,scriptwriter
+711,金容华,3,scriptwriter
+712,牛新瑶,3,scriptwriter
+713,马修·卡索维茨,3,scriptwriter
+714,林展伟,3,scriptwriter
+715,帕米拉·里本,3,scriptwriter
+716,查慕春,3,scriptwriter
+717,盖瑞·罗斯,3,scriptwriter
+718,杰克·戈登·拉塞尔,3,scriptwriter
+719,罗曼·波兰斯基,3,scriptwriter
+720,唐·莱默,3,scriptwriter
+721,迪恩·乔格瑞斯,3,scriptwriter
+722,井手雅人,3,scriptwriter
+723,吉田玲子,3,scriptwriter
+724,山本周五郎,3,scriptwriter
+725,高飞,3,scriptwriter
+726,哈智超,3,scriptwriter
+727,徐浩峰,3,scriptwriter
+728,苏亮,3,scriptwriter
+729,陈勋奇,3,scriptwriter
+730,查尔斯·狄更斯,3,scriptwriter
+731,T·S·诺林,3,scriptwriter
+732,任鹏,3,scriptwriter
+733,肯·诺兰,3,scriptwriter
+734,特拉维斯·比彻姆,3,scriptwriter
+735,陈思诚,3,scriptwriter
+736,杨雅喆,3,scriptwriter
+737,李佳颖,3,scriptwriter
+738,梁耀明,3,scriptwriter
+739,约翰·弗朗西斯·戴利,3,scriptwriter
+740,乔纳森·M·戈尔茨坦,3,scriptwriter
+741,魏君子,3,scriptwriter
+742,区华汉,3,scriptwriter
+743,马克·米勒,3,scriptwriter
+744,Céline Garcia,3,scriptwriter
+745,塞斯·罗根,3,scriptwriter
+746,埃文·戈德堡,3,scriptwriter
+747,拉里·利伯,3,scriptwriter
+748,汤姆·希克斯,3,scriptwriter
+749,埃丽卡·里维诺亚,3,scriptwriter
+750,亚当·桑德勒,3,scriptwriter
+751,西尾维新,3,scriptwriter
+752,蔡骏,3,scriptwriter
+753,施扬平,3,scriptwriter
+754,卢正雨,3,scriptwriter
+755,提尔莫·舍罗,3,scriptwriter
+756,米格尔·戈麦斯,3,scriptwriter
+757,马里亚娜·里卡多,3,scriptwriter
+758,麦天枢,3,scriptwriter
+759,S·S·拉贾穆里,3,scriptwriter
+760,埃尔莫·伦纳德,3,scriptwriter
+761,爱德华·兹威克,3,scriptwriter
+762,陆剑青,3,scriptwriter
+763,卢陵,3,scriptwriter
+764,罗恩·克莱蒙兹,3,scriptwriter
+765,约翰·马斯克,3,scriptwriter
+766,安东尼·明格拉,3,scriptwriter
+767,吉列尔莫·阿里亚加,3,scriptwriter
+768,格洛丽亚·卡茨,3,scriptwriter
+769,威拉德·赫依克,3,scriptwriter
+770,吉田修一,3,scriptwriter
+771,约翰·盖汀斯,3,scriptwriter
+772,园子温,3,scriptwriter
+773,凯文·格雷维奥斯,3,scriptwriter
+774,梅丽莎·马西森,3,scriptwriter
+775,诺亚·奥本海姆,3,scriptwriter
+776,内森·帕克,3,scriptwriter
+777,J·M·巴利,3,scriptwriter
+778,汤姆·斯托帕德,3,scriptwriter
+779,门诺·迈依杰斯,3,scriptwriter
+780,克雷格·麦辛,3,scriptwriter
+781,比尔·莫兹,3,scriptwriter
+782,鲍勃·罗斯,3,scriptwriter
+783,刘大木,3,scriptwriter
+784,朱塞佩·德·桑蒂斯,3,scriptwriter
+785,Homer Brightman,3,scriptwriter
+786,高群书,3,scriptwriter
+787,海岩,3,scriptwriter
+788,洪金宝,3,scriptwriter
+789,袁锦麟,3,scriptwriter
+790,卡尔·哥特列布,3,scriptwriter
+791,金基德,3,scriptwriter
+792,郭伟钟,3,scriptwriter
+793,罗伯特·罗德里格兹,3,scriptwriter
+794,陈伟斌,3,scriptwriter
+795,井上梅次,3,scriptwriter
+796,九把刀,3,scriptwriter
+797,钟继昌,3,scriptwriter
+798,王芸,3,scriptwriter
+799,布莱恩·辛格,3,scriptwriter
+800,丹·哈里斯,3,scriptwriter
+801,陈丽华,3,scriptwriter
+802,丹·布朗,3,scriptwriter
+803,陈慧如,3,scriptwriter
+804,张之亮,3,scriptwriter
+805,马志宇,3,scriptwriter
+806,林少枝,3,scriptwriter
+807,关颂玲,3,scriptwriter
+808,马荣成,3,scriptwriter
+809,陈曼玲,3,scriptwriter
+810,马克·森内特,3,scriptwriter
+811,申东益,3,scriptwriter
+812,马克·罗森塔尔,3,scriptwriter
+813,陈锦昌,3,scriptwriter
+814,霍辛·阿米尼,3,scriptwriter
+815,迈克·里斯,3,scriptwriter
+816,大卫·纽曼,3,scriptwriter
+817,梅布尔·诺曼德,3,scriptwriter
+818,温瑞安,3,scriptwriter
+819,徐静蕾,3,scriptwriter
+820,袁若光,3,scriptwriter
+821,西恩·安德斯,3,scriptwriter
+822,麦当雄,3,scriptwriter
+823,迈克尔·巴考尔,3,scriptwriter
+824,约翰·维蒂,3,scriptwriter
+825,肖恩·萨莱诺,3,scriptwriter
+826,卢坚,3,scriptwriter
+827,杰弗里·普赖斯,3,scriptwriter
+828,彼得·S·西曼,3,scriptwriter
+829,乔什·阿佩尔鲍姆,3,scriptwriter
+830,安德烈·内梅克,3,scriptwriter
+831,曾莉婷,3,scriptwriter
+832,马克·劳伦斯,3,scriptwriter
+833,C·S·刘易斯,3,scriptwriter
+834,史晨赟,3,scriptwriter
+835,潇雅,3,scriptwriter
+836,彼得·高尔克,3,scriptwriter
+837,格里·斯沃洛,3,scriptwriter
+838,麦克·韦柏,3,scriptwriter
+839,J·大卫·斯提姆,3,scriptwriter
+840,戴维·N·韦斯,3,scriptwriter
+841,大卫·马梅,3,scriptwriter
+842,邓力奇,3,scriptwriter
+843,苏文星,3,scriptwriter
+844,博比·法雷里,3,scriptwriter
+845,宁财神,3,scriptwriter
+846,朱苹,3,scriptwriter
+847,汤姆·曼凯维奇,3,scriptwriter
+848,威廉·史塔克,3,scriptwriter
+849,罗杰·S·H·舒尔曼,3,scriptwriter
+850,约翰娜·哈伍德,3,scriptwriter
+851,汤姆·麦格拉思,3,scriptwriter
+852,吉姆·卡什,3,scriptwriter
+853,迈克尔·迈纳,3,scriptwriter
+854,爱德华·诺麦尔,3,scriptwriter
+855,马俪文,3,scriptwriter
+856,许安,3,scriptwriter
+857,曾国赐,3,scriptwriter
+858,佩吉·霍姆斯,3,scriptwriter
+859,华萱,3,scriptwriter
+860,杰布·斯图尔特,3,scriptwriter
+861,克里斯·米勒,3,scriptwriter
+862,马克·耐沃尔代,3,scriptwriter
+863,格雷戈里·波伊莱尔,3,scriptwriter
+864,袁和平,3,scriptwriter
+865,威廉·乔西,3,scriptwriter
+866,罗伯特·高洛斯,3,scriptwriter
+867,郭筝,3,scriptwriter
+868,吴文辉,3,scriptwriter
+869,郑怀兴,3,scriptwriter
+870,郑宜庸,3,scriptwriter
+871,王莉芝,3,scriptwriter
+872,马帅,3,scriptwriter
+873,李浩群,3,scriptwriter
+874,夏尔·斯巴克,3,scriptwriter
+875,安东尼奥·彼得兰杰利,3,scriptwriter
+876,马歇尔·布瑞克曼,3,scriptwriter
+877,比尔·皮特,3,scriptwriter
+878,池田忠雄,3,scriptwriter
+879,拉吉库马尔·希拉尼,2,scriptwriter
+880,阿希贾特·乔希,2,scriptwriter
+881,拜伦·霍华德,2,scriptwriter
+882,乔西·特立尼达,2,scriptwriter
+883,孔枝泳,2,scriptwriter
+884,奥利维埃·纳卡什,2,scriptwriter
+885,埃里克·托莱达诺,2,scriptwriter
+886,贝纳尔多·贝托鲁奇,2,scriptwriter
+887,阿德里安·莫利纳,2,scriptwriter
+888,约翰·范·德鲁登,2,scriptwriter
+889,金成旭,2,scriptwriter
+890,钟伟,2,scriptwriter
+891,文牧野,2,scriptwriter
+892,娜丁·拉巴基,2,scriptwriter
+893,吉哈德·霍加里,2,scriptwriter
+894,米歇尔·凯斯沃尼,2,scriptwriter
+895,乔治斯·哈巴兹,2,scriptwriter
+896,哈立德·穆扎纳,2,scriptwriter
+897,雷金纳德·罗斯,2,scriptwriter
+898,黛安娜·温恩·琼斯,2,scriptwriter
+899,大卫·麦基,2,scriptwriter
+900,史建全,2,scriptwriter
+901,吴承恩,2,scriptwriter
+902,达尔顿·特朗勃,2,scriptwriter
+903,约翰·戴顿,2,scriptwriter
+904,朱苏进,2,scriptwriter
+905,尹贤浩,2,scriptwriter
+906,乔纳森·罗伯特,2,scriptwriter
+907,罗宾·史威考德,2,scriptwriter
+908,约翰·伯恩,2,scriptwriter
+909,马基德·马基迪,2,scriptwriter
+910,泰德·塔里,2,scriptwriter
+911,莱塔·卡罗格里迪斯,2,scriptwriter
+912,丹尼斯·勒翰,2,scriptwriter
+913,雨果·吉尼斯,2,scriptwriter
+914,恩里科·梅迪欧力,2,scriptwriter
+915,J·麦基·格鲁伯,2,scriptwriter
+916,本·阿弗莱克,2,scriptwriter
+917,马特·达蒙,2,scriptwriter
+918,郑文辉,2,scriptwriter
+919,冯勉恒,2,scriptwriter
+920,金光林,2,scriptwriter
+921,沈成宝,2,scriptwriter
+922,中岛哲也,2,scriptwriter
+923,水上清资,2,scriptwriter
+924,筒井康隆,2,scriptwriter
+925,托比亚斯·林道赫姆,2,scriptwriter
+926,李焕庆,2,scriptwriter
+927,纪尧姆·洛朗,2,scriptwriter
+928,让-皮埃尔·热内,2,scriptwriter
+929,杨德昌,2,scriptwriter
+930,吉莉恩·弗林,2,scriptwriter
+931,朱莉·德尔佩,2,scriptwriter
+932,伊桑·霍克,2,scriptwriter
+933,柊葵,2,scriptwriter
+934,萨沙·杰瓦西,2,scriptwriter
+935,绿川幸,2,scriptwriter
+936,威廉姆·戴维斯,2,scriptwriter
+937,亚当·艾略特,2,scriptwriter
+938,吉尔·卡尔顿,2,scriptwriter
+939,李炳宪,2,scriptwriter
+940,延尚昊,2,scriptwriter
+941,韩珍元,2,scriptwriter
+942,金秉祐,2,scriptwriter
+943,王树忱,2,scriptwriter
+944,杰茜·尼尔森,2,scriptwriter
+945,马丁·麦克唐纳,2,scriptwriter
+946,柯克·德·米科,2,scriptwriter
+947,约翰·克里斯,2,scriptwriter
+948,斯科特·Z·本恩斯,2,scriptwriter
+949,梁淑华,2,scriptwriter
+950,忻钰坤,2,scriptwriter
+951,冯元良,2,scriptwriter
+952,秦小珍,2,scriptwriter
+953,达米恩·查泽雷,2,scriptwriter
+954,贾里德·斯特恩,2,scriptwriter
+955,克里斯托弗·史密斯,2,scriptwriter
+956,杰里米·莱文,2,scriptwriter
+957,老舍,2,scriptwriter
+958,热拉尔·乌里,2,scriptwriter
+959,达妮埃尔·汤普森,2,scriptwriter
+960,史蒂文·斯皮尔伯格,2,scriptwriter
+961,斯蒂芬·卓博斯基,2,scriptwriter
+962,托德·菲利普斯,2,scriptwriter
+963,斯科特·西尔弗,2,scriptwriter
+964,皮特·摩根,2,scriptwriter
+965,乔治·弗罗斯切尔,2,scriptwriter
+966,詹姆斯·沃德·布柯特,2,scriptwriter
+967,雅克·克鲁奥德,2,scriptwriter
+968,斯特凡纳·迪朗,2,scriptwriter
+969,麦克·琼斯,2,scriptwriter
+970,凯普·鲍尔斯,2,scriptwriter
+971,奥寺佐渡子,2,scriptwriter
+972,安德鲁·伯金,2,scriptwriter
+973,贝尔恩德·艾辛格,2,scriptwriter
+974,德鲁·戈达德,2,scriptwriter
+975,戴维·黑尔,2,scriptwriter
+976,周申,2,scriptwriter
+977,刘露,2,scriptwriter
+978,修梦迪,2,scriptwriter
+979,乔治·阿克塞尔罗德,2,scriptwriter
+980,彼得·克莱格,2,scriptwriter
+981,赵婷,2,scriptwriter
+982,帕特里克·伯利,2,scriptwriter
+983,莫斯·哈特,2,scriptwriter
+984,哈洛德·克卢瑟,2,scriptwriter
+985,郝杰,2,scriptwriter
+986,戴夫·英格兰,2,scriptwriter
+987,班姆·玛吉瑞,2,scriptwriter
+988,艾伦·麦格海,2,scriptwriter
+989,克里斯·庞蒂斯,2,scriptwriter
+990,史蒂夫,2,scriptwriter
+991,范文文,2,scriptwriter
+992,克劳德·德吉弗雷,2,scriptwriter
+993,Bernard Revon,2,scriptwriter
+994,手冢治虫,2,scriptwriter
+995,付丹迪,2,scriptwriter
+996,刘迟,2,scriptwriter
+997,陈珠珠,2,scriptwriter
+998,亚瑟·劳伦特斯,2,scriptwriter
+999,罗伯特·里斯金,2,scriptwriter
+1000,马克斯·科尔佩,2,scriptwriter
+1001,里则林,2,scriptwriter
+1002,乔安娜·霍格,2,scriptwriter
+1003,诺曼·赖利·雷恩,2,scriptwriter
+1004,雅克·舍费尔,2,scriptwriter
+1005,夏侯云姗,2,scriptwriter
+1006,莫非,2,scriptwriter
+1007,菲利普·皮亚佐,2,scriptwriter
+1008,宫藤官九郎,2,scriptwriter
+1009,凯里·威尔逊,2,scriptwriter
+1010,李鹏,2,scriptwriter
+1011,刘吾驷,2,scriptwriter
+1012,杨梅媛,2,scriptwriter
+1013,罗伯特·布列松,2,scriptwriter
+1014,加斯·詹宁斯,2,scriptwriter
+1015,龙比意,2,scriptwriter
+1016,吉姆·赫克特,2,scriptwriter
+1017,萨姆·佩金帕,2,scriptwriter
+1018,兰晓龙,2,scriptwriter
+1019,阿彼察邦·韦拉斯哈古,2,scriptwriter
+1020,托马斯·彼得葛恩,2,scriptwriter
+1021,维尔戈特·斯耶曼,2,scriptwriter
+1022,郭一路,2,scriptwriter
+1023,温琴佐·塔拉里科,2,scriptwriter
+1024,Brock Yates,2,scriptwriter
+1025,大卫·伯克,2,scriptwriter
+1026,林-曼努尔·米兰达,2,scriptwriter
+1027,庵野秀明,2,scriptwriter
+1028,特伟,2,scriptwriter
+1029,詹森·舒瓦兹曼,2,scriptwriter
+1030,莎拉·史密斯,2,scriptwriter
+1031,沃尔克·施隆多夫,2,scriptwriter
+1032,I·A·L·戴蒙德,2,scriptwriter
+1033,冯小宁,2,scriptwriter
+1034,克里斯托弗·兰登,2,scriptwriter
+1035,奥伦·佩利,2,scriptwriter
+1036,欧内斯特·海明威,2,scriptwriter
+1037,凯瑞·福永,2,scriptwriter
+1038,阿基·考里斯马基,2,scriptwriter
+1039,马华,2,scriptwriter
+1040,德斯汀·克里顿,2,scriptwriter
+1041,陈白尘,2,scriptwriter
+1042,鲁迅,2,scriptwriter
+1043,樱井武晴,2,scriptwriter
+1044,何梦华,2,scriptwriter
+1045,托尼·格里索尼,2,scriptwriter
+1046,亚力克斯·考克斯,2,scriptwriter
+1047,克洛德·夏布洛尔,2,scriptwriter
+1048,蔡楚生,2,scriptwriter
+1049,郑君里,2,scriptwriter
+1050,丹尼斯·维伦纽瓦,2,scriptwriter
+1051,朱利亚·迪库诺,2,scriptwriter
+1052,西川美和,2,scriptwriter
+1053,戴夫·希尔,2,scriptwriter
+1054,布莱恩·考格曼,2,scriptwriter
+1055,维托里奥·德西卡,2,scriptwriter
+1056,奥雷斯特·比安科利,2,scriptwriter
+1057,斯蒂芬·苏斯科,2,scriptwriter
+1058,余曦,2,scriptwriter
+1059,相泽虎之助,2,scriptwriter
+1060,大林宣彦,2,scriptwriter
+1061,侯孝贤,2,scriptwriter
+1062,大毛,2,scriptwriter
+1063,Don Houghton,2,scriptwriter
+1064,王小棣,2,scriptwriter
+1065,宋纮,2,scriptwriter
+1066,王云飞,2,scriptwriter
+1067,布拉德·英格尔斯比,2,scriptwriter
+1068,黄蜀芹,2,scriptwriter
+1069,李子羽,2,scriptwriter
+1070,达纳·福克斯,2,scriptwriter
+1071,托尼·麦克纳马拉,2,scriptwriter
+1072,艾莲·布洛什·麦肯纳,2,scriptwriter
+1073,傅凯羚,2,scriptwriter
+1074,克里斯蒂娜·霍德森,2,scriptwriter
+1075,迈克尔·海尔,2,scriptwriter
+1076,陈玉勋,2,scriptwriter
+1077,雷内·克莱尔,2,scriptwriter
+1078,西德尼·巴克曼,2,scriptwriter
+1079,汪梨,2,scriptwriter
+1080,陈哲艺,2,scriptwriter
+1081,卡尔·福尔曼,2,scriptwriter
+1082,埃莱娜·费兰特,2,scriptwriter
+1083,劳拉·保卢奇,2,scriptwriter
+1084,萨维里奥·科斯坦佐,2,scriptwriter
+1085,郑宜迅,2,scriptwriter
+1086,池田千寻,2,scriptwriter
+1087,张影,2,scriptwriter
+1088,威尔·古勒,2,scriptwriter
+1089,碧翠丝·波特,2,scriptwriter
+1090,内德·本森,2,scriptwriter
+1091,让-皮埃尔·达内,2,scriptwriter
+1092,吕克·达内,2,scriptwriter
+1093,巴西利奥·弗兰基纳,2,scriptwriter
+1094,Anna Benevuti,2,scriptwriter
+1095,马塞洛·巴格利埃罗,2,scriptwriter
+1096,瓦斯科·普拉托里尼,2,scriptwriter
+1097,胡雪桦,2,scriptwriter
+1098,虹影,2,scriptwriter
+1099,庞贝,2,scriptwriter
+1100,约翰·卡拉辛斯基,2,scriptwriter
+1101,斯科特·贝克,2,scriptwriter
+1102,布莱恩·伍兹,2,scriptwriter
+1103,杰西·安德鲁斯,2,scriptwriter
+1104,陈健鸿,2,scriptwriter
+1105,汤姆·弗林,2,scriptwriter
+1106,保罗·拉弗蒂,2,scriptwriter
+1107,乔什·斯托博格,2,scriptwriter
+1108,皮特·古德芬格,2,scriptwriter
+1109,亨利·让松,2,scriptwriter
+1110,蒂姆·米勒,2,scriptwriter
+1111,约翰·斯卡尔齐,2,scriptwriter
+1112,乔·R·兰斯代尔,2,scriptwriter
+1113,J·G·巴拉德,2,scriptwriter
+1114,艾瑞克·贝斯纳,2,scriptwriter
+1115,马恩·戴维斯,2,scriptwriter
+1116,伊凡·阿特金森,2,scriptwriter
+1117,游晓颖,2,scriptwriter
+1118,大卫·戈登·格林,2,scriptwriter
+1119,巴斯特·基顿,2,scriptwriter
+1120,克莱德·布鲁克曼,2,scriptwriter
+1121,斯蒂芬·加汉,2,scriptwriter
+1122,威尔·麦克马克,2,scriptwriter
+1123,Alessandro De Stefani,2,scriptwriter
+1124,Edoardo Anton,2,scriptwriter
+1125,禹扬,2,scriptwriter
+1126,野原位,2,scriptwriter
+1127,尼古拉斯·贝多斯,2,scriptwriter
+1128,奥古斯特·威尔逊,2,scriptwriter
+1129,克里斯托弗·汉普顿,2,scriptwriter
+1130,大和屋晓,2,scriptwriter
+1131,阿黛勒·林,2,scriptwriter
+1132,唐·霍尔,2,scriptwriter
+1133,扎克·希尔兹,2,scriptwriter
+1134,奥古斯特·布里多,2,scriptwriter
+1135,拉杜·裘德,2,scriptwriter
+1136,约翰·休斯顿,2,scriptwriter
+1137,达希尔·哈米特,2,scriptwriter
+1138,李晗,2,scriptwriter
+1139,原健一郎,2,scriptwriter
+1140,真山青果,2,scriptwriter
+1141,程伟豪,2,scriptwriter
+1142,陈彦齐,2,scriptwriter
+1143,凯文·威尔默特,2,scriptwriter
+1144,李昇,2,scriptwriter
+1145,辻村深月,2,scriptwriter
+1146,高桥泉,2,scriptwriter
+1147,米洛斯·福尔曼,2,scriptwriter
+1148,雅罗斯拉夫·帕布塞科,2,scriptwriter
+1149,冷旭阳,2,scriptwriter
+1150,泉镜花,2,scriptwriter
+1151,高島達之助,2,scriptwriter
+1152,迈克尔·西米诺,2,scriptwriter
+1153,彼得·威尔,2,scriptwriter
+1154,落落,2,scriptwriter
+1155,浅野妙子,2,scriptwriter
+1156,胜新太郎,2,scriptwriter
+1157,乔夫·琼斯,2,scriptwriter
+1158,丹·哈格曼,2,scriptwriter
+1159,凯文·哈格曼,2,scriptwriter
+1160,直居欽哉,2,scriptwriter
+1161,钟孟宏,2,scriptwriter
+1162,乔纳森·雷蒙德,2,scriptwriter
+1163,罗纳德·布隆斯坦,2,scriptwriter
+1164,约书亚·萨弗迪,2,scriptwriter
+1165,吉田哲郎,2,scriptwriter
+1166,猿若清方,2,scriptwriter
+1167,雅克·贝克,2,scriptwriter
+1168,何塞·乔凡尼,2,scriptwriter
+1169,弗朗西斯·李,2,scriptwriter
+1170,笠原良三,2,scriptwriter
+1171,万玛才旦,2,scriptwriter
+1172,卡尔·西奥多·德莱叶,2,scriptwriter
+1173,周运海,2,scriptwriter
+1174,星川清司,2,scriptwriter
+1175,威利斯·霍尔,2,scriptwriter
+1176,基斯·沃特豪斯,2,scriptwriter
+1177,约翰·斯坦贝克,2,scriptwriter
+1178,布鲁斯·罗宾逊,2,scriptwriter
+1179,帕迪·查耶夫斯基,2,scriptwriter
+1180,Elmer Plummer,2,scriptwriter
+1181,普莱斯顿·斯特奇斯,2,scriptwriter
+1182,吉姆·泰勒,2,scriptwriter
+1183,迈克尔·夏邦,2,scriptwriter
+1184,丹·斯坎隆,2,scriptwriter
+1185,布鲁斯·A·埃文斯,2,scriptwriter
+1186,高桥洋,2,scriptwriter
+1187,杰夫·瓦德洛,2,scriptwriter
+1188,雅克·塔蒂,2,scriptwriter
+1189,菊池宽,2,scriptwriter
+1190,佐藤大,2,scriptwriter
+1191,尼尔·乔丹,2,scriptwriter
+1192,大卫·利兰,2,scriptwriter
+1193,Simon Ellis,2,scriptwriter
+1194,迈克·李,2,scriptwriter
+1195,彼得·格林纳威,2,scriptwriter
+1196,雷德利·斯科特,2,scriptwriter
+1197,丹尼尔·希尔,2,scriptwriter
+1198,彼得·穆兰,2,scriptwriter
+1199,南尼·莫莱蒂,2,scriptwriter
+1200,伊藤和典,2,scriptwriter
+1201,安德里亚·阿诺德,2,scriptwriter
+1202,安娜-玛丽·米埃维尔,2,scriptwriter
+1203,大岛渚,2,scriptwriter
+1204,彭秀慧,2,scriptwriter
+1205,利·布拉克特,2,scriptwriter
+1206,押井守,2,scriptwriter
+1207,兹旦内克·斯维拉克,2,scriptwriter
+1208,潘源良,2,scriptwriter
+1209,安东尼·沙弗尼,2,scriptwriter
+1210,麦婉欣,2,scriptwriter
+1211,杰伊·普莱森·艾伦,2,scriptwriter
+1212,佩德罗·阿莫多瓦,2,scriptwriter
+1213,蔡澜,2,scriptwriter
+1214,尼克·桑多拉,2,scriptwriter
+1215,亚历克·科佩尔,2,scriptwriter
+1216,郑思杰,2,scriptwriter
+1217,杰里·斯塔尔,2,scriptwriter
+1218,查尔斯·贝矶,2,scriptwriter
+1219,小克莱伯·门多萨,2,scriptwriter
+1220,惠特菲尔德·库克,2,scriptwriter
+1221,派翠西亚·海史密斯,2,scriptwriter
+1222,拉纳尔德·麦克杜格尔,2,scriptwriter
+1223,休姆·克罗宁,2,scriptwriter
+1224,真利子哲也,2,scriptwriter
+1225,王泽,2,scriptwriter
+1226,钱江汉,2,scriptwriter
+1227,佩德罗·科斯塔,2,scriptwriter
+1228,克里斯·巴克,2,scriptwriter
+1229,西德尼·吉里亚特,2,scriptwriter
+1230,布莱恩·德·帕尔玛,2,scriptwriter
+1231,杨子,2,scriptwriter
+1232,中岛京子,2,scriptwriter
+1233,海伦·辛普森,2,scriptwriter
+1234,约瑟夫·康拉德,2,scriptwriter
+1235,古泽良太,2,scriptwriter
+1236,大卫·莫瑞尔,2,scriptwriter
+1237,威廉·萨默塞特·毛姆,2,scriptwriter
+1238,李非,2,scriptwriter
+1239,尾田荣一郎,2,scriptwriter
+1240,恩斯特·马里施卡,2,scriptwriter
+1241,约翰-亨利·巴特沃斯,2,scriptwriter
+1242,林咏琛,2,scriptwriter
+1243,大宽,2,scriptwriter
+1244,大广,2,scriptwriter
+1245,Walter C. Mycroft,2,scriptwriter
+1246,朱利安·费罗斯,2,scriptwriter
+1247,萧伯纳,2,scriptwriter
+1248,徐磊,2,scriptwriter
+1249,曾国祥,2,scriptwriter
+1250,野木亚纪子,2,scriptwriter
+1251,吉姆·汤普森,2,scriptwriter
+1252,阿尔贝托·拉图瓦达,2,scriptwriter
+1253,申捷,2,scriptwriter
+1254,吴孟璋,2,scriptwriter
+1255,W.C.菲尔兹,2,scriptwriter
+1256,斯科特·罗思曼,2,scriptwriter
+1257,拉吉夫·约瑟夫,2,scriptwriter
+1258,德鲁·皮尔斯,2,scriptwriter
+1259,艾迪·哈萨克,2,scriptwriter
+1260,吕莳媛,2,scriptwriter
+1261,赛尔乔·多纳蒂,2,scriptwriter
+1262,麦克·宾德尔,2,scriptwriter
+1263,克里斯·克雷蒙,2,scriptwriter
+1264,戴夫·科克勒姆,2,scriptwriter
+1265,濑濑敬久,2,scriptwriter
+1266,朗斯·尼美毕达,2,scriptwriter
+1267,邓汉强,2,scriptwriter
+1268,W·布鲁斯·卡梅伦,2,scriptwriter
+1269,玛雅·福布斯,2,scriptwriter
+1270,凯瑟琳·迈克,2,scriptwriter
+1271,达娜·史蒂文斯,2,scriptwriter
+1272,章笛沙,2,scriptwriter
+1273,李悦,2,scriptwriter
+1274,饺子,2,scriptwriter
+1275,田中幸子,2,scriptwriter
+1276,戴维·朗格利,2,scriptwriter
+1277,郑重,2,scriptwriter
+1278,刘伯翰,2,scriptwriter
+1279,Robert Garland,2,scriptwriter
+1280,沃伦·格林,2,scriptwriter
+1281,孙小杭,2,scriptwriter
+1282,苏斯博士,2,scriptwriter
+1283,刘震云,2,scriptwriter
+1284,毕赣,2,scriptwriter
+1285,吉内瓦·德沃莱特-罗宾森,2,scriptwriter
+1286,毕必成,2,scriptwriter
+1287,石康,2,scriptwriter
+1288,迈克尔·帕林,2,scriptwriter
+1289,乔丹·皮尔,2,scriptwriter
+1290,佐藤泰志,2,scriptwriter
+1291,克里斯托弗·米勒,2,scriptwriter
+1292,梅峰,2,scriptwriter
+1293,马英力,2,scriptwriter
+1294,卞智洪,2,scriptwriter
+1295,布拉吉·F·舒特,2,scriptwriter
+1296,孙悦,2,scriptwriter
+1297,黄继柔,2,scriptwriter
+1298,横谷昌宏,2,scriptwriter
+1299,三村渉,2,scriptwriter
+1300,卡尔德·威灵汉姆,2,scriptwriter
+1301,赫伯特·乔治·威尔斯,2,scriptwriter
+1302,伊明,2,scriptwriter
+1303,巴里·詹金斯,2,scriptwriter
+1304,沈炯来,2,scriptwriter
+1305,李潇,2,scriptwriter
+1306,弗莱德·戴克尔,2,scriptwriter
+1307,艾莉森·施罗德,2,scriptwriter
+1308,福田纯,2,scriptwriter
+1309,雷志龙,2,scriptwriter
+1310,迈克尔·麦库勒斯,2,scriptwriter
+1311,田纳西·威廉斯,2,scriptwriter
+1312,焦华静,2,scriptwriter
+1313,唐·赫兹菲尔德,2,scriptwriter
+1314,关泽新一,2,scriptwriter
+1315,高煜浩,2,scriptwriter
+1316,杨宁,2,scriptwriter
+1317,李震霄,2,scriptwriter
+1318,杰·朗吉诺,2,scriptwriter
+1319,馬淵薫,2,scriptwriter
+1320,詹姆斯·阿什莫尔·克里尔曼,2,scriptwriter
+1321,帕维乌·帕夫利科夫斯基,2,scriptwriter
+1322,安徒生,2,scriptwriter
+1323,许圣雨,2,scriptwriter
+1324,彼得·基亚雷利,2,scriptwriter
+1325,闫非,2,scriptwriter
+1326,彭大魔,2,scriptwriter
+1327,村田武雄,2,scriptwriter
+1328,保罗·路德,2,scriptwriter
+1329,郑芬芬,2,scriptwriter
+1330,古怒田健志,2,scriptwriter
+1331,林国樑,2,scriptwriter
+1332,贡敏,2,scriptwriter
+1333,虞戡平,2,scriptwriter
+1334,金炫锡,2,scriptwriter
+1335,朴尚渊,2,scriptwriter
+1336,冈田麿里,2,scriptwriter
+1337,末次由纪,2,scriptwriter
+1338,顾小白,2,scriptwriter
+1339,雷米,2,scriptwriter
+1340,柴红兵,2,scriptwriter
+1341,凯·加农,2,scriptwriter
+1342,米奇·拉普金,2,scriptwriter
+1343,江波,2,scriptwriter
+1344,姚庆康,2,scriptwriter
+1345,约书亚·祖特曼,2,scriptwriter
+1346,保罗·塔马西,2,scriptwriter
+1347,埃瑞克·约翰逊,2,scriptwriter
+1348,瑞安·恩格尔,2,scriptwriter
+1349,乔羽,2,scriptwriter
+1350,高田亮,2,scriptwriter
+1351,皮埃尔·布瓦洛,2,scriptwriter
+1352,托马·纳西雅克,2,scriptwriter
+1353,亨利-乔治·克鲁佐,2,scriptwriter
+1354,老晃,2,scriptwriter
+1355,张小北,2,scriptwriter
+1356,庄澄,2,scriptwriter
+1357,费奥多尔·陀思妥耶夫斯基,2,scriptwriter
+1358,袁媛,2,scriptwriter
+1359,何昕明,2,scriptwriter
+1360,瓦内莎·泰勒,2,scriptwriter
+1361,植草圭之助,2,scriptwriter
+1362,埃里克·安卜勒,2,scriptwriter
+1363,凯·沃尔什,2,scriptwriter
+1364,肖恩·贝克,2,scriptwriter
+1365,克里斯·贝格齐,2,scriptwriter
+1366,加藤正人,2,scriptwriter
+1367,詹姆斯·达什纳,2,scriptwriter
+1368,陈正道,2,scriptwriter
+1369,埃里克·辛格尔,2,scriptwriter
+1370,鲁本·奥斯特伦德,2,scriptwriter
+1371,富田常雄,2,scriptwriter
+1372,罗纳德·尼姆,2,scriptwriter
+1373,A·哈维洛克-艾伦,2,scriptwriter
+1374,林明杰,2,scriptwriter
+1375,黄进,2,scriptwriter
+1376,程佳客,2,scriptwriter
+1377,威廉·马斯顿,2,scriptwriter
+1378,E·L·詹姆斯,2,scriptwriter
+1379,尼尔·伦纳德,2,scriptwriter
+1380,岸善幸,2,scriptwriter
+1381,寺山修司,2,scriptwriter
+1382,左颂升,2,scriptwriter
+1383,坂口理子,2,scriptwriter
+1384,赖纳·维尔纳·法斯宾德,2,scriptwriter
+1385,十庆,2,scriptwriter
+1386,保罗·莫里西,2,scriptwriter
+1387,布莱姆·斯托克,2,scriptwriter
+1388,博兹·大卫逊,2,scriptwriter
+1389,沈威,2,scriptwriter
+1390,方银振,2,scriptwriter
+1391,丁丁,2,scriptwriter
+1392,纳瓦彭·坦荣瓜塔纳利,2,scriptwriter
+1393,许少飞,2,scriptwriter
+1394,奥黛丽·威尔斯,2,scriptwriter
+1395,比尔·康顿,2,scriptwriter
+1396,黎文卓,2,scriptwriter
+1397,李玉,2,scriptwriter
+1398,曹金玲,2,scriptwriter
+1399,哈维尔·古隆,2,scriptwriter
+1400,陈静仪,2,scriptwriter
+1401,阿尔珀·卡格拉,2,scriptwriter
+1402,卡罗利娜·德吕亚-加雷尔,2,scriptwriter
+1403,拉夫·迪亚兹,2,scriptwriter
+1404,佛罗瑞·加仑伯格,2,scriptwriter
+1405,大卫·柯南伯格,2,scriptwriter
+1406,提姆·赫利希,2,scriptwriter
+1407,林德禄,2,scriptwriter
+1408,吉列尔莫·考尔德隆,2,scriptwriter
+1409,本·奎因,2,scriptwriter
+1410,曹保平,2,scriptwriter
+1411,塞缪尔·富勒,2,scriptwriter
+1412,卢恒宇,2,scriptwriter
+1413,李姝洁,2,scriptwriter
+1414,寒舞,2,scriptwriter
+1415,乔什·贺德,2,scriptwriter
+1416,保罗·索伦蒂诺,2,scriptwriter
+1417,达蒙·林德洛夫,2,scriptwriter
+1418,威廉姆·尼克尔森,2,scriptwriter
+1419,杰夫·斯托克韦尔,2,scriptwriter
+1420,皮埃尔·若利韦,2,scriptwriter
+1421,罗伯特·斯密戈尔,2,scriptwriter
+1422,托德·杜伦,2,scriptwriter
+1423,阿瑟·柯南·道尔,2,scriptwriter
+1424,贾斯丁·马科斯,2,scriptwriter
+1425,拉迪亚德·吉普林,2,scriptwriter
+1426,杰克·帕格恩,2,scriptwriter
+1427,西奥多·梅尔菲,2,scriptwriter
+1428,朱岩,2,scriptwriter
+1429,赵英俊,2,scriptwriter
+1430,马德汉·卡尔基,2,scriptwriter
+1431,C·H·维杰·库马尔,2,scriptwriter
+1432,马努杰·芒塔希尔,2,scriptwriter
+1433,稻垣浩,2,scriptwriter
+1434,若尾德平,2,scriptwriter
+1435,约翰·霍奇,2,scriptwriter
+1436,埃文·威尔什,2,scriptwriter
+1437,小嶋健作,2,scriptwriter
+1438,松冈锭司,2,scriptwriter
+1439,马歇尔·赫斯科维兹,2,scriptwriter
+1440,佩约,2,scriptwriter
+1441,何妙祺,2,scriptwriter
+1442,李海蜀,2,scriptwriter
+1443,黄彦威,2,scriptwriter
+1444,贾森·福克斯,2,scriptwriter
+1445,赛斯·格雷厄姆-史密斯,2,scriptwriter
+1446,克里斯·威廉姆斯,2,scriptwriter
+1447,珍妮-玛丽·勒普兰斯·德博蒙,2,scriptwriter
+1448,黄修平,2,scriptwriter
+1449,陈心遥,2,scriptwriter
+1450,托马斯·迪恩·唐纳利,2,scriptwriter
+1451,约书亚·奥本海默,2,scriptwriter
+1452,丹·阿布内特,2,scriptwriter
+1453,安迪·兰宁,2,scriptwriter
+1454,亚历山大·索科洛夫,2,scriptwriter
+1455,李相日,2,scriptwriter
+1456,谭家明,2,scriptwriter
+1457,克里斯·巴特勒,2,scriptwriter
+1458,梅里安·C·库珀,2,scriptwriter
+1459,埃德加·华莱士,2,scriptwriter
+1460,张嘉佳,2,scriptwriter
+1461,查尔斯·莱德勒,2,scriptwriter
+1462,Ian Taylor,2,scriptwriter
+1463,埃德加·赖斯·巴勒斯,2,scriptwriter
+1464,克雷格·布鲁尔,2,scriptwriter
+1465,亚当·科扎德,2,scriptwriter
+1466,科里·古德曼,2,scriptwriter
+1467,林民夫,2,scriptwriter
+1468,彼得·斯坦菲尔德,2,scriptwriter
+1469,吉安弗兰科·罗西,2,scriptwriter
+1470,大卫·弗兰佐尼,2,scriptwriter
+1471,尼克·卡斯特尔,2,scriptwriter
+1472,路易吉·基亚里尼,2,scriptwriter
+1473,张弘毅,2,scriptwriter
+1474,王菊金,2,scriptwriter
+1475,刘小群,2,scriptwriter
+1476,谭惠贞,2,scriptwriter
+1477,杰罗姆·比克斯比,2,scriptwriter
+1478,罗德·塞林,2,scriptwriter
+1479,约翰·米利厄斯,2,scriptwriter
+1480,弗利普·科布勒,2,scriptwriter
+1481,辛迪·马库斯,2,scriptwriter
+1482,宫部美雪,2,scriptwriter
+1483,米娅·汉森-洛夫,2,scriptwriter
+1484,乔·西蒙,2,scriptwriter
+1485,彼得·布奇曼,2,scriptwriter
+1486,克赖顿·罗森博格,2,scriptwriter
+1487,凯特琳·贝内迪克特,2,scriptwriter
+1488,千成日,2,scriptwriter
+1489,埃里奥·贝多利,2,scriptwriter
+1490,索菲亚·科波拉,2,scriptwriter
+1491,厄尔德曼·彭纳,2,scriptwriter
+1492,刘富源,2,scriptwriter
+1493,叶佳,2,scriptwriter
+1494,细田守,2,scriptwriter
+1495,大卫·雷诺兹,2,scriptwriter
+1496,大卫·道金,2,scriptwriter
+1497,李兆基,2,scriptwriter
+1498,阿美,2,scriptwriter
+1499,凯文·贾尔,2,scriptwriter
+1500,泰伦斯·马力克,2,scriptwriter
+1501,米基·罗斯,2,scriptwriter
+1502,周美玲,2,scriptwriter
+1503,凌纾,2,scriptwriter
+1504,丹·马泽,2,scriptwriter
+1505,艾玛·汤普森,2,scriptwriter
+1506,刘天赐,2,scriptwriter
+1507,谭伟成,2,scriptwriter
+1508,王月汀,2,scriptwriter
+1509,伊坦·柯亨,2,scriptwriter
+1510,李百龄,2,scriptwriter
+1511,雷德·卡罗林,2,scriptwriter
+1512,藤井清美,2,scriptwriter
+1513,焦雄屏,2,scriptwriter
+1514,乔·考尼什,2,scriptwriter
+1515,杨树鹏,2,scriptwriter
+1516,吴沧洲,2,scriptwriter
+1517,保罗·塔维亚尼,2,scriptwriter
+1518,维托里奥·塔维亚尼,2,scriptwriter
+1519,卢基诺·维斯康蒂,2,scriptwriter
+1520,王博,2,scriptwriter
+1521,黄育德,2,scriptwriter
+1522,徐达初,2,scriptwriter
+1523,陈晓冰,2,scriptwriter
+1524,李鲁轲,2,scriptwriter
+1525,谢俊源,2,scriptwriter
+1526,胡建新,2,scriptwriter
+1527,关展博,2,scriptwriter
+1528,温丽芳,2,scriptwriter
+1529,栈桥,2,scriptwriter
+1530,赵志坚,2,scriptwriter
+1531,李绮华,2,scriptwriter
+1532,王琛,2,scriptwriter
+1533,石零,2,scriptwriter
+1534,白桦,2,scriptwriter
+1535,杨争光,2,scriptwriter
+1536,张华标,2,scriptwriter
+1537,陈翘英,2,scriptwriter
+1538,Reed Heustis,2,scriptwriter
+1539,达伦·阿伦诺夫斯基,2,scriptwriter
+1540,加里·戈德曼,2,scriptwriter
+1541,罗斯·拉曼纳,2,scriptwriter
+1542,李泰亨,2,scriptwriter
+1543,吉恩·罗登贝瑞,2,scriptwriter
+1544,史蒂夫·欧德科克,2,scriptwriter
+1545,特娅·冯·哈堡,2,scriptwriter
+1546,南燕,2,scriptwriter
+1547,丹尼尔·科恩,2,scriptwriter
+1548,汤姆·沙迪亚克,2,scriptwriter
+1549,格雷古瓦·维涅隆,2,scriptwriter
+1550,欧文杰,2,scriptwriter
+1551,史蒂夫·格伯,2,scriptwriter
+1552,关耀荣,2,scriptwriter
+1553,莱斯利·纽曼,2,scriptwriter
+1554,沃伦·科尔曼,2,scriptwriter
+1555,杨·塞谬尔,2,scriptwriter
+1556,约翰·特曼,2,scriptwriter
+1557,郑昌和,2,scriptwriter
+1558,麦家碧,2,scriptwriter
+1559,陈芯宜,2,scriptwriter
+1560,管娜,2,scriptwriter
+1561,楚克·萨克瑞科,2,scriptwriter
+1562,赵梦,2,scriptwriter
+1563,苏雷什·奈尔,2,scriptwriter
+1564,瑞提什·沙阿,2,scriptwriter
+1565,郑则仕,2,scriptwriter
+1566,马特·萨兹马,2,scriptwriter
+1567,伯克·沙普利斯,2,scriptwriter
+1568,约翰·莫里斯,2,scriptwriter
+1569,罗德里戈·索普,2,scriptwriter
+1570,詹姆斯·艾罗瑞,2,scriptwriter
+1571,詹尼·普奇尼,2,scriptwriter
+1572,唐大年,2,scriptwriter
+1573,陆剑明,2,scriptwriter
+1574,乔伊·奥布莱恩,2,scriptwriter
+1575,陈欣健,2,scriptwriter
+1576,乔纳·希尔,2,scriptwriter
+1577,威廉·萨克雷,2,scriptwriter
+1578,亨利·莱尔曼,2,scriptwriter
+1579,刘奋斗,2,scriptwriter
+1580,蔡尚君,2,scriptwriter
+1581,蔡岳勋,2,scriptwriter
+1582,哈罗德·雷米斯,2,scriptwriter
+1583,张猛,2,scriptwriter
+1584,奈特·法松,2,scriptwriter
+1585,吉姆·拉什,2,scriptwriter
+1586,亚伦·格兹考斯基,2,scriptwriter
+1587,钱文锜,2,scriptwriter
+1588,格里格·伯兰蒂,2,scriptwriter
+1589,贝弗利·克罗斯,2,scriptwriter
+1590,Panna Rittikrai,2,scriptwriter
+1591,加雷斯·埃文斯,2,scriptwriter
+1592,Danny McBride,2,scriptwriter
+1593,努里·比格·锡兰,2,scriptwriter
+1594,埃布鲁·锡兰,2,scriptwriter
+1595,大卫·吉勒,2,scriptwriter
+1596,沃尔特·希尔,2,scriptwriter
+1597,拉里·克莱蒙斯,2,scriptwriter
+1598,肯·安德森,2,scriptwriter
+1599,万斯·格里,2,scriptwriter
+1600,银河创作组,2,scriptwriter
+1601,黄劲辉,2,scriptwriter
+1602,乔恩·卢卡斯,2,scriptwriter
+1603,斯科特·摩尔,2,scriptwriter
+1604,泰德·格里芬,2,scriptwriter
+1605,马维干,2,scriptwriter
+1606,约翰·帕特里克·尚利,2,scriptwriter
+1607,须兰,2,scriptwriter
+1608,韦斯利·斯崔克,2,scriptwriter
+1609,杨庆,2,scriptwriter
+1610,钮承泽,2,scriptwriter
+1611,约翰·威廉·科林顿,2,scriptwriter
+1612,夏尔·佩罗,2,scriptwriter
+1613,胡大为,2,scriptwriter
+1614,小约翰·W·坎贝尔,2,scriptwriter
+1615,朱雅欐,2,scriptwriter
+1616,Oliver Butcher,2,scriptwriter
+1617,Stephen Cornwell,2,scriptwriter
+1618,尤尼·布伦纳,2,scriptwriter
+1619,科马克·麦卡锡,2,scriptwriter
+1620,蒂莫西·哈里斯,2,scriptwriter
+1621,迈克·米格诺拉,2,scriptwriter
+1622,小威廉·保尔斯,2,scriptwriter
+1623,马克·古根海姆,2,scriptwriter
+1624,迈克尔·戈登伯格,2,scriptwriter
+1625,小池一夫,2,scriptwriter
+1626,小岛刚夕,2,scriptwriter
+1627,几米,2,scriptwriter
+1628,吉姆·赫兹菲尔德,2,scriptwriter
+1629,格雷格·格列娜,2,scriptwriter
+1630,玛丽·露丝·克拉克,2,scriptwriter
+1631,迈克尔·科拉里,2,scriptwriter
+1632,林逢,2,scriptwriter
+1633,陈静慧,2,scriptwriter
+1634,何平,2,scriptwriter
+1635,杜欣怡,2,scriptwriter
+1636,杰·舒瑞克,2,scriptwriter
+1637,大卫·隆恩,2,scriptwriter
+1638,高晓松,2,scriptwriter
+1639,阿什利·米勒,2,scriptwriter
+1640,扎克·施坦茨,2,scriptwriter
+1641,唐·佩恩,2,scriptwriter
+1642,马克·波托塞维奇,2,scriptwriter
+1643,李翔,2,scriptwriter
+1644,谢尔顿·特纳,2,scriptwriter
+1645,关信辉,2,scriptwriter
+1646,张佩琼,2,scriptwriter
+1647,科特·维莫,2,scriptwriter
+1648,杨志坚,2,scriptwriter
+1649,李英杰,2,scriptwriter
+1650,黄志,2,scriptwriter
+1651,阿兰·戈达尔,2,scriptwriter
+1652,让-雅克·阿诺,2,scriptwriter
+1653,蔡悦,2,scriptwriter
+1654,冯瑞熊,2,scriptwriter
+1655,詹姆斯·L·布鲁克斯,2,scriptwriter
+1656,钱小蕙,2,scriptwriter
+1657,邓洁明,2,scriptwriter
+1658,莫言,2,scriptwriter
+1659,阿兰·里布,2,scriptwriter
+1660,约瑟夫·巴伯拉,2,scriptwriter
+1661,威廉·汉纳,2,scriptwriter
+1662,黄精甫,2,scriptwriter
+1663,麦浚龙,2,scriptwriter
+1664,迈克尔·彼得罗尼,2,scriptwriter
+1665,陈英雄,2,scriptwriter
+1666,安德鲁·J·科恩,2,scriptwriter
+1667,杜安·阿德勒,2,scriptwriter
+1668,朱利叶斯·J·爱泼斯坦,2,scriptwriter
+1669,菲利普·G·爱泼斯坦,2,scriptwriter
+1670,凯西·罗宾逊,2,scriptwriter
+1671,叶云樵,2,scriptwriter
+1672,伊森·瑞弗,2,scriptwriter
+1673,塞卢斯·沃瑞斯,2,scriptwriter
+1674,李桢凡,2,scriptwriter
+1675,克里斯托弗·伍德,2,scriptwriter
+1676,艾德·索罗门,2,scriptwriter
+1677,大卫·杰克逊,2,scriptwriter
+1678,Ryne Douglas Pearson,2,scriptwriter
+1679,毕飞宇,2,scriptwriter
+1680,史蒂文·索德伯格,2,scriptwriter
+1681,金浩植,2,scriptwriter
+1682,沃伦·埃利斯,2,scriptwriter
+1683,库里·哈米尔,2,scriptwriter
+1684,迈克尔·布拉德特,2,scriptwriter
+1685,德里克·哈斯,2,scriptwriter
+1686,威尔·麦克罗伯,2,scriptwriter
+1687,Chris Viscardi,2,scriptwriter
+1688,伯克利·马瑟,2,scriptwriter
+1689,罗伯特·弗拉哈迪,2,scriptwriter
+1690,杰克·惠廷厄姆,2,scriptwriter
+1691,凯文·麦克格罗瑞,2,scriptwriter
+1692,汉斯·鲍尔,2,scriptwriter
+1693,小杰克·埃普斯,2,scriptwriter
+1694,李保樟,2,scriptwriter
+1695,安东尼·佩卡姆,2,scriptwriter
+1696,麦嘉,2,scriptwriter
+1697,吉姆·科夫,2,scriptwriter
+1698,邓肯·琼斯,2,scriptwriter
+1699,马美萍,2,scriptwriter
+1700,向宏,2,scriptwriter
+1701,杜启华,2,scriptwriter
+1702,劳伦特·考蒂奥德,2,scriptwriter
+1703,朱连·卡邦,2,scriptwriter
+1704,米切尔·卡普勒,2,scriptwriter
+1705,童路,2,scriptwriter
+1706,吴思远,2,scriptwriter
+1707,吴加敏,2,scriptwriter
+1708,唐纳德·奥格登·斯图尔特,2,scriptwriter
+1709,落合正幸,2,scriptwriter
+1710,Gene Quintano,2,scriptwriter
+1711,大卫·海特,2,scriptwriter
+1712,布拉德利·雷蒙德,2,scriptwriter
+1713,蒋丹,2,scriptwriter
+1714,巴兹·鲁赫曼,2,scriptwriter
+1715,罗伯特·斯库利,2,scriptwriter
+1716,马克·麦科克尔,2,scriptwriter
+1717,大卫·韦伯·皮普尔斯,2,scriptwriter
+1718,陈骏霖,2,scriptwriter
+1719,迪亚波罗·科蒂,2,scriptwriter
+1720,梁伟庭,2,scriptwriter
+1721,黄伟健,2,scriptwriter
+1722,迈克尔·刘易斯,2,scriptwriter
+1723,罗伯·爱德华兹,2,scriptwriter
+1724,青木琴美,2,scriptwriter
+1725,威廉·莫纳汉,2,scriptwriter
+1726,妮科尔·杜布克,2,scriptwriter
+1727,布莱恩·霍尔菲尔德,2,scriptwriter
+1728,布莱恩·泰勒,2,scriptwriter
+1729,Evan Spiliotopoulos,2,scriptwriter
+1730,曾志伟,2,scriptwriter
+1731,叶锦鸿,2,scriptwriter
+1732,袁振洋,2,scriptwriter
+1733,邓碧燕,2,scriptwriter
+1734,萧龙,2,scriptwriter
+1735,Yves Coppens,2,scriptwriter
+1736,Rich Burns,2,scriptwriter
+1737,尼基塔·米哈尔科夫,2,scriptwriter
+1738,亚历山大·诺沃托斯基-瓦尔索夫,2,scriptwriter
+1739,弗拉基米尔·莫伊谢延科,2,scriptwriter
+1740,吉姆·戴维斯,2,scriptwriter
+1741,亚历克·索科洛,2,scriptwriter
+1742,杰斯·温菲尔德,2,scriptwriter
+1743,约翰·J·施特劳斯,2,scriptwriter
+1744,布鲁斯·费尔斯坦,2,scriptwriter
+1745,彼得·拉尔德,2,scriptwriter
+1746,凯文·伊斯特曼,2,scriptwriter
+1747,帕米拉·帕特勒,2,scriptwriter
+1748,蔡婷婷,2,scriptwriter
+1749,杰弗里·凯恩,2,scriptwriter
+1750,迈克尔·曼,2,scriptwriter
+1751,安德丽亚·贝尔洛夫,2,scriptwriter
+1752,罗宾·德里斯科尔,2,scriptwriter
+1753,袁大举,2,scriptwriter
+1754,章家瑞,2,scriptwriter
+1755,盛和煜,2,scriptwriter
+1756,罗贯中,2,scriptwriter
+1757,库尔特·约恩斯塔德,2,scriptwriter
+1758,林伟伦,2,scriptwriter
+1759,王红卫,2,scriptwriter
+1760,王要,2,scriptwriter
+1761,朴妍善,2,scriptwriter
+1762,林义雄,2,scriptwriter
+1763,罗伯特·本·加兰特,2,scriptwriter
+1764,托马斯·列农,2,scriptwriter
+1765,周振荣,2,scriptwriter
+1766,郑剑锋,2,scriptwriter
+1767,张同祖,2,scriptwriter
+1768,Jean-Christophe Grangé,2,scriptwriter
+1769,李炯佳,2,scriptwriter
+1770,罗伯特·路易斯·史蒂文森,2,scriptwriter
+1771,何志强,2,scriptwriter
+1772,袁祥仁,2,scriptwriter
+1773,王海峰,2,scriptwriter
+1774,约翰·斯韦特纳姆,2,scriptwriter
+1775,沃尔特·伯恩斯坦,2,scriptwriter
+1776,许英万,2,scriptwriter
+1777,洪允贞,2,scriptwriter
+1778,董熹璇,2,scriptwriter
+1779,让·格吕约尔,2,scriptwriter
+1780,伦佐·罗西里尼,2,scriptwriter
+1781,让·雷诺阿,2,scriptwriter
+1782,Marcella Mariani,2,scriptwriter
+1783,Jean-Dominique de la Rochefoucauld,2,scriptwriter
+1784,维塔利亚诺·布兰卡蒂,2,scriptwriter
+1785,威尔·法瑞尔,2,scriptwriter
+1786,Liana Ferri,2,scriptwriter
+1787,皮埃尔·博斯特,2,scriptwriter
+1788,Félix Morlión,2,scriptwriter
+1789,罗伯特·D·西格尔,2,scriptwriter
+1790,大河内一楼,2,scriptwriter
+1791,加文·胡德,2,scriptwriter
+1792,弗雷德·沃尔夫,2,scriptwriter
+1793,William Cottrell,2,scriptwriter
+1794,小野,2,scriptwriter
+1795,温斯顿·格鲁姆,1,scriptwriter
+1796,温琴佐·切拉米,1,scriptwriter
+1797,罗伯托·贝尼尼,1,scriptwriter
+1798,托马斯·肯尼利,1,scriptwriter
+1799,斯蒂芬·P·林赛,1,scriptwriter
+1800,亚利桑德罗·巴里克,1,scriptwriter
+1801,维德胡·维诺德·乔普拉,1,scriptwriter
+1802,乔治·沙普罗,1,scriptwriter
+1803,诺埃-诺尔,1,scriptwriter
+1804,克里斯托夫·巴拉蒂,1,scriptwriter
+1805,菲利普·洛佩斯-屈瓦尔,1,scriptwriter
+1806,哈里·库尼兹,1,scriptwriter
+1807,罗伯·莱纳,1,scriptwriter
+1808,安德鲁·沙因曼,1,scriptwriter
+1809,文德琳·范·德拉安南,1,scriptwriter
+1810,马克·派普罗,1,scriptwriter
+1811,马修·奥尔德里奇,1,scriptwriter
+1812,詹森·卡茨,1,scriptwriter
+1813,余华,1,scriptwriter
+1814,玛格丽特·米歇尔,1,scriptwriter
+1815,西德尼·霍华德,1,scriptwriter
+1816,奥利弗·H·P·加勒特,1,scriptwriter
+1817,金智慧,1,scriptwriter
+1818,曹重勋,1,scriptwriter
+1819,比于什·古普塔,1,scriptwriter
+1820,施热亚·简,1,scriptwriter
+1821,尼基尔·麦罗特拉,1,scriptwriter
+1822,涅提·蒂瓦里,1,scriptwriter
+1823,韩家女,1,scriptwriter
+1824,扬·马特尔,1,scriptwriter
+1825,尤凤伟,1,scriptwriter
+1826,瓦娜·波利,1,scriptwriter
+1827,斯蒂芬·辛克莱,1,scriptwriter
+1828,乔瓦尼·阿尔皮诺,1,scriptwriter
+1829,伊安·麦克莱伦·亨特,1,scriptwriter
+1830,危笑,1,scriptwriter
+1831,李不空,1,scriptwriter
+1832,马识途,1,scriptwriter
+1833,约翰娜·施皮里,1,scriptwriter
+1834,佩特拉·比翁迪娜·沃尔普,1,scriptwriter
+1835,李克弱,1,scriptwriter
+1836,万籁鸣,1,scriptwriter
+1837,汤姆·舒尔曼,1,scriptwriter
+1838,尼克·瓦莱隆加,1,scriptwriter
+1839,布莱恩·库瑞,1,scriptwriter
+1840,恰克·帕拉尼克,1,scriptwriter
+1841,吉姆·乌尔斯,1,scriptwriter
+1842,西尔维娅·纳萨尔,1,scriptwriter
+1843,F·司各特·菲茨杰拉德,1,scriptwriter
+1844,马克·赫尔曼,1,scriptwriter
+1845,罗伯特·罗达特,1,scriptwriter
+1846,乔治·胡达勒克,1,scriptwriter
+1847,霍华德·林赛,1,scriptwriter
+1848,拉塞尔·克劳斯,1,scriptwriter
+1849,玛丽亚·冯·特拉普,1,scriptwriter
+1850,劳伦斯·奥邦,1,scriptwriter
+1851,肯·凯西,1,scriptwriter
+1852,达尔·瓦瑟曼,1,scriptwriter
+1853,克里斯托弗·普瑞丝特,1,scriptwriter
+1854,斯蒂芬·茨威格,1,scriptwriter
+1855,皮耶罗·德·贝纳迪,1,scriptwriter
+1856,莱奥纳多·本韦努蒂,1,scriptwriter
+1857,弗兰科·奥卡利,1,scriptwriter
+1858,弗兰科·费里尼,1,scriptwriter
+1859,罗杰·阿夫瑞,1,scriptwriter
+1860,安德鲁·凯文·沃克,1,scriptwriter
+1861,梁嘉杰,1,scriptwriter
+1862,迈克尔·库尼,1,scriptwriter
+1863,山田宗树,1,scriptwriter
+1864,卡尔·隆德,1,scriptwriter
+1865,詹姆斯·伊沃里,1,scriptwriter
+1866,兰道尔·华莱士,1,scriptwriter
+1867,拉里·麦克穆特瑞,1,scriptwriter
+1868,黛安娜·奥撒纳,1,scriptwriter
+1869,安妮·普鲁,1,scriptwriter
+1870,小山薰堂,1,scriptwriter
+1871,乔丹·罗伯茨,1,scriptwriter
+1872,玛丽·诺顿,1,scriptwriter
+1873,杰夫·皮金,1,scriptwriter
+1874,拉夫·埃格尔斯顿,1,scriptwriter
+1875,Daniel Wallace,1,scriptwriter
+1876,弗雷德里克·巴克曼,1,scriptwriter
+1877,汉内斯·赫尔姆,1,scriptwriter
+1878,凑佳苗,1,scriptwriter
+1879,黛博拉·莫盖茨,1,scriptwriter
+1880,塞尔希奥·巴勃罗斯,1,scriptwriter
+1881,竹内义和,1,scriptwriter
+1882,安德鲁·奈特,1,scriptwriter
+1883,罗伯特·申坎,1,scriptwriter
+1884,克里斯汀·约翰逊,1,scriptwriter
+1885,恩斯特·克莱恩,1,scriptwriter
+1886,朴勋政,1,scriptwriter
+1887,冯光远,1,scriptwriter
+1888,格拉汉姆·摩尔,1,scriptwriter
+1889,安德鲁·霍奇斯,1,scriptwriter
+1890,罗纳尔多·德尔·卡门,1,scriptwriter
+1891,乔什·库雷,1,scriptwriter
+1892,西蒙·里奇,1,scriptwriter
+1893,比尔·哈德尔,1,scriptwriter
+1894,艾米·波勒,1,scriptwriter
+1895,凯尔·皮尔森,1,scriptwriter
+1896,特瑞·乔治,1,scriptwriter
+1897,克莱格·鲍登,1,scriptwriter
+1898,梅丽莎·沃雷克,1,scriptwriter
+1899,保罗·林斯,1,scriptwriter
+1900,布罗里欧·曼托伐尼,1,scriptwriter
+1901,鲁妮凡,1,scriptwriter
+1902,约瑟夫·斯蒂凡诺,1,scriptwriter
+1903,罗伯特·布洛克,1,scriptwriter
+1904,吉田秋生,1,scriptwriter
+1905,达米安·斯兹弗隆,1,scriptwriter
+1906,维卡斯·史瓦卢普,1,scriptwriter
+1907,约翰·C·赖利,1,scriptwriter
+1908,山姆·J·莱文,1,scriptwriter
+1909,安德雷斯·海因斯,1,scriptwriter
+1910,马克·海曼,1,scriptwriter
+1911,村上修,1,scriptwriter
+1912,神野博明,1,scriptwriter
+1913,宫西达也,1,scriptwriter
+1914,贝蒂·康登,1,scriptwriter
+1915,阿多夫·格林,1,scriptwriter
+1916,亚瑟·克拉克,1,scriptwriter
+1917,巴里·莫罗,1,scriptwriter
+1918,扬·萨尔迪,1,scriptwriter
+1919,尼古拉斯·斯帕克斯,1,scriptwriter
+1920,角野荣子,1,scriptwriter
+1921,野坂昭如,1,scriptwriter
+1922,Harry Clive,1,scriptwriter
+1923,哈里·克罗克,1,scriptwriter
+1924,贾斯汀·扎克汉姆,1,scriptwriter
+1925,马塞尔·朱利安,1,scriptwriter
+1926,乔治·塔贝,1,scriptwriter
+1927,安德烈·塔贝,1,scriptwriter
+1928,赖铭堂,1,scriptwriter
+1929,杨顺清,1,scriptwriter
+1930,鸿鸿,1,scriptwriter
+1931,布莱恩·奥尔迪斯,1,scriptwriter
+1932,伊恩·沃森,1,scriptwriter
+1933,普特鹏·普罗萨卡·那·萨克那卡林,1,scriptwriter
+1934,本·雷普利,1,scriptwriter
+1935,肯尼思·洛纳根,1,scriptwriter
+1936,信本敬子,1,scriptwriter
+1937,芥川龙之介,1,scriptwriter
+1938,孙毅安,1,scriptwriter
+1939,刘醒龙,1,scriptwriter
+1940,小威廉·威谢尔,1,scriptwriter
+1941,杰克·索恩,1,scriptwriter
+1942,R·J·帕拉西奥,1,scriptwriter
+1943,杰瑞·罗宾逊,1,scriptwriter
+1944,艾玛·多诺霍,1,scriptwriter
+1945,布伦丹·麦卡锡,1,scriptwriter
+1946,尼克·拉图里,1,scriptwriter
+1947,塞缪尔·N·贝尔曼,1,scriptwriter
+1948,汉斯·拉莫,1,scriptwriter
+1949,亚历克斯·马努吉安,1,scriptwriter
+1950,威廉·D·威特利夫,1,scriptwriter
+1951,吉姆·哈里森,1,scriptwriter
+1952,苏珊·希利迪,1,scriptwriter
+1953,克里斯托夫·谢松,1,scriptwriter
+1954,洛朗·德巴,1,scriptwriter
+1955,洛朗·戈德,1,scriptwriter
+1956,弗朗索瓦·萨兰诺,1,scriptwriter
+1957,W·布莱克·赫伦,1,scriptwriter
+1958,帕特里克·聚斯金德,1,scriptwriter
+1959,阿莫尔·古普特,1,scriptwriter
+1960,安迪·威尔,1,scriptwriter
+1961,本哈德·施林克,1,scriptwriter
+1962,姜草,1,scriptwriter
+1963,秋昌旼,1,scriptwriter
+1964,保罗·杰诺维塞,1,scriptwriter
+1965,菲利波·博洛尼亚,1,scriptwriter
+1966,保罗·克斯泰拉,1,scriptwriter
+1967,宝拉·马米妮,1,scriptwriter
+1968,罗兰多·拉维洛,1,scriptwriter
+1969,卡莉·克里,1,scriptwriter
+1970,卡比尔·汗,1,scriptwriter
+1971,周楚岑,1,scriptwriter
+1972,韩晓邯,1,scriptwriter
+1973,弗朗塞斯卡·马尼里,1,scriptwriter
+1974,希德尼·希比利亚,1,scriptwriter
+1975,德里克·贾曼,1,scriptwriter
+1976,莱赛尔·萨缪尔斯,1,scriptwriter
+1977,沃尔特·纽曼,1,scriptwriter
+1978,瑞恩·弗雷波,1,scriptwriter
+1979,马修·弗雷波,1,scriptwriter
+1980,伊利亚·卡赞,1,scriptwriter
+1981,钟肇政,1,scriptwriter
+1982,菅野友惠,1,scriptwriter
+1983,理查德·L·布林,1,scriptwriter
+1984,艾米利奥·艾斯特维兹,1,scriptwriter
+1985,杰克·希特,1,scriptwriter
+1986,斯宾塞·科恩,1,scriptwriter
+1987,弗兰克·巴特勒,1,scriptwriter
+1988,弗兰克·卡韦特,1,scriptwriter
+1989,哈利·图根德,1,scriptwriter
+1990,Thomas Monroe,1,scriptwriter
+1991,陈宇,1,scriptwriter
+1992,爱比·希薇亚,1,scriptwriter
+1993,阿奈尔·卡里亚,1,scriptwriter
+1994,里兹·阿迈德,1,scriptwriter
+1995,阿尔贝托·米尔戈,1,scriptwriter
+1996,Jean Aurel,1,scriptwriter
+1997,Marie-France Pisier,1,scriptwriter
+1998,苏珊·席夫曼,1,scriptwriter
+1999,杨静尘,1,scriptwriter
+2000,Cheryl Strayed,1,scriptwriter
+2001,张敏,1,scriptwriter
+2002,阿瑟·温珀里斯,1,scriptwriter
+2003,伊尔佳·佐芬,1,scriptwriter
+2004,沃尔夫冈·科尔哈泽,1,scriptwriter
+2005,郝启田,1,scriptwriter
+2006,杨翠兰,1,scriptwriter
+2007,杰森·阿库纳,1,scriptwriter
+2008,埃里克·安德烈,1,scriptwriter
+2009,德里克·贝克尔斯,1,scriptwriter
+2010,凯蒂·弗林斯,1,scriptwriter
+2011,朱炫,1,scriptwriter
+2012,王亚鹤,1,scriptwriter
+2013,常小琥,1,scriptwriter
+2014,朗·汉森,1,scriptwriter
+2015,吉姆·谢泼德,1,scriptwriter
+2016,菲利普·邓恩,1,scriptwriter
+2017,蔚捷,1,scriptwriter
+2018,横浜聪子,1,scriptwriter
+2019,越谷治,1,scriptwriter
+2020,埃德温·贾斯特斯·迈耶,1,scriptwriter
+2021,弗朗茨·舒尔茨,1,scriptwriter
+2022,罗兆粦,1,scriptwriter
+2023,别克,1,scriptwriter
+2024,赵颢喆,1,scriptwriter
+2025,石之予,1,scriptwriter
+2026,茱莉亚·赵,1,scriptwriter
+2027,莎拉·施特莱歇尔,1,scriptwriter
+2028,沃尔特·瑞奇,1,scriptwriter
+2029,Miguel De Echarri,1,scriptwriter
+2030,Jan Lustig,1,scriptwriter
+2031,Claude-André Puget,1,scriptwriter
+2032,柳青,1,scriptwriter
+2033,张铂雷,1,scriptwriter
+2034,郝哲,1,scriptwriter
+2035,王越,1,scriptwriter
+2036,贝基·琼斯顿,1,scriptwriter
+2037,罗伯托·本提维尼亚,1,scriptwriter
+2038,Sara Gay Forden,1,scriptwriter
+2039,海因茨·海劳尔德,1,scriptwriter
+2040,彼特·卡梅隆,1,scriptwriter
+2041,Mackenzie Dohr,1,scriptwriter
+2042,Laura Donney ,1,scriptwriter
+2043,波巴克-埃斯法尔贾尼,1,scriptwriter
+2044,Cameron Squires,1,scriptwriter
+2045,格雷琴·恩德斯,1,scriptwriter
+2046,Chuck Hayward,1,scriptwriter
+2047,Megan McDonnell,1,scriptwriter
+2048,伊萨克·厄兹本,1,scriptwriter
+2049,阿列克谢·彼得鲁欣,1,scriptwriter
+2050,伊哥·斯坦普陈科,1,scriptwriter
+2051,陈力,1,scriptwriter
+2052,丁涵,1,scriptwriter
+2053,赵哲恩,1,scriptwriter
+2054,Emmanuèle Bernheim,1,scriptwriter
+2055,威廉·安东尼·麦圭尔,1,scriptwriter
+2056,塔尔博特·詹宁斯,1,scriptwriter
+2057,杜如风,1,scriptwriter
+2058,肯尼思·布拉纳,1,scriptwriter
+2059,吉田惠辅,1,scriptwriter
+2060,吉安弗兰科·帕洛里尼,1,scriptwriter
+2061,马里奥·马托利,1,scriptwriter
+2062,雷金纳德·贝克莱,1,scriptwriter
+2063,索恩亚·,1,scriptwriter
+2064,高可,1,scriptwriter
+2065,杨晓明,1,scriptwriter
+2066,岨手由贵子,1,scriptwriter
+2067,山内麻里子,1,scriptwriter
+2068,Bennett Davlin,1,scriptwriter
+2069,保罗·惠勒,1,scriptwriter
+2070,林品君,1,scriptwriter
+2071,柯贞年,1,scriptwriter
+2072,托马斯·萨维奇,1,scriptwriter
+2073,Ray DeLaurentis,1,scriptwriter
+2074,William Schifrin,1,scriptwriter
+2075,里八神,1,scriptwriter
+2076,刘循子墨,1,scriptwriter
+2077,张本煜,1,scriptwriter
+2078,金·摩根,1,scriptwriter
+2079,威廉·林赛·葛雷逊,1,scriptwriter
+2080,戴维·泽拉·古德曼,1,scriptwriter
+2081,Gordon Williams,1,scriptwriter
+2082,李作楠,1,scriptwriter
+2083,邵艺辉,1,scriptwriter
+2084,张彦,1,scriptwriter
+2085,华玮琳,1,scriptwriter
+2086,夏安·海德,1,scriptwriter
+2087,维多利亚·贝多斯,1,scriptwriter
+2088,斯坦尼斯拉斯·卡雷·德·马尔博格,1,scriptwriter
+2089,艾里克·拉缇戈,1,scriptwriter
+2090,奥黛丽·迪万,1,scriptwriter
+2091,玛西娅·罗马诺,1,scriptwriter
+2092,钟菊芳,1,scriptwriter
+2093,史蒂文·莱文森,1,scriptwriter
+2094,乔纳森·拉森,1,scriptwriter
+2095,詹姆斯·格利肯豪斯,1,scriptwriter
+2096,Sonali Senroy DasGupta,1,scriptwriter
+2097,费雷敦·霍维达,1,scriptwriter
+2098,杨枫,1,scriptwriter
+2099,剧团一人,1,scriptwriter
+2100,宝禾创作组,1,scriptwriter
+2101,罗恩·梅尔,1,scriptwriter
+2102,罗素·梅尔,1,scriptwriter
+2103,哈尔·尼达姆,1,scriptwriter
+2104,宋坤儒,1,scriptwriter
+2105,李牧,1,scriptwriter
+2106,大卫·米切尔,1,scriptwriter
+2107,亚历山大·赫蒙,1,scriptwriter
+2108,埃斯基尔·沃格特,1,scriptwriter
+2109,约阿希姆·提尔,1,scriptwriter
+2110,T.J. Gnanavel,1,scriptwriter
+2111,保罗·范霍文,1,scriptwriter
+2112,Judith C. Brown,1,scriptwriter
+2113,戴维·西罗塔,1,scriptwriter
+2114,拉蒙·佐尔彻,1,scriptwriter
+2115,西尔万·佐尔彻,1,scriptwriter
+2116,查里斯·卡斯特罗·史密斯,1,scriptwriter
+2117,杰森·汉德,1,scriptwriter
+2118,南茜·克鲁斯,1,scriptwriter
+2119,扬·阿尔蒂斯-贝特朗,1,scriptwriter
+2120,阿娜塔莎·米科娃,1,scriptwriter
+2121,约翰内斯·罗伯茨,1,scriptwriter
+2122,金鑫,1,scriptwriter
+2123,拉斯·霍尔斯道姆,1,scriptwriter
+2124,雷达尔·荣松,1,scriptwriter
+2125,布拉西·布兰斯特罗姆,1,scriptwriter
+2126,波·伯格伦德,1,scriptwriter
+2127,Robert Rodat,1,scriptwriter
+2128,Vince McKewin,1,scriptwriter
+2129,威廉·A·德拉克,1,scriptwriter
+2130,维基·包姆,1,scriptwriter
+2131,扎克·贝林,1,scriptwriter
+2132,于本正,1,scriptwriter
+2133,沈耀庭,1,scriptwriter
+2134,霍华德·埃斯塔布鲁克,1,scriptwriter
+2135,亚历山大·科贝里泽,1,scriptwriter
+2136,海因里希·伯尔,1,scriptwriter
+2137,玛加蕾特·冯·特罗塔,1,scriptwriter
+2138,克里斯提诺·波顿,1,scriptwriter
+2139,帕罗·萨森内里,1,scriptwriter
+2140,莫尼卡·扎佩利,1,scriptwriter
+2141,妮可·哈罗芬瑟,1,scriptwriter
+2142,埃里克·贾格,1,scriptwriter
+2143,杨柳青,1,scriptwriter
+2144,吉约姆·布哈克,1,scriptwriter
+2145,凯瑟琳·派勒,1,scriptwriter
+2146,爱德芒德·古尔丁,1,scriptwriter
+2147,萨拉·Y·梅森,1,scriptwriter
+2148,诺曼·休斯敦,1,scriptwriter
+2149,詹姆斯·格利森,1,scriptwriter
+2150,安东尼·维勒,1,scriptwriter
+2151,黄黎明,1,scriptwriter
+2152,麦基·戴,1,scriptwriter
+2153,Streeter Seidell,1,scriptwriter
+2154,汤姆·哈迪,1,scriptwriter
+2155,菲比·沃勒-布里奇,1,scriptwriter
+2156,何仁,1,scriptwriter
+2157,吉恩·L·库恩,1,scriptwriter
+2158,李嘉,1,scriptwriter
+2159,汤俊,1,scriptwriter
+2160,朱岳,1,scriptwriter
+2161,关皓天,1,scriptwriter
+2162,武寒青,1,scriptwriter
+2163,安德鲁·兰纳姆,1,scriptwriter
+2164,史蒂夫·恩格尔哈特,1,scriptwriter
+2165,黄枫,1,scriptwriter
+2166,李洁,1,scriptwriter
+2167,赵天宇,1,scriptwriter
+2168,克雷格·勒克,1,scriptwriter
+2169,Ivor Powell,1,scriptwriter
+2170,蒲松龄,1,scriptwriter
+2171,梁仁,1,scriptwriter
+2172,亨特·S·汤普森,1,scriptwriter
+2173,Tod Davies,1,scriptwriter
+2174,科洛·塔维涅,1,scriptwriter
+2175,Francis Szpiner,1,scriptwriter
+2176,野泽尚,1,scriptwriter
+2177,驰星周,1,scriptwriter
+2178,多洛雷斯·希钦斯,1,scriptwriter
+2179,沙颂,1,scriptwriter
+2180,李骏,1,scriptwriter
+2181,Henri La Barthe,1,scriptwriter
+2182,李愿闻,1,scriptwriter
+2183,阿尔贝托·莫拉维亚,1,scriptwriter
+2184,李廷香,1,scriptwriter
+2185,弗兰克·赫伯特,1,scriptwriter
+2186,Nic Young,1,scriptwriter
+2187,万佳欢,1,scriptwriter
+2188,Michael Hutchinson,1,scriptwriter
+2189,沈浮,1,scriptwriter
+2190,王林谷,1,scriptwriter
+2191,徐韬,1,scriptwriter
+2192,赵丹,1,scriptwriter
+2193,佐木隆三,1,scriptwriter
+2194,肖恩·弗伦奇,1,scriptwriter
+2195,卡拉·林德斯特罗姆,1,scriptwriter
+2196,陈怀恩,1,scriptwriter
+2197,维克多·艾里斯,1,scriptwriter
+2198,沃纳·赫尔佐格,1,scriptwriter
+2199,李基哲,1,scriptwriter
+2200,张贤亮,1,scriptwriter
+2201,金世谦,1,scriptwriter
+2202,金郑勋,1,scriptwriter
+2203,阿道夫·弗兰奇,1,scriptwriter
+2204,杰拉尔多·圭列里,1,scriptwriter
+2205,沈洋,1,scriptwriter
+2206,詹晨,1,scriptwriter
+2207,大江崇允,1,scriptwriter
+2208,王培公,1,scriptwriter
+2209,凌伟骏,1,scriptwriter
+2210,N·理查德·纳什,1,scriptwriter
+2211,王安忆,1,scriptwriter
+2212,赵宁宇,1,scriptwriter
+2213,马特·利伯曼,1,scriptwriter
+2214,史铁生,1,scriptwriter
+2215,李保罗,1,scriptwriter
+2216,吴滨,1,scriptwriter
+2217,贾大山,1,scriptwriter
+2218,特丽莎·艾科科,1,scriptwriter
+2219,克莱尔·威尔森,1,scriptwriter
+2220,陈迈平,1,scriptwriter
+2221,Rémy Belvaux,1,scriptwriter
+2222,André Bonzel,1,scriptwriter
+2223,扎克·迪恩,1,scriptwriter
+2224,高力力,1,scriptwriter
+2225,Vladimir Solovyov,1,scriptwriter
+2226,克利斯提·普优,1,scriptwriter
+2227,张子良,1,scriptwriter
+2228,柯蓝,1,scriptwriter
+2229,周燕娴,1,scriptwriter
+2230,内藤忠司,1,scriptwriter
+2231,小中和哉,1,scriptwriter
+2232,斯特林·西利芬特,1,scriptwriter
+2233,弗雷德里克·格伦斯廷,1,scriptwriter
+2234,斯坦尼斯瓦夫·莱姆,1,scriptwriter
+2235,纳尔逊·格里弗斯,1,scriptwriter
+2236,丁亚民,1,scriptwriter
+2237,许淑贞,1,scriptwriter
+2238,三谷伸太朗,1,scriptwriter
+2239,星里望留,1,scriptwriter
+2240,Mame,1,scriptwriter
+2241,特拉文·弗里,1,scriptwriter
+2242,凌汉,1,scriptwriter
+2243,布赖恩·加菲尔德,1,scriptwriter
+2244,布莱恩·福布斯,1,scriptwriter
+2245,Nhi Bui,1,scriptwriter
+2246,管际安,1,scriptwriter
+2247,皮帕·埃尔利希,1,scriptwriter
+2248,詹姆斯·里德,1,scriptwriter
+2249,吴晓宇,1,scriptwriter
+2250,濑古浩司,1,scriptwriter
+2251,宋存寿,1,scriptwriter
+2252,佐藤纯弥,1,scriptwriter
+2253,吉田刚,1,scriptwriter
+2254,宋国勋,1,scriptwriter
+2255,史蒂夫·齐西斯,1,scriptwriter
+2256,道迪·史密斯,1,scriptwriter
+2257,简持中,1,scriptwriter
+2258,查克·狄克逊,1,scriptwriter
+2259,乔丹·B·戈芬克尔,1,scriptwriter
+2260,格雷格·兰德,1,scriptwriter
+2261,古斯塔夫·哈斯福德,1,scriptwriter
+2262,珠玑,1,scriptwriter
+2263,刘芳,1,scriptwriter
+2264,约阿希姆·费斯特,1,scriptwriter
+2265,Traudl Junge,1,scriptwriter
+2266,Melissa Müller,1,scriptwriter
+2267,亚历杭德罗·阿梅纳瓦尔,1,scriptwriter
+2268,张珂,1,scriptwriter
+2269,京榆,1,scriptwriter
+2270,徐逸洲,1,scriptwriter
+2271,丹·凯西,1,scriptwriter
+2272,秦剑,1,scriptwriter
+2273,吴丹,1,scriptwriter
+2274,安东尼·阿斯奎斯,1,scriptwriter
+2275,奥斯卡·王尔德,1,scriptwriter
+2276,黄丹,1,scriptwriter
+2277,唐娄彝,1,scriptwriter
+2278,陈云,1,scriptwriter
+2279,卢敦,1,scriptwriter
+2280,杰克·拉莫塔,1,scriptwriter
+2281,Joseph Carter,1,scriptwriter
+2282,彼得·萨瓦奇,1,scriptwriter
+2283,麦迪克·马丁,1,scriptwriter
+2284,欧文·威尔逊,1,scriptwriter
+2285,果靖霖,1,scriptwriter
+2286,甲子复,1,scriptwriter
+2287,青山真治,1,scriptwriter
+2288,小竹正人,1,scriptwriter
+2289,焦婷婷,1,scriptwriter
+2290,韩天,1,scriptwriter
+2291,唐·赫克,1,scriptwriter
+2292,唐·里科,1,scriptwriter
+2293,叶逸芳,1,scriptwriter
+2294,Shem Bitterman,1,scriptwriter
+2295,汪远,1,scriptwriter
+2296,Bryan H. Carroll,1,scriptwriter
+2297,Chris Hampel,1,scriptwriter
+2298,Ramón del Valle-Inclán,1,scriptwriter
+2299,约翰·里德利,1,scriptwriter
+2300,所罗门·诺萨普,1,scriptwriter
+2301,克劳斯·曼,1,scriptwriter
+2302,艾尔弗雷德·海斯,1,scriptwriter
+2303,Rod E. Geiger,1,scriptwriter
+2304,王志勇,1,scriptwriter
+2305,巴德·舒尔伯格,1,scriptwriter
+2306,横幕智裕,1,scriptwriter
+2307,足立绅,1,scriptwriter
+2308,野崎惑,1,scriptwriter
+2309,市川昆,1,scriptwriter
+2310,谷川俊太郎,1,scriptwriter
+2311,和田夏十,1,scriptwriter
+2312,白坂依志夫,1,scriptwriter
+2313,埃里康·卡萨罗萨,1,scriptwriter
+2314,西蒙·斯蒂芬森,1,scriptwriter
+2315,朱莉·林恩,1,scriptwriter
+2316,兰达尔·格林,1,scriptwriter
+2317,全勇先,1,scriptwriter
+2318,Ufotable,1,scriptwriter
+2319,吾峠呼世晴,1,scriptwriter
+2320,许悦铭,1,scriptwriter
+2321,柴门文,1,scriptwriter
+2322,左几,1,scriptwriter
+2323,亚历克·吉尼斯,1,scriptwriter
+2324,艾伦·斯科特,1,scriptwriter
+2325,沃尔特·特维斯,1,scriptwriter
+2326,殳俏,1,scriptwriter
+2327,樊菁,1,scriptwriter
+2328,蒋丽华,1,scriptwriter
+2329,吕聿来,1,scriptwriter
+2330,山崎贵,1,scriptwriter
+2331,巴贝特·施罗德,1,scriptwriter
+2332,伊夫·米朗德,1,scriptwriter
+2333,肉食部门,1,scriptwriter
+2334,里奇·拉尔森,1,scriptwriter
+2335,菲利普·盖拉特,1,scriptwriter
+2336,保罗·巴齐加卢皮,1,scriptwriter
+2337,尼尔·艾舍尔,1,scriptwriter
+2338,约阿西姆·海恩德曼斯,1,scriptwriter
+2339,哈尔兰·艾莉森,1,scriptwriter
+2340,路遥,1,scriptwriter
+2341,克里斯·博兰,1,scriptwriter
+2342,阿丽萨·L·福格尔,1,scriptwriter
+2343,布兰登·曼森,1,scriptwriter
+2344,尼古拉斯·布赫里夫,1,scriptwriter
+2345,玛丽莎·凯特·古德希尔,1,scriptwriter
+2346,范翔,1,scriptwriter
+2347,李想,1,scriptwriter
+2348,迈克尔·科里塔,1,scriptwriter
+2349,凯瑟琳·阿普尔盖特,1,scriptwriter
+2350,李祐汀,1,scriptwriter
+2351,路易斯·特伦克尔,1,scriptwriter
+2352,马天,1,scriptwriter
+2353,李扬,1,scriptwriter
+2354,何念,1,scriptwriter
+2355,任大炯,1,scriptwriter
+2356,伍思薇,1,scriptwriter
+2357,贾玲,1,scriptwriter
+2358,孙集斌,1,scriptwriter
+2359,王宇,1,scriptwriter
+2360,刘宏禄,1,scriptwriter
+2361,卜钰,1,scriptwriter
+2362,郭宇鹏,1,scriptwriter
+2363,中岛一基,1,scriptwriter
+2364,井原西鹤,1,scriptwriter
+2365,Michael Govier,1,scriptwriter
+2366,安东尼·吉亚奇诺,1,scriptwriter
+2367,克里斯托弗·德沃雷,1,scriptwriter
+2368,埃里克·伯格恩,1,scriptwriter
+2369,弗雷德里克·特里夫斯,1,scriptwriter
+2370,阿什利·蒙塔古,1,scriptwriter
+2371,张宇,1,scriptwriter
+2372,埃默拉尔德·芬内尔,1,scriptwriter
+2373,舟桥和郎,1,scriptwriter
+2374,罗恩·切尔诺夫,1,scriptwriter
+2375,Mathias Gavarry,1,scriptwriter
+2376,索菲·勒图讷尔,1,scriptwriter
+2377,井上由美子,1,scriptwriter
+2378,山崎丰子,1,scriptwriter
+2379,丽露·弗格利,1,scriptwriter
+2380,克里斯蒂安·穆勒克,1,scriptwriter
+2381,玛蒂厄·佩蒂特,1,scriptwriter
+2382,尼古拉·瓦尼埃,1,scriptwriter
+2383,克里斯·艾伯翰斯,1,scriptwriter
+2384,鲁本·桑地亚哥-哈德森,1,scriptwriter
+2385,佛罗莱恩·泽勒,1,scriptwriter
+2386,翦以玟,1,scriptwriter
+2387,古军,1,scriptwriter
+2388,Camillo Mariani Dell'Anguillara,1,scriptwriter
+2389,卡尔米内·加洛内,1,scriptwriter
+2390,S.A. Luciani,1,scriptwriter
+2391,柳国庆,1,scriptwriter
+2392,沐川,1,scriptwriter
+2393,宮崎光代,1,scriptwriter
+2394,杰克·伦敦,1,scriptwriter
+2395,毛里齐奥·布拉奇,1,scriptwriter
+2396,皮耶特罗·马切罗,1,scriptwriter
+2397,Joseph Peyré,1,scriptwriter
+2398,Gino Rocca,1,scriptwriter
+2399,Gino Valori,1,scriptwriter
+2400,阮基,1,scriptwriter
+2401,保罗·布里格斯,1,scriptwriter
+2402,卡洛斯·洛佩斯·埃斯特拉达,1,scriptwriter
+2403,约翰·瑞帕,1,scriptwriter
+2404,迪恩·威林斯,1,scriptwriter
+2405,让-皮埃尔·梅尔维尔,1,scriptwriter
+2406,阿方索·布雷西亚,1,scriptwriter
+2407,汤姆·汉克斯,1,scriptwriter
+2408,C·S·福里斯特,1,scriptwriter
+2409,李·以萨克·郑,1,scriptwriter
+2410,许承杰,1,scriptwriter
+2411,黄怡玫,1,scriptwriter
+2412,Matsuo Kishi,1,scriptwriter
+2413,Kei Moriyama,1,scriptwriter
+2414,清水宏,1,scriptwriter
+2415,韩今谅,1,scriptwriter
+2416,贾佳薇,1,scriptwriter
+2417,达里尔斯·马德尔,1,scriptwriter
+2418,亚伯拉罕·马德尔,1,scriptwriter
+2419,德里克·斯安弗朗斯,1,scriptwriter
+2420,格利高利·丘赫莱依,1,scriptwriter
+2421,瓦伦丁·埃佐霍夫,1,scriptwriter
+2422,切萨雷·朱利奥·维奥拉,1,scriptwriter
+2423,Francesco Masoero,1,scriptwriter
+2424,Fulvio Palmieri,1,scriptwriter
+2425,金百伦,1,scriptwriter
+2426,丹尼·比尔森,1,scriptwriter
+2427,保罗·德米奥,1,scriptwriter
+2428,河濑直美,1,scriptwriter
+2429,村松梢风,1,scriptwriter
+2430,罗臻,1,scriptwriter
+2431,阿历山德罗·布拉塞蒂,1,scriptwriter
+2432,Armandeo Macaluso,1,scriptwriter
+2433,Corrado Pavolini,1,scriptwriter
+2434,李克龙,1,scriptwriter
+2435,威尔·伯森,1,scriptwriter
+2436,沙卡·金,1,scriptwriter
+2437,肯尼斯·卢卡斯,1,scriptwriter
+2438,基斯·卢卡斯,1,scriptwriter
+2439,Dave Johannson,1,scriptwriter
+2440,常远,1,scriptwriter
+2441,王志君,1,scriptwriter
+2442,Emi Gunji,1,scriptwriter
+2443,Saburo Okada,1,scriptwriter
+2444,Tadashi Fujiwara,1,scriptwriter
+2445,罗斯·格拉斯,1,scriptwriter
+2446,亚历山大·库普林,1,scriptwriter
+2447,Callisto V. Vanzin,1,scriptwriter
+2448,Cesare Ludovici,1,scriptwriter
+2449,Domenico Meccoli,1,scriptwriter
+2450,支雅卿,1,scriptwriter
+2451,谭宇力,1,scriptwriter
+2452,托马斯·伯祖查,1,scriptwriter
+2453,拉里·沃森,1,scriptwriter
+2454,内尔斯·班格特,1,scriptwriter
+2455,克斯汀·约翰逊,1,scriptwriter
+2456,夏目漱石,1,scriptwriter
+2457,埃马纽埃尔·穆雷,1,scriptwriter
+2458,德里克·沃什伯恩,1,scriptwriter
+2459,路易斯·加芬克尔,1,scriptwriter
+2460,奎因·K·雷德克,1,scriptwriter
+2461,托尼·莫费特,1,scriptwriter
+2462,史蒂夫·麦奎因,1,scriptwriter
+2463,库尔蒂亚·纽兰德,1,scriptwriter
+2464,张少初,1,scriptwriter
+2465,易小星,1,scriptwriter
+2466,惠特·马斯特森,1,scriptwriter
+2467,禹民镐,1,scriptwriter
+2468,李智敏,1,scriptwriter
+2469,Ryunosuke Shimizu,1,scriptwriter
+2470,许慧晶,1,scriptwriter
+2471,山岸菊美,1,scriptwriter
+2472,本杰明·克里斯滕森,1,scriptwriter
+2473,麦克斯·朱利恩,1,scriptwriter
+2474,William Tennant,1,scriptwriter
+2475,王昂,1,scriptwriter
+2476,何玥妮,1,scriptwriter
+2477,卡塔·韦伯,1,scriptwriter
+2478,塞缪尔·霍普金斯·亚当斯,1,scriptwriter
+2479,洪亮,1,scriptwriter
+2480,杰西卡·布鲁德,1,scriptwriter
+2481,中村努,1,scriptwriter
+2482,市山達巳,1,scriptwriter
+2483,中冈京平,1,scriptwriter
+2484,纳撒尼尔·里奇,1,scriptwriter
+2485,马里奥·科雷亚,1,scriptwriter
+2486,马修·迈克尔·卡纳汉,1,scriptwriter
+2487,服部佳子,1,scriptwriter
+2488,蒂姆·克拉贝,1,scriptwriter
+2489,乔治·斯鲁依泽,1,scriptwriter
+2490,派蒂·杰金斯,1,scriptwriter
+2491,李慧研,1,scriptwriter
+2492,伊恩·里德,1,scriptwriter
+2493,唐·皮尔斯,1,scriptwriter
+2494,Hal Dresner,1,scriptwriter
+2495,山田隆之,1,scriptwriter
+2496,安田公义,1,scriptwriter
+2497,彼得·巴恩斯,1,scriptwriter
+2498,查克·霍根,1,scriptwriter
+2499,米切尔·朱可夫,1,scriptwriter
+2500,张耀升,1,scriptwriter
+2501,王丹阳,1,scriptwriter
+2502,梁璐璐,1,scriptwriter
+2503,本·萨弗迪,1,scriptwriter
+2504,冈本喜八,1,scriptwriter
+2505,杰克·芬奇,1,scriptwriter
+2506,狄龙,1,scriptwriter
+2507,顾晓刚,1,scriptwriter
+2508,艾什姆·内尔姆斯,1,scriptwriter
+2509,伊恩·内尔姆斯,1,scriptwriter
+2510,中岛丈博,1,scriptwriter
+2511,Prami Larsen,1,scriptwriter
+2512,谢茜颖,1,scriptwriter
+2513,高岩肇,1,scriptwriter
+2514,伊藤大辅,1,scriptwriter
+2515,林千鶴,1,scriptwriter
+2516,波尔·克努森,1,scriptwriter
+2517,刘国庆,1,scriptwriter
+2518,紫金陈,1,scriptwriter
+2519,约什·布恩,1,scriptwriter
+2520,内特·李,1,scriptwriter
+2521,松村正温,1,scriptwriter
+2522,葛瑞,1,scriptwriter
+2523,黄绮琳,1,scriptwriter
+2524,穆罕默德·拉索罗夫,1,scriptwriter
+2525,太田昭和,1,scriptwriter
+2526,子母沢寛,1,scriptwriter
+2527,潘幸枝,1,scriptwriter
+2528,孙浩洋,1,scriptwriter
+2529,林兵,1,scriptwriter
+2530,诺埃尔·兰利,1,scriptwriter
+2531,弗洛伦斯·赖尔森,1,scriptwriter
+2532,埃德加·艾伦·伍尔夫,1,scriptwriter
+2533,常爱君,1,scriptwriter
+2534,郑执,1,scriptwriter
+2535,布赖恩·韦弗,1,scriptwriter
+2536,吴胜旭,1,scriptwriter
+2537,郑世朗,1,scriptwriter
+2538,卓韵芝,1,scriptwriter
+2539,高建国,1,scriptwriter
+2540,纽纳利·约翰逊,1,scriptwriter
+2541,舒菊,1,scriptwriter
+2542,萨莉·鲁尼,1,scriptwriter
+2543,爱丽丝·伯奇,1,scriptwriter
+2544,马克·奥罗,1,scriptwriter
+2545,彼得·洛伊德,1,scriptwriter
+2546,约翰·奥法雷尔,1,scriptwriter
+2547,黎兆钧,1,scriptwriter
+2548,施柏林,1,scriptwriter
+2549,刘永泰,1,scriptwriter
+2550,黄咏诗,1,scriptwriter
+2551,刘翁,1,scriptwriter
+2552,Lee Blair,1,scriptwriter
+2553,Sylvia Moberly-Holland,1,scriptwriter
+2554,劳伦·希内克,1,scriptwriter
+2555,伊丽莎白·马丁,1,scriptwriter
+2556,吉野智美,1,scriptwriter
+2557,雷克斯·皮克特,1,scriptwriter
+2558,朱尔斯·达辛,1,scriptwriter
+2559,达斯汀·兰斯·布莱克,1,scriptwriter
+2560,贝基·莫德,1,scriptwriter
+2561,艾莱·沃尔德曼,1,scriptwriter
+2562,珍妮弗·舒尔,1,scriptwriter
+2563,肯·阿姆斯特朗,1,scriptwriter
+2564,T·克里斯蒂安·米勒,1,scriptwriter
+2565,陶日成,1,scriptwriter
+2566,宋文,1,scriptwriter
+2567,李宗雷,1,scriptwriter
+2568,杨丹,1,scriptwriter
+2569,段炼,1,scriptwriter
+2570,基思·布宁,1,scriptwriter
+2571,埃里克·哈奇,1,scriptwriter
+2572,雷纳尔多·吉迪恩,1,scriptwriter
+2573,石岗,1,scriptwriter
+2574,凯文·范霍克,1,scriptwriter
+2575,Chiio Kimura,1,scriptwriter
+2576,木村千疋男,1,scriptwriter
+2577,十一谷義三郎,1,scriptwriter
+2578,畑本秋一,1,scriptwriter
+2579,Matruka,1,scriptwriter
+2580,Pierre Aubert,1,scriptwriter
+2581,Jacques Lagrange,1,scriptwriter
+2582,亨利·马尔凯,1,scriptwriter
+2583,张曾泽,1,scriptwriter
+2584,陈小娟,1,scriptwriter
+2585,曼纽尔·科姆罗夫,1,scriptwriter
+2586,丹·格雷戈尔,1,scriptwriter
+2587,休·洛夫廷,1,scriptwriter
+2588,道格·曼德,1,scriptwriter
+2589,Adrian McDowall,1,scriptwriter
+2590,Asif Kapadia,1,scriptwriter
+2591,卢克·庞特,1,scriptwriter
+2592,Dylan Ritson,1,scriptwriter
+2593,吉姆·格莱斯皮,1,scriptwriter
+2594,Ramsey Campbell,1,scriptwriter
+2595,Colin McLaren,1,scriptwriter
+2596,John Smith,1,scriptwriter
+2597,Harold Manning,1,scriptwriter
+2598,Tim Clague,1,scriptwriter
+2599,Julie Rutterford,1,scriptwriter
+2600,梅雅·黛伦,1,scriptwriter
+2601,乔·努斯鲍姆,1,scriptwriter
+2602,威廉·S·伯勒斯,1,scriptwriter
+2603,彭尼贝克,1,scriptwriter
+2604,彼得·苏列特,1,scriptwriter
+2605,亚当·戴维森,1,scriptwriter
+2606,Tom Elling,1,scriptwriter
+2607,李连杰,1,scriptwriter
+2608,Javier Fesser,1,scriptwriter
+2609,胡安·索拉纳斯,1,scriptwriter
+2610,鲁卡斯·穆迪森,1,scriptwriter
+2611,Carlo De Boutiny,1,scriptwriter
+2612,杨·史云梅耶,1,scriptwriter
+2613,罗伊·安德森,1,scriptwriter
+2614,维吉尔·维德里希,1,scriptwriter
+2615,克里斯多夫·莫利斯,1,scriptwriter
+2616,帕特里斯·勒孔特,1,scriptwriter
+2617,乌斯曼·塞姆班,1,scriptwriter
+2618,Chris Lavis,1,scriptwriter
+2619,Maciek Szczerbowski,1,scriptwriter
+2620,贝特朗·塔维涅,1,scriptwriter
+2621,Stefan Prehn,1,scriptwriter
+2622,伊莎贝拉·罗西里尼,1,scriptwriter
+2623,山川直人,1,scriptwriter
+2624,弗雷德里克·拉菲尔,1,scriptwriter
+2625,杨曜恺,1,scriptwriter
+2626,陈志发,1,scriptwriter
+2627,黄智扬,1,scriptwriter
+2628,David Freedman,1,scriptwriter
+2629,安德鲁·麦克莱恩,1,scriptwriter
+2630,赖月珊,1,scriptwriter
+2631,近松门左卫门,1,scriptwriter
+2632,筱田正浩,1,scriptwriter
+2633,武满彻,1,scriptwriter
+2634,亨利·德·蒙泰朗,1,scriptwriter
+2635,李骏硕,1,scriptwriter
+2636,李光耀,1,scriptwriter
+2637,田村孟,1,scriptwriter
+2638,佐佐木守,1,scriptwriter
+2639,足立正生,1,scriptwriter
+2640,桑原裕子,1,scriptwriter
+2641,江润章,1,scriptwriter
+2642,李小龙,1,scriptwriter
+2643,威廉·福克纳,1,scriptwriter
+2644,Henri Bergson,1,scriptwriter
+2645,李禾水,1,scriptwriter
+2646,艾兹拉·庞德,1,scriptwriter
+2647,Isaak Babel,1,scriptwriter
+2648,亚历山大·拉热谢夫斯基,1,scriptwriter
+2649,屠格涅夫,1,scriptwriter
+2650,Oreste Del Buono,1,scriptwriter
+2651,比托·阿尔贝蒂尼,1,scriptwriter
+2652,帕维尔·陶西格,1,scriptwriter
+2653,朱牧,1,scriptwriter
+2654,维克托·坎宁,1,scriptwriter
+2655,亚历山大·戈登,1,scriptwriter
+2656,埃德加·爱伦·坡,1,scriptwriter
+2657,成濑巳喜男,1,scriptwriter
+2658,吴皓,1,scriptwriter
+2659,Arthur La Bern,1,scriptwriter
+2660,布莱恩·穆尔,1,scriptwriter
+2661,鄭思傑,1,scriptwriter
+2662,温斯顿·格雷汉姆,1,scriptwriter
+2663,乔治·朱克曼,1,scriptwriter
+2664,沙再千,1,scriptwriter
+2665,加斯顿·迪尔,1,scriptwriter
+2666,罗伯特·海森斯,1,scriptwriter
+2667,文森特·梵高,1,scriptwriter
+2668,曾翠珊,1,scriptwriter
+2669,伊万·亨特,1,scriptwriter
+2670,马可·伯格,1,scriptwriter
+2671,夏洛特·阿姆斯特朗,1,scriptwriter
+2672,Paul Gauguin,1,scriptwriter
+2673,张经纬,1,scriptwriter
+2674,Rémo Forlani,1,scriptwriter
+2675,Maurice Pons,1,scriptwriter
+2676,雷蒙·格诺,1,scriptwriter
+2677,Peg Fenwick,1,scriptwriter
+2678,Seth Hoffman,1,scriptwriter
+2679,Zack Estrin,1,scriptwriter
+2680,Karyn Usher,1,scriptwriter
+2681,Christian W. Trokey,1,scriptwriter
+2682,Kalinda Vazquez,1,scriptwriter
+2683,约翰·切斯特,1,scriptwriter
+2684,何宇恒,1,scriptwriter
+2685,尼古拉斯·佩谢,1,scriptwriter
+2686,杰夫·布勒,1,scriptwriter
+2687,D.B. Wyndham-Lewis,1,scriptwriter
+2688,浅利宏,1,scriptwriter
+2689,铃木卓尔,1,scriptwriter
+2690,David Dodge,1,scriptwriter
+2691,克里斯·布雷姆纳,1,scriptwriter
+2692,Jack Trevor Story,1,scriptwriter
+2693,石川庆,1,scriptwriter
+2694,恩田陆,1,scriptwriter
+2695,弗雷德里克·诺特,1,scriptwriter
+2696,尹尚孝,1,scriptwriter
+2697,乔治·塔布里,1,scriptwriter
+2698,威廉姆·阿奇博尔德,1,scriptwriter
+2699,Paul Anthelme,1,scriptwriter
+2700,儒利亚诺·多赫内利斯,1,scriptwriter
+2701,伊利亚·赫尔扎诺夫斯基,1,scriptwriter
+2702,Kora Landau-Drobantseva,1,scriptwriter
+2703,曾兹·奥蒙德,1,scriptwriter
+2704,李樯,1,scriptwriter
+2705,斯蒂法诺·摩尔蒂尼,1,scriptwriter
+2706,马西米利亚诺·坎通尼,1,scriptwriter
+2707,Selwyn Jepson,1,scriptwriter
+2708,吴彦祖,1,scriptwriter
+2709,韦斯·图克,1,scriptwriter
+2710,帕特里克·凯西,1,scriptwriter
+2711,乔什·米勒,1,scriptwriter
+2712,中裕司,1,scriptwriter
+2713,大岛直人,1,scriptwriter
+2714,安原弘和,1,scriptwriter
+2715,伊丽莎·希特曼,1,scriptwriter
+2716,帕特里克·汉密尔顿,1,scriptwriter
+2717,卜维,1,scriptwriter
+2718,西德尼·金,1,scriptwriter
+2719,新井英树,1,scriptwriter
+2720,Paul Scheuring,1,scriptwriter
+2721,白石一文,1,scriptwriter
+2722,大卫·O·塞尔兹尼克,1,scriptwriter
+2723,罗伯特·希琴斯,1,scriptwriter
+2724,约翰·肯尼迪,1,scriptwriter
+2725,翟培,1,scriptwriter
+2726,范凯华,1,scriptwriter
+2727,秦语谦,1,scriptwriter
+2728,雷声,1,scriptwriter
+2729,拉吉·利,1,scriptwriter
+2730,吉奥达诺·戈德里尼,1,scriptwriter
+2731,亚历克西斯·曼蒂,1,scriptwriter
+2732,劳埃德·泰勒,1,scriptwriter
+2733,约翰·泰恩托·富特,1,scriptwriter
+2734,克利福德·奥德茨,1,scriptwriter
+2735,秦天,1,scriptwriter
+2736,Theodore Simonson,1,scriptwriter
+2737,Kay Linaker,1,scriptwriter
+2738,查克·拉塞尔,1,scriptwriter
+2739,萨姆·门德斯,1,scriptwriter
+2740,克里斯蒂·威尔逊-凯恩斯,1,scriptwriter
+2741,毕国智,1,scriptwriter
+2742,闵敬恩,1,scriptwriter
+2743,王子逸,1,scriptwriter
+2744,彼得·维托尔,1,scriptwriter
+2745,多萝茜·帕克,1,scriptwriter
+2746,路易莎·梅·奥尔科特,1,scriptwriter
+2747,安东尼·马拉斯,1,scriptwriter
+2748,玛丽·布伦纳,1,scriptwriter
+2749,诺曼·克拉斯娜,1,scriptwriter
+2750,申奥,1,scriptwriter
+2751,许渌洋,1,scriptwriter
+2752,王燕秋,1,scriptwriter
+2753,马克·詹金,1,scriptwriter
+2754,安东尼·伯克莱,1,scriptwriter
+2755,水木洋子,1,scriptwriter
+2756,小泉八云,1,scriptwriter
+2757,曼努埃尔·德·奥利维拉,1,scriptwriter
+2758,汤姆·艾吉,1,scriptwriter
+2759,菲利普·麦克唐纳,1,scriptwriter
+2760,迈克尔·霍根,1,scriptwriter
+2761,龙华琛,1,scriptwriter
+2762,阪本顺治,1,scriptwriter
+2763,深泽寛,1,scriptwriter
+2764,维塔利娜·瓦雷拉,1,scriptwriter
+2765,马克·史密斯,1,scriptwriter
+2766,克里斯汀·安德森·洛佩兹,1,scriptwriter
+2767,罗伯特·洛佩兹,1,scriptwriter
+2768,横山光辉,1,scriptwriter
+2769,J·B·普里斯特利,1,scriptwriter
+2770,今泉力哉,1,scriptwriter
+2771,泽井香织,1,scriptwriter
+2772,角田光代,1,scriptwriter
+2773,克里斯汀·勒南斯,1,scriptwriter
+2774,马歇尔·柯里,1,scriptwriter
+2775,盐田明彦,1,scriptwriter
+2776,埃德温·格林伍德,1,scriptwriter
+2777,安东尼·阿姆斯特朗,1,scriptwriter
+2778,杰拉德·萨瓦里,1,scriptwriter
+2779,约瑟芬·铁伊,1,scriptwriter
+2780,Louisa Rose,1,scriptwriter
+2781,大野敏哉,1,scriptwriter
+2782,玛缇·迪欧普,1,scriptwriter
+2783,奥利维耶·德曼格尔,1,scriptwriter
+2784,E.V.H. Emmett,1,scriptwriter
+2785,张翎,1,scriptwriter
+2786,马修·西鲁尼克,1,scriptwriter
+2787,小杰西·拉斯基,1,scriptwriter
+2788,查尔斯·H·伊格里,1,scriptwriter
+2789,贾斯汀·罗德斯,1,scriptwriter
+2790,盖尔·安妮·赫德,1,scriptwriter
+2791,约翰·伯肯,1,scriptwriter
+2792,宋思琪,1,scriptwriter
+2793,布鲁诺·科莱特,1,scriptwriter
+2794,马修·A·切瑞,1,scriptwriter
+2795,达丽娅·卡什切娃,1,scriptwriter
+2796,莱奥·卡拉克斯,1,scriptwriter
+2797,大塚隆史,1,scriptwriter
+2798,富冈淳广,1,scriptwriter
+2799,Claude Allain,1,scriptwriter
+2800,Heinz Reichert,1,scriptwriter
+2801,André Dugès,1,scriptwriter
+2802,A.M. Willner,1,scriptwriter
+2803,贾森·凯勒,1,scriptwriter
+2804,卢卡斯·德霍特,1,scriptwriter
+2805,安吉洛·提森,1,scriptwriter
+2806,加斯·斯坦,1,scriptwriter
+2807,迈卡·费兹曼-布卢,1,scriptwriter
+2808,诺亚·哈普斯特,1,scriptwriter
+2809,Joseph Jefferson Farjeon,1,scriptwriter
+2810,Pyotr Pavlenko,1,scriptwriter
+2811,金度英,1,scriptwriter
+2812,赵南柱,1,scriptwriter
+2813,瓦尔·瓦伦丁,1,scriptwriter
+2814,大根仁,1,scriptwriter
+2815,基·霍普金斯,1,scriptwriter
+2816,蒂洛·罗斯切森,1,scriptwriter
+2817,米夏埃尔·赫尔比希,1,scriptwriter
+2818,刘毛宁,1,scriptwriter
+2819,利隆·托帕兹,1,scriptwriter
+2820,彼埃尔·佩里菲尔,1,scriptwriter
+2821,JP Sans,1,scriptwriter
+2822,哈里·克里普斯,1,scriptwriter
+2823,罗莎娜·沙利文,1,scriptwriter
+2824,马晓波,1,scriptwriter
+2825,佘凯,1,scriptwriter
+2826,林松,1,scriptwriter
+2827,虞凯,1,scriptwriter
+2828,王惠,1,scriptwriter
+2829,赵晋松,1,scriptwriter
+2830,李景文,1,scriptwriter
+2831,殷雪姣,1,scriptwriter
+2832,布拉德利·斯莱贝,1,scriptwriter
+2833,尼古拉·库利科夫,1,scriptwriter
+2834,安德烈·库烈奇克,1,scriptwriter
+2835,Clemence Dane,1,scriptwriter
+2836,Herbert Juttke,1,scriptwriter
+2837,劳伦·斯卡法莉娅,1,scriptwriter
+2838,克莱门丝·戴恩,1,scriptwriter
+2839,陈雪,1,scriptwriter
+2840,Sean O'Casey,1,scriptwriter
+2841,阿纳托莱·德格伦瓦尔德,1,scriptwriter
+2842,塞西尔·刘易斯,1,scriptwriter
+2843,妮琪·卡罗,1,scriptwriter
+2844,威提·依希马埃拉,1,scriptwriter
+2845,Hall Caine,1,scriptwriter
+2846,陈树帜,1,scriptwriter
+2847,阿来,1,scriptwriter
+2848,尚英,1,scriptwriter
+2849,本恩·W·利维,1,scriptwriter
+2850,佩里·亨泽尔,1,scriptwriter
+2851,特雷弗·D·罗恩,1,scriptwriter
+2852,丹尼尔·塔拉达什,1,scriptwriter
+2853,詹姆斯·琼斯,1,scriptwriter
+2854,黎妙雪,1,scriptwriter
+2855,厉河,1,scriptwriter
+2856,Eden Phillpotts,1,scriptwriter
+2857,崔走召,1,scriptwriter
+2858,康丝坦斯·柯莉儿,1,scriptwriter
+2859,王青伟,1,scriptwriter
+2860,宋朝云,1,scriptwriter
+2861,Marie Belloc Lowndes,1,scriptwriter
+2862,约翰·布瑞雷,1,scriptwriter
+2863,木头,1,scriptwriter
+2864,彭可欣,1,scriptwriter
+2865,风息神泪,1,scriptwriter
+2866,李冠萱,1,scriptwriter
+2867,武上纯希,1,scriptwriter
+2868,千叶克彦,1,scriptwriter
+2869,山田隆司,1,scriptwriter
+2870,远藤明范,1,scriptwriter
+2871,Oliver Sandys,1,scriptwriter
+2872,尼尔斯·沃塞尔,1,scriptwriter
+2873,Michael Morton,1,scriptwriter
+2874,畅游,1,scriptwriter
+2875,大仓崇裕,1,scriptwriter
+2876,于思,1,scriptwriter
+2877,爱德华·阿尔比,1,scriptwriter
+2878,查尔斯·克利夫兰,1,scriptwriter
+2879,Richard Carroll,1,scriptwriter
+2880,Barry Pullman  ,1,scriptwriter
+2881,翠西亚·布洛克,1,scriptwriter
+2882,斯科特·弗罗斯特,1,scriptwriter
+2883,罗伯托·德莱奥纳尔迪斯,1,scriptwriter
+2884,史黛芬妮·福尔松,1,scriptwriter
+2885,C·S·安德森,1,scriptwriter
+2886,约翰·威尔斯,1,scriptwriter
+2887,John Travis,1,scriptwriter
+2888,John Connolly,1,scriptwriter
+2889,Raoul Lévy,1,scriptwriter
+2890,罗杰·瓦迪姆,1,scriptwriter
+2891,陆志坚,1,scriptwriter
+2892,杨凡,1,scriptwriter
+2893,罗伯特·罗森,1,scriptwriter
+2894,西德尼·卡罗尔,1,scriptwriter
+2895,阿迪娜·平蒂列,1,scriptwriter
+2896,杰森·里奇曼,1,scriptwriter
+2897,乔舒亚·迈克尔·斯坦,1,scriptwriter
+2898,Raynold Gideon,1,scriptwriter
+2899,滕华涛,1,scriptwriter
+2900,韩景龙,1,scriptwriter
+2901,江南,1,scriptwriter
+2902,那达夫·拉皮德,1,scriptwriter
+2903,L·罗恩·哈伯德,1,scriptwriter
+2904,吉恩·昆塔诺,1,scriptwriter
+2905,卡伦·埃莉斯·鲍德温,1,scriptwriter
+2906,野尻克己,1,scriptwriter
+2907,Ek Iemchuen,1,scriptwriter
+2908,金知云,1,scriptwriter
+2909,Nitas Singhamat,1,scriptwriter
+2910,Craig Storper,1,scriptwriter
+2911,Lauran Paine,1,scriptwriter
+2912,威廉·皮特·布拉蒂,1,scriptwriter
+2913,布兰登·坎普,1,scriptwriter
+2914,Mike Thompson,1,scriptwriter
+2915,大卫·斯勒茨,1,scriptwriter
+2916,乔治·贝尔,1,scriptwriter
+2917,勒内·克莱尔,1,scriptwriter
+2918,Micheal Baldwin,1,scriptwriter
+2919,Stu Zicherman,1,scriptwriter
+2920,谢伊·哈顿,1,scriptwriter
+2921,克里斯·柯林斯,1,scriptwriter
+2922,马克·艾布拉姆斯,1,scriptwriter
+2923,Demian Lichtenstein,1,scriptwriter
+2924,Richard Recco,1,scriptwriter
+2925,华莱士·沃洛达斯基,1,scriptwriter
+2926,戴维·塞尔夫,1,scriptwriter
+2927,欧内斯特·R·梅,1,scriptwriter
+2928,Philip D. Zelikow,1,scriptwriter
+2929,米歇尔·沙阿拉,1,scriptwriter
+2930,大卫·布瑞恩,1,scriptwriter
+2931,黄斌,1,scriptwriter
+2932,黄墨奇,1,scriptwriter
+2933,John Norville,1,scriptwriter
+2934,Peter Rader,1,scriptwriter
+2935,南方舞厅,1,scriptwriter
+2936,黄安培,1,scriptwriter
+2937,尼古斯·卡赞特扎吉斯,1,scriptwriter
+2938,易巧,1,scriptwriter
+2939,魏芸芸,1,scriptwriter
+2940,艾伦·杰伊·勒纳,1,scriptwriter
+2941,Wai-Keung Chan,1,scriptwriter
+2942,Zhi Min Sheng,1,scriptwriter
+2943,Kathy McWorter,1,scriptwriter
+2944,张问,1,scriptwriter
+2945,帕梅拉·林登·特拉弗斯,1,scriptwriter
+2946,詹姆斯·华纳·贝拉,1,scriptwriter
+2947,威利斯·戈德贝克,1,scriptwriter
+2948,耿晓敏,1,scriptwriter
+2949,柴崎友香,1,scriptwriter
+2950,斯图尔特·拉菲尔,1,scriptwriter
+2951,詹姆斯·汉森,1,scriptwriter
+2952,Jim Harrison,1,scriptwriter
+2953,Jeffrey Alan Fiskin,1,scriptwriter
+2954,乔·麦斯特洛夫,1,scriptwriter
+2955,克里斯托弗·艾什伍德,1,scriptwriter
+2956,陈泳旭,1,scriptwriter
+2957,菲尔·奥尔登·罗宾森,1,scriptwriter
+2958,简文,1,scriptwriter
+2959,帕特里西亚·玛佐,1,scriptwriter
+2960,Yves Thomas,1,scriptwriter
+2961,赵博君,1,scriptwriter
+2962,亨利·盖登,1,scriptwriter
+2963,比尔·帕克,1,scriptwriter
+2964,C·C·贝克,1,scriptwriter
+2965,弗兰克·S·纽金特,1,scriptwriter
+2966,艾伦·勒梅,1,scriptwriter
+2967,刘晓丹,1,scriptwriter
+2968,乔·霍代里·库克,1,scriptwriter
+2969,萨沙·潘,1,scriptwriter
+2970,朱埃尔·泰勒,1,scriptwriter
+2971,凯文·雷诺兹,1,scriptwriter
+2972,龚格尔,1,scriptwriter
+2973,严东旭,1,scriptwriter
+2974,郭帆,1,scriptwriter
+2975,叶俊策,1,scriptwriter
+2976,杨治学,1,scriptwriter
+2977,吴荑,1,scriptwriter
+2978,叶濡畅,1,scriptwriter
+2979,沈晶晶,1,scriptwriter
+2980,刘慈欣,1,scriptwriter
+2981,Mark Kasdan,1,scriptwriter
+2982,张哲,1,scriptwriter
+2983,迈克尔·勒西厄尔,1,scriptwriter
+2984,汤米·斯威德洛,1,scriptwriter
+2985,史蒂夫·特西奇,1,scriptwriter
+2986,丹·埃尔南德斯,1,scriptwriter
+2987,罗伯·莱特曼,1,scriptwriter
+2988,田尻智,1,scriptwriter
+2989,增田顺一,1,scriptwriter
+2990,杉森建,1,scriptwriter
+2991,卡罗尔·阿门,1,scriptwriter
+2992,约翰·萨克雷特·杨,1,scriptwriter
+2993,田军利,1,scriptwriter
+2994,费林军,1,scriptwriter
+2995,阿什利·鲍威尔,1,scriptwriter
+2996,E·T·A·霍夫曼,1,scriptwriter
+2997,洛维尔·冈茨,1,scriptwriter
+2998,巴巴卢·曼德尔,1,scriptwriter
+2999,陈鸿仪,1,scriptwriter
+3000,森下典子,1,scriptwriter
+3001,John Clifford,1,scriptwriter
+3002,鸟海永行,1,scriptwriter
+3003,郝铭,1,scriptwriter
+3004,张大鹏,1,scriptwriter
+3005,柳青伶,1,scriptwriter
+3006,内维尔·阿斯特利,1,scriptwriter
+3007,马克·贝克,1,scriptwriter
+3008,玛蒂尔达·崔斯特瑞姆,1,scriptwriter
+3009,安娜·波顿,1,scriptwriter
+3010,瑞安·弗雷克,1,scriptwriter
+3011,扬·拉豪尔,1,scriptwriter
+3012,雅各布·舒,1,scriptwriter
+3013,昆丁·布雷克,1,scriptwriter
+3014,李晓明,1,scriptwriter
+3015,格雷厄姆·查普曼,1,scriptwriter
+3016,艾瑞克·爱都,1,scriptwriter
+3017,特瑞·琼斯,1,scriptwriter
+3018,张栾,1,scriptwriter
+3019,徐伟,1,scriptwriter
+3020,吕安弦,1,scriptwriter
+3021,三宅唱,1,scriptwriter
+3022,Stefan Avalos,1,scriptwriter
+3023,Lance Weiler,1,scriptwriter
+3024,马修·福格尔,1,scriptwriter
+3025,钱晨光,1,scriptwriter
+3026,吴瑾蓉,1,scriptwriter
+3027,弗兰切斯卡·阿尔基布吉,1,scriptwriter
+3028,保罗·维尔齐,1,scriptwriter
+3029,Michael Zadoorian,1,scriptwriter
+3030,斯蒂芬·阿米登,1,scriptwriter
+3031,理查德·康登,1,scriptwriter
+3032,约翰·弗兰克海默,1,scriptwriter
+3033,莉莉安娜·卡瓦尼,1,scriptwriter
+3034,Italo Moscati,1,scriptwriter
+3035,芭芭拉·阿尔贝蒂,1,scriptwriter
+3036,阿梅代奥·帕加尼,1,scriptwriter
+3037,浦山桐郎,1,scriptwriter
+3038,三井隆史,1,scriptwriter
+3039,邱玉洁,1,scriptwriter
+3040,李正美,1,scriptwriter
+3041,拉拉·森迪姆,1,scriptwriter
+3042,王章俊,1,scriptwriter
+3043,邓磊,1,scriptwriter
+3044,佐向大,1,scriptwriter
+3045,埃德温·布卢姆,1,scriptwriter
+3046,韦浩川,1,scriptwriter
+3047,阿尔贝·杜邦泰尔,1,scriptwriter
+3048,皮耶尔·勒迈特,1,scriptwriter
+3049,里奥·马克思,1,scriptwriter
+3050,弗拉基米尔·纳博科夫,1,scriptwriter
+3051,詹姆斯·B·哈里斯,1,scriptwriter
+3052,迪特里希·加斯特卡,1,scriptwriter
+3053,拉斯·克劳梅,1,scriptwriter
+3054,阿尔卡季·斯特鲁加茨基,1,scriptwriter
+3055,鲍里斯·斯特鲁加茨基,1,scriptwriter
+3056,阿里吉特·比沙什,1,scriptwriter
+3057,约戈什·查德卡尔,1,scriptwriter
+3058,斯里兰姆·拉格万,1,scriptwriter
+3059,赫曼斯·饶,1,scriptwriter
+3060,普哈·拉达·瑟蒂,1,scriptwriter
+3061,奥利维耶·特雷内,1,scriptwriter
+3062,玛丽亚·梅尔尼克,1,scriptwriter
+3063,张北海,1,scriptwriter
+3064,珍妮芬·福克斯,1,scriptwriter
+3065,手塚昌明,1,scriptwriter
+3066,黑田洋介,1,scriptwriter
+3067,多莉亚·蒂利耶,1,scriptwriter
+3068,米兰·昆德拉,1,scriptwriter
+3069,巴克·亨利,1,scriptwriter
+3070,查尔斯·韦伯,1,scriptwriter
+3071,金可,1,scriptwriter
+3072,大卫·邓肯,1,scriptwriter
+3073,林海音,1,scriptwriter
+3074,阿拉斯泰尔·雷诺兹,1,scriptwriter
+3075,彼得·F·汉密尔顿,1,scriptwriter
+3076,马尔科·克鲁斯,1,scriptwriter
+3077,贾尼斯·罗伯逊,1,scriptwriter
+3078,白雪,1,scriptwriter
+3079,林美如,1,scriptwriter
+3080,孙妍,1,scriptwriter
+3081,赵丹娜,1,scriptwriter
+3082,小彭,1,scriptwriter
+3083,尹钟彬,1,scriptwriter
+3084,詹姆斯·鲍德温,1,scriptwriter
+3085,长谷川圭一,1,scriptwriter
+3086,顾浩然,1,scriptwriter
+3087,莫尔特·魏辛格,1,scriptwriter
+3088,保罗·诺里斯,1,scriptwriter
+3089,吴京,1,scriptwriter
+3090,董群,1,scriptwriter
+3091,罗伯特·斯文克,1,scriptwriter
+3092,檀一雄,1,scriptwriter
+3093,桂千穗,1,scriptwriter
+3094,罗布·怀特,1,scriptwriter
+3095,刘晗,1,scriptwriter
+3096,麦灵,1,scriptwriter
+3097,张亚亮,1,scriptwriter
+3098,唐七,1,scriptwriter
+3099,胡蓉蓉,1,scriptwriter
+3100,杨苗,1,scriptwriter
+3101,郭子圣,1,scriptwriter
+3102,木城幸人,1,scriptwriter
+3103,布莱恩·本迪斯,1,scriptwriter
+3104,萨拉·皮凯利,1,scriptwriter
+3105,戴维·海因,1,scriptwriter
+3106,法布里斯·萨波尔斯基,1,scriptwriter
+3107,沙龙·迈蒙,1,scriptwriter
+3108,盖·纳蒂弗,1,scriptwriter
+3109,德博拉·戴维斯,1,scriptwriter
+3110,阿尼什·查甘蒂,1,scriptwriter
+3111,赛弗·奥哈尼安,1,scriptwriter
+3112,奥库勒·查乌赫雷,1,scriptwriter
+3113,西达夫·马贺拉,1,scriptwriter
+3114,巴·哈达普,1,scriptwriter
+3115,加内萨·潘德特,1,scriptwriter
+3116,杰勒·哈伦德,1,scriptwriter
+3117,杰夫·弗拉德利,1,scriptwriter
+3118,约翰·卡朋特,1,scriptwriter
+3119,黛布拉·希尔,1,scriptwriter
+3120,王思,1,scriptwriter
+3121,王欢,1,scriptwriter
+3122,金智永,1,scriptwriter
+3123,黛布拉·格兰尼克,1,scriptwriter
+3124,安娜·罗塞里尼,1,scriptwriter
+3125,彼得·罗克,1,scriptwriter
+3126,池上纯哉,1,scriptwriter
+3127,柚月裕子,1,scriptwriter
+3128,乔纳森·埃梅斯,1,scriptwriter
+3129,药丸岳,1,scriptwriter
+3130,黄霑,1,scriptwriter
+3131,罗歇·皮戈,1,scriptwriter
+3132,安托万·图达尔,1,scriptwriter
+3133,徐誉庭,1,scriptwriter
+3134,查利·瓦赫特尔,1,scriptwriter
+3135,大卫·拉比诺维茨,1,scriptwriter
+3136,罗恩·施塔沃思,1,scriptwriter
+3137,玛丽娜·马丁斯,1,scriptwriter
+3138,布莱德利·库珀,1,scriptwriter
+3139,威尔·法特斯,1,scriptwriter
+3140,约翰·格列高利·邓恩,1,scriptwriter
+3141,琼·狄迪恩,1,scriptwriter
+3142,威廉·A·韦尔曼,1,scriptwriter
+3143,罗伯特·卡森,1,scriptwriter
+3144,格伦·麦考伊,1,scriptwriter
+3145,大卫·罗森鲍姆,1,scriptwriter
+3146,亚罗·切尼,1,scriptwriter
+3147,皮埃尔·柯芬,1,scriptwriter
+3148,特雷弗·希门尼斯,1,scriptwriter
+3149,安德鲁·查斯沃斯,1,scriptwriter
+3150,巴比·庞迪亚斯,1,scriptwriter
+3151,露易丝·巴格诺尔,1,scriptwriter
+3152,许金焰,1,scriptwriter
+3153,彭兆平,1,scriptwriter
+3154,彭江流,1,scriptwriter
+3155,胡波,1,scriptwriter
+3156,贝特朗·芒蒂格,1,scriptwriter
+3157,科比·迪克,1,scriptwriter
+3158,埃米·泽林,1,scriptwriter
+3159,米哈伊尔·伊多夫,1,scriptwriter
+3160,莉莉·伊多娃,1,scriptwriter
+3161,本杰明·雷内,1,scriptwriter
+3162,让·勒尼奥,1,scriptwriter
+3163,高山由紀子,1,scriptwriter
+3164,沙恩·布莱克,1,scriptwriter
+3165,亚历克斯·罗斯·派瑞,1,scriptwriter
+3166,格雷戈·布鲁克,1,scriptwriter
+3167,厄内斯特·谢巴德,1,scriptwriter
+3168,山浦弘靖,1,scriptwriter
+3169,埃里克·斯柯比约格,1,scriptwriter
+3170,Nikolaj Frobenius,1,scriptwriter
+3171,鲁速,1,scriptwriter
+3172,格恩迪·塔塔科夫斯基,1,scriptwriter
+3173,奥斯卡·索尔,1,scriptwriter
+3174,阿莉切·罗尔瓦赫尔,1,scriptwriter
+3175,安妮塔·多兰,1,scriptwriter
+3176,黛博拉·伊莉丝,1,scriptwriter
+3177,上田慎一郎,1,scriptwriter
+3178,李章焄,1,scriptwriter
+3179,姜秀贞,1,scriptwriter
+3180,市川拓司,1,scriptwriter
+3181,于飞,1,scriptwriter
+3182,陈静,1,scriptwriter
+3183,李夏恩,1,scriptwriter
+3184,朱莉·戈蒂埃,1,scriptwriter
+3185,马克斯·波特,1,scriptwriter
+3186,桑畑瑠,1,scriptwriter
+3187,杰西卡·斯维尔,1,scriptwriter
+3188,冼杞然,1,scriptwriter
+3189,理查德·康奈尔,1,scriptwriter
+3190,光武藏人,1,scriptwriter
+3191,张林旭,1,scriptwriter
+3192,乔恩·卡斯丹,1,scriptwriter
+3193,雅努什·格沃瓦茨基,1,scriptwriter
+3194,博·伯翰,1,scriptwriter
+3195,斯波一絵,1,scriptwriter
+3196,黎杰,1,scriptwriter
+3197,张鹏,1,scriptwriter
+3198,刘智林,1,scriptwriter
+3199,罗森·马歇尔·瑟伯,1,scriptwriter
+3200,托德·麦克法兰,1,scriptwriter
+3201,大卫·米其林,1,scriptwriter
+3202,基思·温特,1,scriptwriter
+3203,朱迪·莫里斯,1,scriptwriter
+3204,马克·兰普雷尔,1,scriptwriter
+3205,雷成功,1,scriptwriter
+3206,李威,1,scriptwriter
+3207,黄渤,1,scriptwriter
+3208,黄湛中,1,scriptwriter
+3209,奥利维亚·米尔奇,1,scriptwriter
+3210,凯文·关,1,scriptwriter
+3211,让·多米尼克·鲍比,1,scriptwriter
+3212,彼得·布鲁克,1,scriptwriter
+3213,威廉·戈尔丁,1,scriptwriter
+3214,拉斐尔·乔丹,1,scriptwriter
+3215,瑞安·雷诺兹,1,scriptwriter
+3216,罗伯·莱菲尔德,1,scriptwriter
+3217,露易丝·西蒙森,1,scriptwriter
+3218,莱恩·韦恩,1,scriptwriter
+3219,法比安·尼切扎,1,scriptwriter
+3220,阿尔·C·沃德,1,scriptwriter
+3221,香山滋,1,scriptwriter
+3222,艾拉·莱文,1,scriptwriter
+3223,欧·帕克,1,scriptwriter
+3224,日高繁明,1,scriptwriter
+3225,金东圭,1,scriptwriter
+3226,郭建乐,1,scriptwriter
+3227,张之彦,1,scriptwriter
+3228,达恩·威登霍普,1,scriptwriter
+3229,艾尔伯特·休斯,1,scriptwriter
+3230,约翰·劳瑞,1,scriptwriter
+3231,A.B. Jawdat El-Sahhar,1,scriptwriter
+3232,A.B. Rahman El-Sharkawi,1,scriptwriter
+3233,H.A.L. Craig,1,scriptwriter
+3234,凯瑟琳·约翰逊,1,scriptwriter
+3235,杰达·托伦,1,scriptwriter
+3236,安德鲁·贝伦,1,scriptwriter
+3237,加百利·法拉利,1,scriptwriter
+3238,内田百闲,1,scriptwriter
+3239,杨官林,1,scriptwriter
+3240,赵越,1,scriptwriter
+3241,吕旭,1,scriptwriter
+3242,上海市《龙江颂》剧组集体改编,1,scriptwriter
+3243,豪尔赫·森普伦,1,scriptwriter
+3244,瓦西利斯·瓦西利科斯,1,scriptwriter
+3245,蒂姆·费德勒尔,1,scriptwriter
+3246,罗恩·伯奇,1,scriptwriter
+3247,大卫·基德,1,scriptwriter
+3248,曼罗·里夫,1,scriptwriter
+3249,罗伯特·劳森,1,scriptwriter
+3250,克里斯托夫·奥诺雷,1,scriptwriter
+3251,村田喜代子,1,scriptwriter
+3252,关正良,1,scriptwriter
+3253,蔡秋林,1,scriptwriter
+3254,史蒂夫·艾尔顿,1,scriptwriter
+3255,阿兰·登特,1,scriptwriter
+3256,达拉斯·鲍尔,1,scriptwriter
+3257,劳伦斯·奥利弗,1,scriptwriter
+3258,有川浩,1,scriptwriter
+3259,李微漪,1,scriptwriter
+3260,英宁,1,scriptwriter
+3261,于奥,1,scriptwriter
+3262,周铁男,1,scriptwriter
+3263,舒敦杭,1,scriptwriter
+3264,帕诺斯·科斯马图斯,1,scriptwriter
+3265,亚伦·斯图尔特-安,1,scriptwriter
+3266,夏衍,1,scriptwriter
+3267,汤浅政明,1,scriptwriter
+3268,Vladimir Arseniev,1,scriptwriter
+3269,尤里·纳吉宾,1,scriptwriter
+3270,刘泉,1,scriptwriter
+3271,徐进,1,scriptwriter
+3272,桑弧,1,scriptwriter
+3273,川内康范,1,scriptwriter
+3274,李无影,1,scriptwriter
+3275,郑成山,1,scriptwriter
+3276,陈敢权,1,scriptwriter
+3277,孙瑜,1,scriptwriter
+3278,河原和音,1,scriptwriter
+3279,前涉,1,scriptwriter
+3280,迈克·凯西,1,scriptwriter
+3281,方世强,1,scriptwriter
+3282,李昭,1,scriptwriter
+3283,曹晨,1,scriptwriter
+3284,黄小庄,1,scriptwriter
+3285,甘霖,1,scriptwriter
+3286,刘逊,1,scriptwriter
+3287,齐如山,1,scriptwriter
+3288,杨世庆,1,scriptwriter
+3289,王冲,1,scriptwriter
+3290,杨钧钧,1,scriptwriter
+3291,川村元气,1,scriptwriter
+3292,具流八郎,1,scriptwriter
+3293,斯科特·德瑞克森,1,scriptwriter
+3294,C·罗伯特·嘉吉,1,scriptwriter
+3295,俞真,1,scriptwriter
+3296,林永长,1,scriptwriter
+3297,牛志远,1,scriptwriter
+3298,高凌伟,1,scriptwriter
+3299,彼得·博格,1,scriptwriter
+3300,马特·库克,1,scriptwriter
+3301,张家辉,1,scriptwriter
+3302,古龍,1,scriptwriter
+3303,王度庐,1,scriptwriter
+3304,弗兰克·盖思堂彼得,1,scriptwriter
+3305,斯特凡纳·卡赞吉安,1,scriptwriter
+3306,瓦莱斯卡·格里巴赫,1,scriptwriter
+3307,王瑜,1,scriptwriter
+3308,詹京霖,1,scriptwriter
+3309,保罗·金,1,scriptwriter
+3310,西蒙·法纳比,1,scriptwriter
+3311,迈克尔·邦德,1,scriptwriter
+3312,保罗·莫纳什,1,scriptwriter
+3313,大卫·马可尼,1,scriptwriter
+3314,史蒂芬·莱泽,1,scriptwriter
+3315,天下霸唱,1,scriptwriter
+3316,叶铭浩,1,scriptwriter
+3317,卡尔顿·库斯,1,scriptwriter
+3318,莱恩·康道尔,1,scriptwriter
+3319,亚当·希泰凯尔,1,scriptwriter
+3320,Rusty Lemorande,1,scriptwriter
+3321,马克西姆·高尔基,1,scriptwriter
+3322,罗伯特·赖因,1,scriptwriter
+3323,Will Chasen,1,scriptwriter
+3324,王乾白,1,scriptwriter
+3325,天然,1,scriptwriter
+3326,高桥奈津子,1,scriptwriter
+3327,文乃有纪,1,scriptwriter
+3328,David Carter,1,scriptwriter
+3329,卢奎西亚·马特尔,1,scriptwriter
+3330,安东尼奥·迪贝内代托,1,scriptwriter
+3331,马徐维邦,1,scriptwriter
+3332,张吃鱼,1,scriptwriter
+3333,宋阳,1,scriptwriter
+3334,新川直司,1,scriptwriter
+3335,龙居由佳里,1,scriptwriter
+3336,René Masson,1,scriptwriter
+3337,弗雷德里克·格伦德尔,1,scriptwriter
+3338,弗兰克·塔许林,1,scriptwriter
+3339,赫伯特·贝克,1,scriptwriter
+3340,王莉莉,1,scriptwriter
+3341,李洋,1,scriptwriter
+3342,江良至,1,scriptwriter
+3343,顾在林,1,scriptwriter
+3344,叶沛洁,1,scriptwriter
+3345,梦枕貘,1,scriptwriter
+3346,野村训市,1,scriptwriter
+3347,Nobumitsu Kanze,1,scriptwriter
+3348,Gohei Namiki,1,scriptwriter
+3349,苏伦,1,scriptwriter
+3350,王贻兴,1,scriptwriter
+3351,热纳罗·努基阿德,1,scriptwriter
+3352,切柯·扎罗内,1,scriptwriter
+3353,安德烈·康查洛夫斯基,1,scriptwriter
+3354,袁琼琼,1,scriptwriter
+3355,潘彧,1,scriptwriter
+3356,安巍,1,scriptwriter
+3357,刘若英,1,scriptwriter
+3358,郭德纲,1,scriptwriter
+3359,陈璧瑜,1,scriptwriter
+3360,沃尔夫冈·赫恩多夫,1,scriptwriter
+3361,拉斯·胡布里希,1,scriptwriter
+3362,法提赫·阿金,1,scriptwriter
+3363,哈克·波姆,1,scriptwriter
+3364,克里斯·范·奥斯伯格,1,scriptwriter
+3365,陈丽英,1,scriptwriter
+3366,江原千登势,1,scriptwriter
+3367,最合昇,1,scriptwriter
+3368,莉娜·亚达夫,1,scriptwriter
+3369,苏普拉蒂克·森,1,scriptwriter
+3370,亚历克斯·加兰,1,scriptwriter
+3371,杰夫·万德米尔,1,scriptwriter
+3372,莫根斯·卢克夫,1,scriptwriter
+3373,曾英庭,1,scriptwriter
+3374,施虹如,1,scriptwriter
+3375,张人杰,1,scriptwriter
+3376,文森特·贾洪,1,scriptwriter
+3377,朱利安·罗贝侬,1,scriptwriter
+3378,伊丽莎白·伯格,1,scriptwriter
+3379,艾萨克·阿普塔克,1,scriptwriter
+3380,贝奇·艾伯特利,1,scriptwriter
+3381,吴政美,1,scriptwriter
+3382,谷口千吉,1,scriptwriter
+3383,菊田一夫,1,scriptwriter
+3384,今何在,1,scriptwriter
+3385,黄智亨,1,scriptwriter
+3386,任鹏远,1,scriptwriter
+3387,阿拉斯泰尔·西登斯,1,scriptwriter
+3388,Stanley Haynes,1,scriptwriter
+3389,贝尔恩德·利希滕伯格,1,scriptwriter
+3390,沃尔夫冈·贝克,1,scriptwriter
+3391,陈昱俐,1,scriptwriter
+3392,李芳芳,1,scriptwriter
+3393,格雷戈·赛斯特罗,1,scriptwriter
+3394,汤姆·比塞尔,1,scriptwriter
+3395,黄成求,1,scriptwriter
+3396,多洛塔·科别拉,1,scriptwriter
+3397,休·韦尔什曼,1,scriptwriter
+3398,贾科·丹纳尔,1,scriptwriter
+3399,谢晋,1,scriptwriter
+3400,谢丽·怀特,1,scriptwriter
+3401,广木隆一,1,scriptwriter
+3402,肖恩·弗林,1,scriptwriter
+3403,斯蒂文·S·迪奈特,1,scriptwriter
+3404,艾米丽·卡迈克尔,1,scriptwriter
+3405,吉拉·斯奈德,1,scriptwriter
+3406,齐德·多尔里,1,scriptwriter
+3407,乔埃尔·图玛,1,scriptwriter
+3408,Cecil McGivern,1,scriptwriter
+3409,Brad Keene,1,scriptwriter
+3410,谈宜之,1,scriptwriter
+3411,王然,1,scriptwriter
+3412,冯骥,1,scriptwriter
+3413,沼田真帆香留,1,scriptwriter
+3414,郑范识,1,scriptwriter
+3415,阿德瓦·香登,1,scriptwriter
+3416,陈楚珩,1,scriptwriter
+3417,严以宁,1,scriptwriter
+3418,莲舟,1,scriptwriter
+3419,张淳,1,scriptwriter
+3420,高丽锋,1,scriptwriter
+3421,史蒂夫·弗兰克斯,1,scriptwriter
+3422,詹姆斯·罗德,1,scriptwriter
+3423,罗宾·坎皮略,1,scriptwriter
+3424,菲利普·芒朱,1,scriptwriter
+3425,罗伯·列博,1,scriptwriter
+3426,西恩·潘,1,scriptwriter
+3427,乔恩·克拉考尔,1,scriptwriter
+3428,琼·林赛,1,scriptwriter
+3429,克利夫·格林,1,scriptwriter
+3430,陈为军,1,scriptwriter
+3431,罗宾·贝恩,1,scriptwriter
+3432,前川知大,1,scriptwriter
+3433,吴有音,1,scriptwriter
+3434,阿米特·马斯卡尔,1,scriptwriter
+3435,马扬克·特瓦利,1,scriptwriter
+3436,米林宏昌,1,scriptwriter
+3437,玛丽·斯图尔特,1,scriptwriter
+3438,苌江,1,scriptwriter
+3439,王潮,1,scriptwriter
+3440,迟海,1,scriptwriter
+3441,瑞秋·申顿,1,scriptwriter
+3442,伊尔蒂科·茵叶蒂,1,scriptwriter
+3443,塔妮达·汉塔维瓦塔娜,1,scriptwriter
+3444,瓦苏红·皮娅罗姆娜,1,scriptwriter
+3445,纳塔吾·彭皮里亚,1,scriptwriter
+3446,重松清,1,scriptwriter
+3447,Alexandre Dumas père,1,scriptwriter
+3448,Dan Totheroh,1,scriptwriter
+3449,Philip Dunne,1,scriptwriter
+3450,让·热内,1,scriptwriter
+3451,游非,1,scriptwriter
+3452,井上坚二,1,scriptwriter
+3453,水濑叶月,1,scriptwriter
+3454,乔纳森·佩雷拉,1,scriptwriter
+3455,安达奈绪子,1,scriptwriter
+3456,山森三香,1,scriptwriter
+3457,塞巴斯蒂安·莱里奥,1,scriptwriter
+3458,刚扎洛·玛萨,1,scriptwriter
+3459,蓝白色,1,scriptwriter
+3460,费德·阿尔瓦雷兹,1,scriptwriter
+3461,罗多·赛亚格斯,1,scriptwriter
+3462,乔·罗伯特·科尔,1,scriptwriter
+3463,弗兰克·科特雷尔·博伊斯,1,scriptwriter
+3464,张立嘉,1,scriptwriter
+3465,上田诚,1,scriptwriter
+3466,森见登美彦,1,scriptwriter
+3467,Pat Hackett,1,scriptwriter
+3468,James Townsend,1,scriptwriter
+3469,黄石,1,scriptwriter
+3470,中川千英子,1,scriptwriter
+3471,和田龙,1,scriptwriter
+3472,吉野弘幸,1,scriptwriter
+3473,矢口史靖,1,scriptwriter
+3474,侯志强,1,scriptwriter
+3475,叶伟忠,1,scriptwriter
+3476,文素丽,1,scriptwriter
+3477,Scott Pryor,1,scriptwriter
+3478,培特尔·亚尔乔夫斯基,1,scriptwriter
+3479,泉吉纮,1,scriptwriter
+3480,古屋兔丸,1,scriptwriter
+3481,肖洋,1,scriptwriter
+3482,郭异雯,1,scriptwriter
+3483,徐纪周,1,scriptwriter
+3484,李贤宇,1,scriptwriter
+3485,姜帝圭,1,scriptwriter
+3486,张森,1,scriptwriter
+3487,宋啸,1,scriptwriter
+3488,孙思雨,1,scriptwriter
+3489,朱思溢,1,scriptwriter
+3490,马可·贝洛基奥,1,scriptwriter
+3491,丽兹·汉娜,1,scriptwriter
+3492,杨秉佳,1,scriptwriter
+3493,沃利·亚历斯戴尔,1,scriptwriter
+3494,珍妮·比克,1,scriptwriter
+3495,茉莉·布鲁姆,1,scriptwriter
+3496,达利博尔·马塔尼奇,1,scriptwriter
+3497,科比·布莱恩特,1,scriptwriter
+3498,石井裕也,1,scriptwriter
+3499,最果夕日,1,scriptwriter
+3500,埃默·雷诺兹,1,scriptwriter
+3501,高井有一,1,scriptwriter
+3502,荻上直子,1,scriptwriter
+3503,杨永祥,1,scriptwriter
+3504,巴瑞·科菲,1,scriptwriter
+3505,冯唐,1,scriptwriter
+3506,赵汉唐,1,scriptwriter
+3507,高正,1,scriptwriter
+3508,周侯衡,1,scriptwriter
+3509,李逍雪,1,scriptwriter
+3510,大冈升平,1,scriptwriter
+3511,赖建国,1,scriptwriter
+3512,文晏,1,scriptwriter
+3513,斯蒂芬·罗杰斯,1,scriptwriter
+3514,本杰明·布鲁尔,1,scriptwriter
+3515,亚当·赫希,1,scriptwriter
+3516,安德烈斯·杜普拉特,1,scriptwriter
+3517,赫伯特·欧内斯特·贝茨,1,scriptwriter
+3518,长久允,1,scriptwriter
+3519,Nicole C. Conrad,1,scriptwriter
+3520,Beth David,1,scriptwriter
+3521,Esteban Bravo,1,scriptwriter
+3522,渡边信一郎,1,scriptwriter
+3523,戴夫·穆林斯,1,scriptwriter
+3524,中野太,1,scriptwriter
+3525,史蒂夫·福斯特,1,scriptwriter
+3526,罗伯特·艾格斯,1,scriptwriter
+3527,奥莱格·涅金,1,scriptwriter
+3528,安德烈·萨金塞夫,1,scriptwriter
+3529,皮埃尔·克里斯汀,1,scriptwriter
+3530,让-克劳德·梅济耶尔,1,scriptwriter
+3531,苏彪,1,scriptwriter
+3532,塔斯托·闻瑟尔,1,scriptwriter
+3533,丹·关,1,scriptwriter
+3534,丹尼尔·施纳特,1,scriptwriter
+3535,迈克尔·卡莱奥,1,scriptwriter
+3536,托尼诺·贝纳奎斯塔,1,scriptwriter
+3537,Norman Snider,1,scriptwriter
+3538,李晨,1,scriptwriter
+3539,张力,1,scriptwriter
+3540,高岩,1,scriptwriter
+3541,褚翔宇,1,scriptwriter
+3542,蒂莫斯·道灵,1,scriptwriter
+3543,帕特里克·简,1,scriptwriter
+3544,戴夫·吉布森,1,scriptwriter
+3545,高木登,1,scriptwriter
+3546,藤卷忠俊,1,scriptwriter
+3547,约翰·曼凯维奇,1,scriptwriter
+3548,乔伊思·卡罗尔·奥特兹,1,scriptwriter
+3549,斯科特·温德豪泽,1,scriptwriter
+3550,保罗·盖特,1,scriptwriter
+3551,凯尔·亨特,1,scriptwriter
+3552,艾瑞尔·沙福,1,scriptwriter
+3553,郭柯,1,scriptwriter
+3554,雅克·塔尔迪,1,scriptwriter
+3555,阿兰蒂·卡瓦特,1,scriptwriter
+3556,萨基特·乔杜里,1,scriptwriter
+3557,琪娜特·拉克哈尼,1,scriptwriter
+3558,阿米托什·纳格庖,1,scriptwriter
+3559,Abbe Wool,1,scriptwriter
+3560,剣持亘,1,scriptwriter
+3561,山中恒,1,scriptwriter
+3562,Chin Wei Lin,1,scriptwriter
+3563,克里斯·韦兹,1,scriptwriter
+3564,约翰·诺尔,1,scriptwriter
+3565,加里·维塔,1,scriptwriter
+3566,蔡斯·帕默,1,scriptwriter
+3567,刘宝拉,1,scriptwriter
+3568,布莱恩·菲,1,scriptwriter
+3569,伊尔·波戴尔,1,scriptwriter
+3570,乔纳森·E·斯图尔特,1,scriptwriter
+3571,迈克·里奇,1,scriptwriter
+3572,卓亦谦,1,scriptwriter
+3573,阿尔伯特·塞拉,1,scriptwriter
+3574,蒂里·卢纳斯,1,scriptwriter
+3575,克雷格·凯尔,1,scriptwriter
+3576,克里斯托弗·约斯特,1,scriptwriter
+3577,肯尼亚·巴里斯,1,scriptwriter
+3578,崔茜·奥利弗,1,scriptwriter
+3579,张天辉,1,scriptwriter
+3580,阳建军,1,scriptwriter
+3581,索伦·斯外斯特普,1,scriptwriter
+3582,汉普顿·范彻,1,scriptwriter
+3583,何志恒,1,scriptwriter
+3584,乔恩·贝尔坦,1,scriptwriter
+3585,布莱恩·佛格尔,1,scriptwriter
+3586,蒂莫西·罗德,1,scriptwriter
+3587,鲁丝·普罗厄·贾布瓦拉,1,scriptwriter
+3588,石黑一雄,1,scriptwriter
+3589,隋佳林,1,scriptwriter
+3590,高信影,1,scriptwriter
+3591,赵聪,1,scriptwriter
+3592,欧格斯·兰斯莫斯,1,scriptwriter
+3593,埃夫西米斯·菲利普,1,scriptwriter
+3594,张律,1,scriptwriter
+3595,杰夫·詹森,1,scriptwriter
+3596,莱昂内尔·威格拉姆,1,scriptwriter
+3597,杰夫·克利曼,1,scriptwriter
+3598,大卫·威尔森,1,scriptwriter
+3599,萨姆·罗尔夫,1,scriptwriter
+3600,阿兰·勒亨利,1,scriptwriter
+3601,Sophie Schmit,1,scriptwriter
+3602,金圭烷,1,scriptwriter
+3603,申太罗,1,scriptwriter
+3604,凯西·杰伊,1,scriptwriter
+3605,米切·库林,1,scriptwriter
+3606,杰弗里·哈彻,1,scriptwriter
+3607,高橋悠也,1,scriptwriter
+3608,加藤祐司,1,scriptwriter
+3609,毛海青,1,scriptwriter
+3610,巴瑞·克鲁普,1,scriptwriter
+3611,特阿雷巴·卡希,1,scriptwriter
+3612,Javier Mayol,1,scriptwriter
+3613,泽维尔·多兰,1,scriptwriter
+3614,让-吕克·拉加尔斯,1,scriptwriter
+3615,傅燕,1,scriptwriter
+3616,陈钺晖,1,scriptwriter
+3617,杨勇,1,scriptwriter
+3618,白石晃士,1,scriptwriter
+3619,艾米丽·V·戈登,1,scriptwriter
+3620,库梅尔·南贾尼,1,scriptwriter
+3621,Mathieu Landais,1,scriptwriter
+3622,钟盛远,1,scriptwriter
+3623,黄慧惠,1,scriptwriter
+3624,胡明凯,1,scriptwriter
+3625,杰夫·奥洛威斯基,1,scriptwriter
+3626,戴维斯·库姆贝,1,scriptwriter
+3627,维奇·柯蒂斯,1,scriptwriter
+3628,普皮·阿瓦蒂,1,scriptwriter
+3629,赛尔乔·奇蒂,1,scriptwriter
+3630,萨德侯爵,1,scriptwriter
+3631,周拓如,1,scriptwriter
+3632,辛夷坞,1,scriptwriter
+3633,塔瑞尔·麦卡尼,1,scriptwriter
+3634,玛戈特·李·谢特利,1,scriptwriter
+3635,小栗康平,1,scriptwriter
+3636,刘国伟,1,scriptwriter
+3637,果晓丹,1,scriptwriter
+3638,曾福明,1,scriptwriter
+3639,关震峰,1,scriptwriter
+3640,高桥敦史,1,scriptwriter
+3641,曼孔布·戈帕拉克里希南,1,scriptwriter
+3642,Nick Barkow,1,scriptwriter
+3643,诺夫·舒贝尔,1,scriptwriter
+3644,Ruth Toma,1,scriptwriter
+3645,査慕春,1,scriptwriter
+3646,汤姆·福特,1,scriptwriter
+3647,奥斯丁·赖特,1,scriptwriter
+3648,鲍里斯·瓦西里耶夫,1,scriptwriter
+3649,斯坦尼斯拉夫·罗斯托茨基,1,scriptwriter
+3650,富永昌敬,1,scriptwriter
+3651,安倍夜郎(原著),1,scriptwriter
+3652,仲宁,1,scriptwriter
+3653,刘同,1,scriptwriter
+3654,姚婷婷,1,scriptwriter
+3655,杰斯·里奇,1,scriptwriter
+3656,谢恩·普利格莫,1,scriptwriter
+3657,张维重,1,scriptwriter
+3658,安倍夜郎,1,scriptwriter
+3659,萨米埃尔·本谢特里,1,scriptwriter
+3660,Maninder Chana,1,scriptwriter
+3661,Halsted Welles,1,scriptwriter
+3662,長瀬喜伴,1,scriptwriter
+3663,牛田宏,1,scriptwriter
+3664,斎藤寅四郎,1,scriptwriter
+3665,江均,1,scriptwriter
+3666,李·查德,1,scriptwriter
+3667,沃伊切赫·斯玛若夫斯基,1,scriptwriter
+3668,Michael Oswald,1,scriptwriter
+3669,Mike Horwath,1,scriptwriter
+3670,吉勒斯·帕瑞斯,1,scriptwriter
+3671,杰马诺·祖罗,1,scriptwriter
+3672,克洛德·巴拉斯,1,scriptwriter
+3673,莫根·纳瓦罗,1,scriptwriter
+3674,高桥知由,1,scriptwriter
+3675,尹佳恩,1,scriptwriter
+3676,斯泰西·哈曼,1,scriptwriter
+3677,大今良时,1,scriptwriter
+3678,山田茜,1,scriptwriter
+3679,长谷川至,1,scriptwriter
+3680,梅尔·梅洛伊,1,scriptwriter
+3681,罗杰·梅因伍德,1,scriptwriter
+3682,雷蒙德·布里格斯,1,scriptwriter
+3683,安托南·佩里提亚可,1,scriptwriter
+3684,弗雷德里克·西里耶,1,scriptwriter
+3685,尼克拉斯·拉德斯特罗姆,1,scriptwriter
+3686,罗棋,1,scriptwriter
+3687,岛津保次郎,1,scriptwriter
+3688,Jacob Colman,1,scriptwriter
+3689,杰米·莫斯,1,scriptwriter
+3690,威廉·惠勒,1,scriptwriter
+3691,帕布罗·拉雷恩,1,scriptwriter
+3692,Daniel Villalobos,1,scriptwriter
+3693,盖伊·希伯特,1,scriptwriter
+3694,高桥悠也,1,scriptwriter
+3695,片渊须直,1,scriptwriter
+3696,河野史代,1,scriptwriter
+3697,中村明日美子,1,scriptwriter
+3698,媚媚猫,1,scriptwriter
+3699,张秀洁,1,scriptwriter
+3700,韩瑞,1,scriptwriter
+3701,马月红,1,scriptwriter
+3702,迈克尔·莱斯利,1,scriptwriter
+3703,桥口亮辅,1,scriptwriter
+3704,詹姆斯·索特,1,scriptwriter
+3705,奥克利·豪尔,1,scriptwriter
+3706,黃生,1,scriptwriter
+3707,艾伦·海因伯格,1,scriptwriter
+3708,恩丽卡·安东尼奥尼,1,scriptwriter
+3709,Carlo Di Carlo,1,scriptwriter
+3710,约翰·惠廷顿,1,scriptwriter
+3711,姜峯楠,1,scriptwriter
+3712,亚伦·坎德尔,1,scriptwriter
+3713,乔丹·坎德尔,1,scriptwriter
+3714,喜安浩平,1,scriptwriter
+3715,前川裕,1,scriptwriter
+3716,玛拉·弗雷齐,1,scriptwriter
+3717,埃曼纽·本比,1,scriptwriter
+3718,Tristan Carné,1,scriptwriter
+3719,伊斯雷尔·霍洛维茨,1,scriptwriter
+3720,Hall Powell,1,scriptwriter
+3721,詹姆斯·C·斯特劳斯,1,scriptwriter
+3722,乔舒亚·马斯顿,1,scriptwriter
+3723,亚力桑德拉·卡索维茨,1,scriptwriter
+3724,娜塔莉·波特曼,1,scriptwriter
+3725,费斯·阿金,1,scriptwriter
+3726,伊万·阿达勒,1,scriptwriter
+3727,詹姆斯·鲍恩,1,scriptwriter
+3728,加里·詹金斯,1,scriptwriter
+3729,提姆·约翰,1,scriptwriter
+3730,玛丽亚·内申,1,scriptwriter
+3731,胡安·罗耀拉,1,scriptwriter
+3732,Esteban Student,1,scriptwriter
+3733,张大磊,1,scriptwriter
+3734,凯莉·弗莱蒙·克雷格,1,scriptwriter
+3735,F·斯科特·弗雷泽,1,scriptwriter
+3736,里奇·威尔克斯,1,scriptwriter
+3737,洛伦佐·维加斯,1,scriptwriter
+3738,Maurice Legendre,1,scriptwriter
+3739,Rafael Sánchez Ventura,1,scriptwriter
+3740,Pierre Unik,1,scriptwriter
+3741,让-克里斯托弗·卡斯特里,1,scriptwriter
+3742,本·方丹,1,scriptwriter
+3743,马克斯·布鲁克斯,1,scriptwriter
+3744,托马斯·丹姆,1,scriptwriter
+3745,萨尔瓦多·达利,1,scriptwriter
+3746,罗伯特·布利斯,1,scriptwriter
+3747,维克托·赫尔曼,1,scriptwriter
+3748,弗洛林·拉扎瑞索,1,scriptwriter
+3749,杰罗姆·法斯腾,1,scriptwriter
+3750,伯努瓦·菲利,1,scriptwriter
+3751,此元和津也,1,scriptwriter
+3752,宫崎大,1,scriptwriter
+3753,艾娃·德约列,1,scriptwriter
+3754,斯宾塞·阿福瑞克,1,scriptwriter
+3755,亚历杭德罗·冈萨雷斯·伊纳里图,1,scriptwriter
+3756,尼古拉斯·迦科波恩,1,scriptwriter
+3757,亚历山大·迪内拉里斯,1,scriptwriter
+3758,阿尔曼多·博,1,scriptwriter
+3759,利桑德罗·阿隆索,1,scriptwriter
+3760,法比安·卡萨斯,1,scriptwriter
+3761,克洛德·索泰,1,scriptwriter
+3762,帕斯卡·查顿,1,scriptwriter
+3763,冯礼慈,1,scriptwriter
+3764,陈韵文,1,scriptwriter
+3765,Aaron Ginsburg,1,scriptwriter
+3766,Wade McIntyre,1,scriptwriter
+3767,于淼,1,scriptwriter
+3768,Jason Mosberg,1,scriptwriter
+3769,Janusz Fastyn,1,scriptwriter
+3770,马克·海姆斯,1,scriptwriter
+3771,Ireneusz Iredynski,1,scriptwriter
+3772,玛伦·阿德,1,scriptwriter
+3773,里奇·斯坦恩,1,scriptwriter
+3774,安妮·桑德博格,1,scriptwriter
+3775,迈克·米尔斯,1,scriptwriter
+3776,Ryszard Zgorecki,1,scriptwriter
+3777,克里斯·庄,1,scriptwriter
+3778,李涤凡,1,scriptwriter
+3779,Jean Scott Rogers,1,scriptwriter
+3780,沃尔特·默奇,1,scriptwriter
+3781,菲利普·迪昂,1,scriptwriter
+3782,哈罗德·曼宁,1,scriptwriter
+3783,尼古拉斯·温丁·雷弗恩,1,scriptwriter
+3784,马丁·巴特勒,1,scriptwriter
+3785,宾利·迪恩,1,scriptwriter
+3786,Royal K. Cole,1,scriptwriter
+3787,罗纳德·戴维森,1,scriptwriter
+3788,程耳,1,scriptwriter
+3789,托德·考马尔尼基,1,scriptwriter
+3790,切斯利·舒伦伯格,1,scriptwriter
+3791,杰弗里·札斯洛,1,scriptwriter
+3792,克里斯托弗·迪克,1,scriptwriter
+3793,贝克斯·哈维,1,scriptwriter
+3794,克里斯汀·阿佐拉,1,scriptwriter
+3795,马修·怀尔德,1,scriptwriter
+3796,爱德华·邦克,1,scriptwriter
+3797,詹姆斯·曼高德,1,scriptwriter
+3798,迈克尔·度德威特,1,scriptwriter
+3799,帕斯卡尔·费兰,1,scriptwriter
+3800,艾伦·巴利拉罗,1,scriptwriter
+3801,利嘉進,1,scriptwriter
+3802,凯利·海斯,1,scriptwriter
+3803,查德·海斯,1,scriptwriter
+3804,卢雨岐,1,scriptwriter
+3805,冼子文,1,scriptwriter
+3806,许岚枫,1,scriptwriter
+3807,本杰明·格雷泽,1,scriptwriter
+3808,克里斯蒂安·蒙吉,1,scriptwriter
+3809,Hagar Wilde,1,scriptwriter
+3810,Henri Rochard,1,scriptwriter
+3811,莱昂纳德·施皮格尔加斯,1,scriptwriter
+3812,萨罗·布赖尔利,1,scriptwriter
+3813,卢克·戴维斯,1,scriptwriter
+3814,吴一啸,1,scriptwriter
+3815,科特·戈茨,1,scriptwriter
+3816,山本透,1,scriptwriter
+3817,阿兰·吉罗迪,1,scriptwriter
+3818,玛莎·葛莱姆,1,scriptwriter
+3819,LeRoy Leatherman,1,scriptwriter
+3820,雅克·普雷维尔,1,scriptwriter
+3821,Hugh Williams,1,scriptwriter
+3822,Margaret Williams,1,scriptwriter
+3823,曹喆铉,1,scriptwriter
+3824,吴胜贤,1,scriptwriter
+3825,乔治·乔纳斯,1,scriptwriter
+3826,玛莎·舍文斯,1,scriptwriter
+3827,吴品儒,1,scriptwriter
+3828,顾舒怡,1,scriptwriter
+3829,伊克·巴里霍尔兹,1,scriptwriter
+3830,大卫·斯塔森,1,scriptwriter
+3831,乔乔·莫伊斯,1,scriptwriter
+3832,胡里奥·阿雷罕德罗,1,scriptwriter
+3833,德雷克·多雷穆斯,1,scriptwriter
+3834,杰伊·考克斯,1,scriptwriter
+3835,远藤周作,1,scriptwriter
+3836,Malia Scotch Marmo,1,scriptwriter
+3837,阿尔多·布齐,1,scriptwriter
+3838,路易吉·马莱巴,1,scriptwriter
+3839,Luigi Vanzi,1,scriptwriter
+3840,维托里奥·韦尔特罗尼,1,scriptwriter
+3841,马可·费雷里,1,scriptwriter
+3842,迪诺·里西,1,scriptwriter
+3843,Louis Aragon,1,scriptwriter
+3844,伊恩·泰勒,1,scriptwriter
+3845,杰里·贝尔森,1,scriptwriter
+3846,弗雷德里克·黑兹利特·布伦南,1,scriptwriter
+3847,钱德勒·斯普拉格,1,scriptwriter
+3848,大卫·贝姆,1,scriptwriter
+3849,Sol Saks,1,scriptwriter
+3850,加森·卡宁,1,scriptwriter
+3851,张末,1,scriptwriter
+3852,翟嘟,1,scriptwriter
+3853,田金,1,scriptwriter
+3854,卡尔·顿伯格,1,scriptwriter
+3855,路易斯·华莱士,1,scriptwriter
+3856,尹鸿承,1,scriptwriter
+3857,杨徐铉,1,scriptwriter
+3858,爱丽丝·门罗,1,scriptwriter
+3859,Charles Chaplin,1,scriptwriter
+3860,李奥·怀特,1,scriptwriter
+3861,弗兰克·塔洛弗,1,scriptwriter
+3862,皮特·斯通,1,scriptwriter
+3863,维罗尼卡·罗斯,1,scriptwriter
+3864,达格·卡利,1,scriptwriter
+3865,爱丽丝·沃克,1,scriptwriter
+3866,列奥纳多·贝尔科维奇,1,scriptwriter
+3867,朱镜祺,1,scriptwriter
+3868,马克·布鲁蒙德,1,scriptwriter
+3869,妮可·阿姆博斯特,1,scriptwriter
+3870,约翰·兰迪斯,1,scriptwriter
+3871,管运龙,1,scriptwriter
+3872,金子亚里纱,1,scriptwriter
+3873,黑岩勉,1,scriptwriter
+3874,陈挚恒,1,scriptwriter
+3875,王子昭,1,scriptwriter
+3876,宋方,1,scriptwriter
+3877,陈翠梅,1,scriptwriter
+3878,不明,1,scriptwriter
+3879,朱榆林,1,scriptwriter
+3880,郭峻明,1,scriptwriter
+3881,大卫·贝伦鲍姆,1,scriptwriter
+3882,嘉里·瑞德斯托姆,1,scriptwriter
+3883,兰森·里格斯,1,scriptwriter
+3884,哈尔·巴伍德,1,scriptwriter
+3885,马修·罗宾斯,1,scriptwriter
+3886,石井隆,1,scriptwriter
+3887,J.O.C. Orton,1,scriptwriter
+3888,坂野義光,1,scriptwriter
+3889,罗艺江,1,scriptwriter
+3890,Nico Soultanakis,1,scriptwriter
+3891,金·加姆洛德,1,scriptwriter
+3892,布莱恩·史密斯,1,scriptwriter
+3893,丹·鲁特,1,scriptwriter
+3894,加勒特·K·席夫,1,scriptwriter
+3895,Talus Taylor,1,scriptwriter
+3896,Annette Tison,1,scriptwriter
+3897,谷村大四郎,1,scriptwriter
+3898,乔小囧,1,scriptwriter
+3899,伍子豪,1,scriptwriter
+3900,徐雷,1,scriptwriter
+3901,众田企划,1,scriptwriter
+3902,纪存,1,scriptwriter
+3903,贝斯·美瑞戴斯,1,scriptwriter
+3904,拜伦,1,scriptwriter
+3905,莫德·富尔顿,1,scriptwriter
+3906,迈克尔·坎宁安,1,scriptwriter
+3907,蔡雅妮,1,scriptwriter
+3908,卡尔·霍华德,1,scriptwriter
+3909,何永霖,1,scriptwriter
+3910,徐天荣,1,scriptwriter
+3911,E·马克斯·弗莱,1,scriptwriter
+3912,丹·福特曼,1,scriptwriter
+3913,詹姆斯·利菲尔,1,scriptwriter
+3914,前田司郎,1,scriptwriter
+3915,Rosario Leone,1,scriptwriter
+3916,Diego Calcagno,1,scriptwriter
+3917,Guglielmo Santangelo,1,scriptwriter
+3918,Margaret Heidenry,1,scriptwriter
+3919,樱坂洋,1,scriptwriter
+3920,Asvero Gravelli,1,scriptwriter
+3921,Alberto Consiglio,1,scriptwriter
+3922,Giovanni D'Alicandro,1,scriptwriter
+3923,崔·帕克,1,scriptwriter
+3924,马特·斯通,1,scriptwriter
+3925,Niccolò Bassetti,1,scriptwriter
+3926,李石勋,1,scriptwriter
+3927,乌戈·皮罗,1,scriptwriter
+3928,史蒂夫·库根,1,scriptwriter
+3929,杰夫·波普,1,scriptwriter
+3930,马丁·西克史密斯,1,scriptwriter
+3931,温斯顿·希布勒,1,scriptwriter
+3932,Harry Reeves,1,scriptwriter
+3933,乔·里纳尔迪,1,scriptwriter
+3934,黄真真,1,scriptwriter
+3935,侯颖桁,1,scriptwriter
+3936,郑善瑜,1,scriptwriter
+3937,Nick Silverman,1,scriptwriter
+3938,雷内·克莱芒,1,scriptwriter
+3939,科莱特·奥德里,1,scriptwriter
+3940,王舒,1,scriptwriter
+3941,吴潮威,1,scriptwriter
+3942,石建娜,1,scriptwriter
+3943,郭鹏,1,scriptwriter
+3944,吴颖,1,scriptwriter
+3945,姜璐,1,scriptwriter
+3946,戴悫,1,scriptwriter
+3947,张金,1,scriptwriter
+3948,林超,1,scriptwriter
+3949,刘服华,1,scriptwriter
+3950,陈为强,1,scriptwriter
+3951,叶天龙,1,scriptwriter
+3952,林汇达,1,scriptwriter
+3953,黄燕,1,scriptwriter
+3954,布莱克·马斯特斯,1,scriptwriter
+3955,史蒂文·格兰特,1,scriptwriter
+3956,耶日·斯图尔,1,scriptwriter
+3957,瑞恩·邓恩,1,scriptwriter
+3958,布兰登·狄卡米洛,1,scriptwriter
+3959,Dimitry Elyashkevich,1,scriptwriter
+3960,Whitey McConnaughy,1,scriptwriter
+3961,Sean Cliver,1,scriptwriter
+3962,Loomis Fall,1,scriptwriter
+3963,维农·查特曼,1,scriptwriter
+3964,爱德华·邦德,1,scriptwriter
+3965,伊恩·卡梅伦,1,scriptwriter
+3966,蒂姆·凯莱赫,1,scriptwriter
+3967,道格·艾林,1,scriptwriter
+3968,木皿泉,1,scriptwriter
+3969,路易·马勒,1,scriptwriter
+3970,弗兰切斯科·马尔库奇,1,scriptwriter
+3971,韦正,1,scriptwriter
+3972,何则,1,scriptwriter
+3973,小约翰·罗密塔,1,scriptwriter
+3974,印德罗·蒙特烈里,1,scriptwriter
+3975,阿利森·安德斯,1,scriptwriter
+3976,亚历山大·洛克威尔,1,scriptwriter
+3977,丹·斯塔德尼,1,scriptwriter
+3978,许秦豪,1,scriptwriter
+3979,吴尚奥,1,scriptwriter
+3980,Dong-hwan Shin,1,scriptwriter
+3981,山本嘉次郎,1,scriptwriter
+3982,富川元文,1,scriptwriter
+3983,天愿大介,1,scriptwriter
+3984,今村昌平,1,scriptwriter
+3985,吉村昭,1,scriptwriter
+3986,安德鲁·克劳尔,1,scriptwriter
+3987,吴志雄,1,scriptwriter
+3988,林肯·科尔斯坦,1,scriptwriter
+3989,彼得·伯查德,1,scriptwriter
+3990,罗伯特·古尔德·肖,1,scriptwriter
+3991,代雁,1,scriptwriter
+3992,露丝·罗斯,1,scriptwriter
+3993,道格拉斯·麦克格兰斯,1,scriptwriter
+3994,张时霖,1,scriptwriter
+3995,施名黛,1,scriptwriter
+3996,李庭瑜,1,scriptwriter
+3997,唐纳德·维斯雷克,1,scriptwriter
+3998,Jules Francois Clermont,1,scriptwriter
+3999,依达,1,scriptwriter
+4000,皮亚托·杰米,1,scriptwriter
+4001,Paul Lieberman,1,scriptwriter
+4002,小华,1,scriptwriter
+4003,金 亨克尔,1,scriptwriter
+4004,L.M. Kit Carson,1,scriptwriter
+4005,托比·霍珀,1,scriptwriter
+4006,萧逸名,1,scriptwriter
+4007,冼国林,1,scriptwriter
+4008,玛格丽特·杜拉斯,1,scriptwriter
+4009,Gérard Jarlot,1,scriptwriter
+4010,里克·穆迪,1,scriptwriter
+4011,安塞尔莫·杜阿尔特,1,scriptwriter
+4012,林子皓,1,scriptwriter
+4013,永田雅一,1,scriptwriter
+4014,衣笠贞之助,1,scriptwriter
+4015,海伦·费尔丁,1,scriptwriter
+4016,黄翠华,1,scriptwriter
+4017,李尚正,1,scriptwriter
+4018,邓伟雄,1,scriptwriter
+4019,Brad Riddell,1,scriptwriter
+4020,莫里斯·皮亚拉,1,scriptwriter
+4021,永原秀一,1,scriptwriter
+4022,多丽丝·肯斯·古德温,1,scriptwriter
+4023,让·萨沙,1,scriptwriter
+4024,林世勇,1,scriptwriter
+4025,林村,1,scriptwriter
+4026,曾淑娟,1,scriptwriter
+4027,金炳兴,1,scriptwriter
+4028,克洛德·勒卢什,1,scriptwriter
+4029,Pierre Uytterhoeven,1,scriptwriter
+4030,兰迪·布朗,1,scriptwriter
+4031,约书亚·比尔曼,1,scriptwriter
+4032,托尼·门德兹,1,scriptwriter
+4033,弗兰克·斯伯特尼,1,scriptwriter
+4034,克里斯·卡特,1,scriptwriter
+4035,许莎朗,1,scriptwriter
+4036,佐東みどり,1,scriptwriter
+4037,小田泰之,1,scriptwriter
+4038,阿卜杜拉·西德兰,1,scriptwriter
+4039,胡明心,1,scriptwriter
+4040,林淑贞,1,scriptwriter
+4041,胡曼音,1,scriptwriter
+4042,金世勋,1,scriptwriter
+4043,杨海薇,1,scriptwriter
+4044,王佩华,1,scriptwriter
+4045,洪立妍,1,scriptwriter
+4046,丹尼尔·伍德里尔,1,scriptwriter
+4047,魏明伦,1,scriptwriter
+4048,Stephen Rebello,1,scriptwriter
+4049,L·M·基特卡森,1,scriptwriter
+4050,山姆·夏普德,1,scriptwriter
+4051,乔恩·赫维兹,1,scriptwriter
+4052,海登·施拉兹伯格,1,scriptwriter
+4053,约翰·勒·卡雷,1,scriptwriter
+4054,布里奇·奥康纳,1,scriptwriter
+4055,彼特·斯特劳恩,1,scriptwriter
+4056,黄仁逵,1,scriptwriter
+4057,钱耀恒,1,scriptwriter
+4058,曹升,1,scriptwriter
+4059,帕斯夸莱·费斯塔·康帕尼莱,1,scriptwriter
+4060,雅克·德米,1,scriptwriter
+4061,Julio Alejandro,1,scriptwriter
+4062,Chin-Hua Tan,1,scriptwriter
+4063,阿尔夫·斯约堡,1,scriptwriter
+4064,奥古斯特·斯特林堡,1,scriptwriter
+4065,张贤,1,scriptwriter
+4066,张琪,1,scriptwriter
+4067,吴画山,1,scriptwriter
+4068,阿努拉格·巴苏,1,scriptwriter
+4069,亚伦·卡温顿,1,scriptwriter
+4070,瓦尔特·洛德,1,scriptwriter
+4071,钟澄,1,scriptwriter
+4072,钟若诗,1,scriptwriter
+4073,罗宗耀,1,scriptwriter
+4074,潘漫红,1,scriptwriter
+4075,林忠邦,1,scriptwriter
+4076,文健辉,1,scriptwriter
+4077,童边,1,scriptwriter
+4078,阡陌,1,scriptwriter
+4079,朱国芳,1,scriptwriter
+4080,严朴勤,1,scriptwriter
+4081,席绢(原著),1,scriptwriter
+4082,单喆,1,scriptwriter
+4083,闫刚,1,scriptwriter
+4084,张路,1,scriptwriter
+4085,康峰,1,scriptwriter
+4086,李辉,1,scriptwriter
+4087,张信义,1,scriptwriter
+4088,单田芳,1,scriptwriter
+4089,张辉力,1,scriptwriter
+4090,萧逸,1,scriptwriter
+4091,刘玮慈,1,scriptwriter
+4092,陶海,1,scriptwriter
+4093,王远,1,scriptwriter
+4094,阎虹宇,1,scriptwriter
+4095,阎振华,1,scriptwriter
+4096,李玮,1,scriptwriter
+4097,宋项如,1,scriptwriter
+4098,维克托·罗佐夫,1,scriptwriter
+4099,卢治明,1,scriptwriter
+4100,李艳萍,1,scriptwriter
+4101,黄金花,1,scriptwriter
+4102,二月河,1,scriptwriter
+4103,陈惠妍,1,scriptwriter
+4104,邓育焜,1,scriptwriter
+4105,蔡文杰,1,scriptwriter
+4106,刘德一,1,scriptwriter
+4107,涂年智,1,scriptwriter
+4108,王逸虹,1,scriptwriter
+4109,束一德,1,scriptwriter
+4110,乔谷凡,1,scriptwriter
+4111,蘇斌華,1,scriptwriter
+4112,盧榮光,1,scriptwriter
+4113,林强,1,scriptwriter
+4114,刘文慧,1,scriptwriter
+4115,乔什·特兰克,1,scriptwriter
+4116,杰瑞米·斯莱特,1,scriptwriter
+4117,安德烈埃·巴巴托,1,scriptwriter
+4118,李国立,1,scriptwriter
+4119,苗申,1,scriptwriter
+4120,Crazy Mohan,1,scriptwriter
+4121,Janardhan Maharshi,1,scriptwriter
+4122,Vijayendra Prasad,1,scriptwriter
+4123,S.S. Kanchi,1,scriptwriter
+4124,马中骏,1,scriptwriter
+4125,德喜,1,scriptwriter
+4126,九年,1,scriptwriter
+4127,贺恒祥,1,scriptwriter
+4128,李容,1,scriptwriter
+4129,洪绍辉,1,scriptwriter
+4130,诸国荣,1,scriptwriter
+4131,杨志财,1,scriptwriter
+4132,江龙,1,scriptwriter
+4133,陈玉华,1,scriptwriter
+4134,黄金苍,1,scriptwriter
+4135,林月芬,1,scriptwriter
+4136,郑万隆,1,scriptwriter
+4137,王振潜,1,scriptwriter
+4138,史航,1,scriptwriter
+4139,顾言,1,scriptwriter
+4140,玛嘉·莎塔琵,1,scriptwriter
+4141,文森特·帕兰德,1,scriptwriter
+4142,秦培春,1,scriptwriter
+4143,张锐,1,scriptwriter
+4144,赵文川,1,scriptwriter
+4145,方桂兰,1,scriptwriter
+4146,夏祖辉,1,scriptwriter
+4147,何麒,1,scriptwriter
+4148,马志全,1,scriptwriter
+4149,乔治·S·考夫曼,1,scriptwriter
+4150,詹姆斯·凯文·麦吉尼斯,1,scriptwriter
+4151,阿尔·博斯伯格,1,scriptwriter
+4152,伯特·卡尔马,1,scriptwriter
+4153,乔治·奥本海默,1,scriptwriter
+4154,罗伯特·佩罗,1,scriptwriter
+4155,哈里·鲁比,1,scriptwriter
+4156,乔治·希顿,1,scriptwriter
+4157,李卫聪,1,scriptwriter
+4158,朱历,1,scriptwriter
+4159,任莎,1,scriptwriter
+4160,阮小娜,1,scriptwriter
+4161,格雷厄姆·格林,1,scriptwriter
+4162,亚历山大·柯达,1,scriptwriter
+4163,卡罗尔·里德,1,scriptwriter
+4164,陈琼桦,1,scriptwriter
+4165,苏小鱼,1,scriptwriter
+4166,赵志红,1,scriptwriter
+4167,钱雁秋,1,scriptwriter
+4168,戴英禄,1,scriptwriter
+4169,杨洁,1,scriptwriter
+4170,邹忆青,1,scriptwriter
+4171,井上厦,1,scriptwriter
+4172,原田真人,1,scriptwriter
+4173,麦贯之,1,scriptwriter
+4174,桂雨清,1,scriptwriter
+4175,张京生,1,scriptwriter
+4176,陈兵,1,scriptwriter
+4177,张敬,1,scriptwriter
+4178,Todd Helbing,1,scriptwriter
+4179,Aaron Helbing,1,scriptwriter
+4180,黄国辉,1,scriptwriter
+4181,赵静蓉,1,scriptwriter
+4182,三泰制作,1,scriptwriter
+4183,迈克尔·R·佩里,1,scriptwriter
+4184,Oren Peli,1,scriptwriter
+4185,安德鲁·戴维斯,1,scriptwriter
+4186,布朗科·比利·安德森,1,scriptwriter
+4187,小胡伯特·塞尔比,1,scriptwriter
+4188,Jon Povill,1,scriptwriter
+4189,詹姆斯·马瑟,1,scriptwriter
+4190,斯蒂芬·圣·莱杰,1,scriptwriter
+4191,朴银炯,1,scriptwriter
+4192,Sarah Williams,1,scriptwriter
+4193,Kevin Hood,1,scriptwriter
+4194,吉勒·巴盖特-布赫内,1,scriptwriter
+4195,罗伯特·汤,1,scriptwriter
+4196,史蒂夫·普切尔,1,scriptwriter
+4197,道格·郑,1,scriptwriter
+4198,派特里克·麦凯,1,scriptwriter
+4199,约翰·D·佩恩,1,scriptwriter
+4200,詹姆斯·M·凯恩,1,scriptwriter
+4201,大卫·M·埃文斯,1,scriptwriter
+4202,Jeff Sank,1,scriptwriter
+4203,Jason Heimberg,1,scriptwriter
+4204,卢永强,1,scriptwriter
+4205,陈友,1,scriptwriter
+4206,Lance Khazei,1,scriptwriter
+4207,王蓝(原作),1,scriptwriter
+4208,德里克·马蒂尼,1,scriptwriter
+4209,Andrea Portes,1,scriptwriter
+4210,持地佑季子,1,scriptwriter
+4211,登米裕一,1,scriptwriter
+4212,乙一,1,scriptwriter
+4213,弗里茨·朗,1,scriptwriter
+4214,王全安,1,scriptwriter
+4215,陈忠实,1,scriptwriter
+4216,克里斯托弗·里夫,1,scriptwriter
+4217,Jack Bernstein,1,scriptwriter
+4218,金·凯瑞,1,scriptwriter
+4219,约翰·奥斯特兰德,1,scriptwriter
+4220,Dean Pitchford,1,scriptwriter
+4221,钟健强,1,scriptwriter
+4222,孙浩浩,1,scriptwriter
+4223,霍顿·福特,1,scriptwriter
+4224,哈柏·李,1,scriptwriter
+4225,洛朗·蒂拉尔,1,scriptwriter
+4226,Hans Rodionoff,1,scriptwriter
+4227,Humphrey Cobb,1,scriptwriter
+4228,邵国华,1,scriptwriter
+4229,苏凤仪,1,scriptwriter
+4230,丹·柯蒂斯,1,scriptwriter
+4231,大卫·阿戈斯托,1,scriptwriter
+4232,肯恩·考夫曼,1,scriptwriter
+4233,徐正康,1,scriptwriter
+4234,大卫·S·瓦德,1,scriptwriter
+4235,Joseph Simas,1,scriptwriter
+4236,Maurice G. Dantec,1,scriptwriter
+4237,麦家,1,scriptwriter
+4238,Hugh Antoine d'Arcy,1,scriptwriter
+4239,Ronni Kern,1,scriptwriter
+4240,Atilla Engin,1,scriptwriter
+4241,Irfan Saruhan,1,scriptwriter
+4242,Marty Farrell,1,scriptwriter
+4243,理查德·什克尔,1,scriptwriter
+4244,陈彤,1,scriptwriter
+4245,保罗·利云斯顿,1,scriptwriter
+4246,Nadja Tesich,1,scriptwriter
+4247,牟文远,1,scriptwriter
+4248,滕敦靖,1,scriptwriter
+4249,刘梅芾,1,scriptwriter
+4250,查尔斯·布兰特,1,scriptwriter
+4251,利昂·乌里斯,1,scriptwriter
+4252,雷楚雄,1,scriptwriter
+4253,张小娴,1,scriptwriter
+4254,米洛拉德·科斯蒂奇,1,scriptwriter
+4255,James McCarthy,1,scriptwriter
+4256,J·布莱克森,1,scriptwriter
+4257,James Watkins,1,scriptwriter
+4258,香特尔·阿克曼,1,scriptwriter
+4259,安东尼·伯吉斯,1,scriptwriter
+4260,盛远,1,scriptwriter
+4261,斯图·兹彻曼,1,scriptwriter
+4262,M. Raven Metzner,1,scriptwriter
+4263,罗伯特·本顿,1,scriptwriter
+4264,叶守恒,1,scriptwriter
+4265,刘宝贤,1,scriptwriter
+4266,黛安·约翰逊,1,scriptwriter
+4267,尼尔·马歇尔,1,scriptwriter
+4268,萨莎·拜伦·科恩,1,scriptwriter
+4269,亚力克·博格,1,scriptwriter
+4270,杰夫·谢弗,1,scriptwriter
+4271,大卫·曼德尔,1,scriptwriter
+4272,德寶創作組,1,scriptwriter
+4273,苏珊·科林斯,1,scriptwriter
+4274,李默,1,scriptwriter
+4275,何蔚庭,1,scriptwriter
+4276,沈可尚,1,scriptwriter
+4277,姜秀琼,1,scriptwriter
+4278,陆芷欣,1,scriptwriter
+4279,楼一安,1,scriptwriter
+4280,孙建敏,1,scriptwriter
+4281,凡一平,1,scriptwriter
+4282,Napalee,1,scriptwriter
+4283,高桥千鹤,1,scriptwriter
+4284,佐山哲郎,1,scriptwriter
+4285,刘力扬,1,scriptwriter
+4286,李登,1,scriptwriter
+4287,苏乔伊·高什,1,scriptwriter
+4288,尼基尔·维亚斯,1,scriptwriter
+4289,托尼·贾,1,scriptwriter
+4290,弗朗茨·塞茨,1,scriptwriter
+4291,T·E·劳伦斯,1,scriptwriter
+4292,罗伯特·鲍特,1,scriptwriter
+4293,Yee-Wah Lee,1,scriptwriter
+4294,郭爽,1,scriptwriter
+4295,Philip DeGuere,1,scriptwriter
+4296,马塞尔·穆西,1,scriptwriter
+4297,理查德·奥腾,1,scriptwriter
+4298,布莱恩·戈恩,1,scriptwriter
+4299,马克·戈恩,1,scriptwriter
+4300,蓬草,1,scriptwriter
+4301,科拉多·阿尔瓦罗,1,scriptwriter
+4302,安德鲁·海格,1,scriptwriter
+4303,戴维·麦克纳,1,scriptwriter
+4304,邓荣銾,1,scriptwriter
+4305,冯日进,1,scriptwriter
+4306,Patrick Hasburgh,1,scriptwriter
+4307,史蒂芬·J·坎内尔,1,scriptwriter
+4308,Langdon Mitchell,1,scriptwriter
+4309,弗朗西斯·爱德华·法拉格,1,scriptwriter
+4310,木二,1,scriptwriter
+4311,乔纳森·霍克,1,scriptwriter
+4312,谭恩美,1,scriptwriter
+4313,布莱恩·伯恩斯,1,scriptwriter
+4314,李恩霖,1,scriptwriter
+4315,Michael D. Weiss,1,scriptwriter
+4316,珍妮佛·弗莱基特,1,scriptwriter
+4317,马克·莱温,1,scriptwriter
+4318,儒勒·凡尔纳,1,scriptwriter
+4319,Andrew Wight,1,scriptwriter
+4320,John Garvin,1,scriptwriter
+4321,王珮华,1,scriptwriter
+4322,卡姆·坎农,1,scriptwriter
+4323,理查德·瑞欧达·德尔·卡斯特罗,1,scriptwriter
+4324,戈尔·维宾斯基,1,scriptwriter
+4325,凡一,1,scriptwriter
+4326,丹尼尔·克洛维斯,1,scriptwriter
+4327,泰利·茨威戈夫,1,scriptwriter
+4328,王吉呈,1,scriptwriter
+4329,刘云辉,1,scriptwriter
+4330,丹尼·鲁宾,1,scriptwriter
+4331,Ronnie Kern,1,scriptwriter
+4332,郑文华,1,scriptwriter
+4333,杨基,1,scriptwriter
+4334,罗斯·巴格达萨里安,1,scriptwriter
+4335,李华月,1,scriptwriter
+4336,约翰·菲利普斯,1,scriptwriter
+4337,姜道英,1,scriptwriter
+4338,凯·哈特·赫明斯,1,scriptwriter
+4339,艾比·摩根,1,scriptwriter
+4340,潘粵生,1,scriptwriter
+4341,唐迪,1,scriptwriter
+4342,陈曙光,1,scriptwriter
+4343,李宰汉,1,scriptwriter
+4344,金英夏,1,scriptwriter
+4345,拿柏里,1,scriptwriter
+4346,柏也路斯芳迪,1,scriptwriter
+4347,祖云拿柏,1,scriptwriter
+4348,江迪积杜云华斯美,1,scriptwriter
+4349,何玉门,1,scriptwriter
+4350,胡同伦,1,scriptwriter
+4351,广津和郎,1,scriptwriter
+4352,维多利亚·斯特劳斯,1,scriptwriter
+4353,顾汉昌,1,scriptwriter
+4354,墨犊,1,scriptwriter
+4355,潘絜兹,1,scriptwriter
+4356,方轶群,1,scriptwriter
+4357,嵇鸿,1,scriptwriter
+4358,顾嘉福,1,scriptwriter
+4359,金近,1,scriptwriter
+4360,张松林,1,scriptwriter
+4361,虞和静,1,scriptwriter
+4362,任溶溶,1,scriptwriter
+4363,张士杰,1,scriptwriter
+4364,方慧珍,1,scriptwriter
+4365,盛璐德,1,scriptwriter
+4366,乔治·克鲁尼,1,scriptwriter
+4367,格兰特·赫斯洛夫,1,scriptwriter
+4368,鲍尔·威利蒙,1,scriptwriter
+4369,华君武,1,scriptwriter
+4370,洪汛涛,1,scriptwriter
+4371,马特·罗斯,1,scriptwriter
+4372,Dirk Blackman,1,scriptwriter
+4373,Howard McCain,1,scriptwriter
+4374,Robert Orr,1,scriptwriter
+4375,Kevin Grevioux,1,scriptwriter
+4376,孙道临,1,scriptwriter
+4377,曹禺,1,scriptwriter
+4378,鬼仆,1,scriptwriter
+4379,黎继明,1,scriptwriter
+4380,丹尼尔·安东尼亚兹,1,scriptwriter
+4381,本·什福林,1,scriptwriter
+4382,马特·艾伦,1,scriptwriter
+4383,格温·劳伦,1,scriptwriter
+4384,卡勒布·威尔森,1,scriptwriter
+4385,厄康·吉赛尔,1,scriptwriter
+4386,宇仁田由美,1,scriptwriter
+4387,萨布,1,scriptwriter
+4388,普拉奇亚·平克尧,1,scriptwriter
+4389,八寻不二,1,scriptwriter
+4390,杰森·席格尔,1,scriptwriter
+4391,吉姆·亨森,1,scriptwriter
+4392,莫娜·阿查切,1,scriptwriter
+4393,妙莉叶·芭贝里,1,scriptwriter
+4394,米歇尔·阿扎纳维西于斯,1,scriptwriter
+4395,大卫·古根海姆,1,scriptwriter
+4396,拉里·弗格森,1,scriptwriter
+4397,文森特·沃德,1,scriptwriter
+4398,王正方,1,scriptwriter
+4399,夏洛蒂·勃朗特,1,scriptwriter
+4400,S·S·威尔逊,1,scriptwriter
+4401,布伦特·马多克,1,scriptwriter
+4402,翁维铨,1,scriptwriter
+4403,谭惠清,1,scriptwriter
+4404,法兰克·汤玛斯,1,scriptwriter
+4405,Eric Cleworth,1,scriptwriter
+4406,Julius Svendsen,1,scriptwriter
+4407,艾比·科恩,1,scriptwriter
+4408,马克·西尔弗斯坦,1,scriptwriter
+4409,杰森·凯蒂姆斯,1,scriptwriter
+4410,斯图尔特·森德尔,1,scriptwriter
+4411,塞腾·艾·米勒,1,scriptwriter
+4412,斯蒂芬·索莫斯,1,scriptwriter
+4413,艾尔弗雷德·A·科恩,1,scriptwriter
+4414,Jack Jarmuth,1,scriptwriter
+4415,Jeong-woo Park,1,scriptwriter
+4416,约瑟·里韦拉,1,scriptwriter
+4417,Tim Sullivan,1,scriptwriter
+4418,莱妮·里芬施塔尔,1,scriptwriter
+4419,沃尔特·鲁特曼,1,scriptwriter
+4420,潘·丹萨姆,1,scriptwriter
+4421,约翰·沃森,1,scriptwriter
+4422,斯蒂格·拉赫松,1,scriptwriter
+4423,上田秋成,1,scriptwriter
+4424,辻久一,1,scriptwriter
+4425,大卫·格里菲斯,1,scriptwriter
+4426,惠特曼,1,scriptwriter
+4427,基兰·马尔罗尼,1,scriptwriter
+4428,米歇尔·马尔罗尼,1,scriptwriter
+4429,大卫·罗伯特·米切尔,1,scriptwriter
+4430,许冠杰,1,scriptwriter
+4431,凯瑟琳·富盖特,1,scriptwriter
+4432,莎里·斯宾厄·伯曼,1,scriptwriter
+4433,罗伯特·帕西尼,1,scriptwriter
+4434,赫尔曼·J·曼凯维奇,1,scriptwriter
+4435,叶丰进,1,scriptwriter
+4436,万力,1,scriptwriter
+4437,曾春辉,1,scriptwriter
+4438,伊拉娜·莱瑟,1,scriptwriter
+4439,克利夫·鲁比,1,scriptwriter
+4440,侯亮,1,scriptwriter
+4441,胡蓉,1,scriptwriter
+4442,周浩晖,1,scriptwriter
+4443,埃德温·鲍特,1,scriptwriter
+4444,温瑟·麦凯,1,scriptwriter
+4445,加文·欧康诺,1,scriptwriter
+4446,安东尼·塔姆巴基斯,1,scriptwriter
+4447,兰迪·费尔德曼,1,scriptwriter
+4448,让·阿努伊,1,scriptwriter
+4449,盖伊·摩根,1,scriptwriter
+4450,Ian Mackenzie Jeffers,1,scriptwriter
+4451,仲村佳樹,1,scriptwriter
+4452,Rosalind Wiseman,1,scriptwriter
+4453,蒂娜·菲,1,scriptwriter
+4454,Alex Lasker,1,scriptwriter
+4455,Patrick Cirillo,1,scriptwriter
+4456,中平康,1,scriptwriter
+4457,托马斯·品钦,1,scriptwriter
+4458,李修贤,1,scriptwriter
+4459,何康乔,1,scriptwriter
+4460,李旗,1,scriptwriter
+4461,秦文,1,scriptwriter
+4462,初征,1,scriptwriter
+4463,让-保尔·萨罗米,1,scriptwriter
+4464,洛朗·瓦肖德,1,scriptwriter
+4465,俞飞鸿,1,scriptwriter
+4466,约翰·帕尔默,1,scriptwriter
+4467,希拉里·圣乔治·桑德斯,1,scriptwriter
+4468,梅·E·罗姆,1,scriptwriter
+4469,戴维·亚伦·科恩,1,scriptwriter
+4470,文森特·帕特里克,1,scriptwriter
+4471,程珑,1,scriptwriter
+4472,仧縯,1,scriptwriter
+4473,梁小无拆,1,scriptwriter
+4474,诺拉·艾芙隆,1,scriptwriter
+4475,托尼·基格里奥,1,scriptwriter
+4476,黄仁浩,1,scriptwriter
+4477,比利·鲍伯·松顿,1,scriptwriter
+4478,汤姆·埃珀森,1,scriptwriter
+4479,彼得·谢弗,1,scriptwriter
+4480,兹德内克·马勒,1,scriptwriter
+4481,埃德蒙·H·诺思,1,scriptwriter
+4482,沈诗棋,1,scriptwriter
+4483,约翰·格林,1,scriptwriter
+4484,Cory Goodman,1,scriptwriter
+4485,Min-Woo Hyung,1,scriptwriter
+4486,布赖恩·塞尔兹尼克,1,scriptwriter
+4487,吉尔·考夫曼,1,scriptwriter
+4488,乔治·理查兹,1,scriptwriter
+4489,Víctor Andrés Catena,1,scriptwriter
+4490,A. Bonzzoni,1,scriptwriter
+4491,Jaime Comas,1,scriptwriter
+4492,Jaime Comas Gil,1,scriptwriter
+4493,Mark Lowell,1,scriptwriter
+4494,汪启楠,1,scriptwriter
+4495,山崎岩,1,scriptwriter
+4496,Brian Ward,1,scriptwriter
+4497,Joyce Hooper Corrington,1,scriptwriter
+4498,蔡心,1,scriptwriter
+4499,斯科特·阿姆斯特朗,1,scriptwriter
+4500,迈克尔·布雷克,1,scriptwriter
+4501,艾伦·J·斯库尔克拉夫特,1,scriptwriter
+4502,布伦特·西蒙斯,1,scriptwriter
+4503,基兰·饶,1,scriptwriter
+4504,艾伦·兹韦贝尔,1,scriptwriter
+4505,蓝炀,1,scriptwriter
+4506,汤马斯·芬顿,1,scriptwriter
+4507,梁旋,1,scriptwriter
+4508,汤姆·惠勒,1,scriptwriter
+4509,田昀树,1,scriptwriter
+4510,比尔·兰卡斯特,1,scriptwriter
+4511,陈鸿元,1,scriptwriter
+4512,李竹君,1,scriptwriter
+4513,保罗·卡斯特罗,1,scriptwriter
+4514,达伦·林恩·鲍斯曼,1,scriptwriter
+4515,朴宪洙,1,scriptwriter
+4516,阿列克谢·日尔曼,1,scriptwriter
+4517,Svetlana Karmalita,1,scriptwriter
+4518,皮特·M·列科夫,1,scriptwriter
+4519,Robert Reneau,1,scriptwriter
+4520,吴钟禄,1,scriptwriter
+4521,大卫·林赛-阿贝尔,1,scriptwriter
+4522,卓娅·阿赫塔尔,1,scriptwriter
+4523,里马·卡蒂,1,scriptwriter
+4524,法尔汉·阿赫塔尔,1,scriptwriter
+4525,陈尚存,1,scriptwriter
+4526,史蒂文·莫法特,1,scriptwriter
+4527,埃尔热,1,scriptwriter
+4528,阿罗·拉索,1,scriptwriter
+4529,威尔·利沙,1,scriptwriter
+4530,艾伦·哈维,1,scriptwriter
+4531,周杰伦,1,scriptwriter
+4532,亨利·塞利克,1,scriptwriter
+4533,尼尔·盖曼,1,scriptwriter
+4534,须立民,1,scriptwriter
+4535,阿牛,1,scriptwriter
+4536,瓦利亚·桑泰拉,1,scriptwriter
+4537,奥布里·所罗门,1,scriptwriter
+4538,<红楼梦>,1,scriptwriter
+4539,过士行,1,scriptwriter
+4540,Val Mayerik,1,scriptwriter
+4541,瓦西里·卡塔尼扬,1,scriptwriter
+4542,亚历山大·扎尔赫依,1,scriptwriter
+4543,莱奥·本韦努蒂,1,scriptwriter
+4544,Steve Rudnick,1,scriptwriter
+4545,赫舍尔·魏因格罗德,1,scriptwriter
+4546,大卫·凯根内奇,1,scriptwriter
+4547,陈世杰,1,scriptwriter
+4548,顾漫,1,scriptwriter
+4549,阿甘,1,scriptwriter
+4550,徐佩侃,1,scriptwriter
+4551,菲利普·谢尔比,1,scriptwriter
+4552,托尼·莫舍,1,scriptwriter
+4553,Todd Berger,1,scriptwriter
+4554,克里斯汀·韦格,1,scriptwriter
+4555,安妮·玛莫罗,1,scriptwriter
+4556,James Sallis,1,scriptwriter
+4557,安·皮科克,1,scriptwriter
+4558,韩杰,1,scriptwriter
+4559,禹元元,1,scriptwriter
+4560,叶家玲,1,scriptwriter
+4561,田研二,1,scriptwriter
+4562,莫特·亚伯拉罕斯,1,scriptwriter
+4563,韩冰,1,scriptwriter
+4564,圣堂工作室,1,scriptwriter
+4565,冯馨瑶,1,scriptwriter
+4566,杨江,1,scriptwriter
+4567,王菁,1,scriptwriter
+4568,泰特·泰勒,1,scriptwriter
+4569,凯瑟琳·斯托凯特,1,scriptwriter
+4570,李·巴奇勒,1,scriptwriter
+4571,珍妮特·斯科特·巴奇勒,1,scriptwriter
+4572,徐伊亮,1,scriptwriter
+4573,林俐颖,1,scriptwriter
+4574,杨佳,1,scriptwriter
+4575,Jason Carter Eaton,1,scriptwriter
+4576,山姆·哈珀,1,scriptwriter
+4577,林育贤,1,scriptwriter
+4578,王国光,1,scriptwriter
+4579,王莉雯,1,scriptwriter
+4580,励启杰,1,scriptwriter
+4581,Keith R. Clarke,1,scriptwriter
+4582,Slavomir Rawicz,1,scriptwriter
+4583,林书宇,1,scriptwriter
+4584,柳蘅,1,scriptwriter
+4585,马红路,1,scriptwriter
+4586,肯·布鲁恩,1,scriptwriter
+4587,汤本香树实,1,scriptwriter
+4588,宇治田隆史,1,scriptwriter
+4589,本大卫·格拉宾斯基,1,scriptwriter
+4590,Wen-Chia Chang,1,scriptwriter
+4591,拉里·斯塔克,1,scriptwriter
+4592,戴维·纽曼,1,scriptwriter
+4593,迈克尔·杰克逊,1,scriptwriter
+4594,迈克尔·马科维茨,1,scriptwriter
+4595,鲍鲸鲸,1,scriptwriter
+4596,兰奴夫·费因斯,1,scriptwriter
+4597,马特·谢林,1,scriptwriter
+4598,亚辛,1,scriptwriter
+4599,丹·艾克罗伊德,1,scriptwriter
+4600,凯迪·迪波德,1,scriptwriter
+4601,保罗·费格,1,scriptwriter
+4602,王志辉,1,scriptwriter
+4603,热罗姆·萨尔,1,scriptwriter
+4604,班庄·比辛达拿刚,1,scriptwriter
+4605,辰塔维·塔纳西维,1,scriptwriter
+4606,侬特拉·孔旺,1,scriptwriter
+4607,秋山贵彦,1,scriptwriter
+4608,Tanit Jitnukul,1,scriptwriter
+4609,克洛德·纽里德萨尼,1,scriptwriter
+4610,玛丽·佩雷努,1,scriptwriter
+4611,布拉德·刘易斯,1,scriptwriter
+4612,艾丽斯·西伯德,1,scriptwriter
+4613,塞特·洛克海德,1,scriptwriter
+4614,大卫·法尔,1,scriptwriter
+4615,拉斯洛·奈迈施,1,scriptwriter
+4616,克拉拉·罗耶,1,scriptwriter
+4617,丹尼尔·沃特斯,1,scriptwriter
+4618,王晋琦,1,scriptwriter
+4619,Nigel Henbest,1,scriptwriter
+4620,Billie Pink,1,scriptwriter
+4621,黄肇允,1,scriptwriter
+4622,林俊亨,1,scriptwriter
+4623,土屋加仑,1,scriptwriter
+4624,岭岸信明,1,scriptwriter
+4625,Sam Hamm,1,scriptwriter
+4626,沃伦·斯卡伦,1,scriptwriter
+4627,孙向妘,1,scriptwriter
+4628,陈炘怡,1,scriptwriter
+4629,瓦吉·穆阿瓦德,1,scriptwriter
+4630,瓦莱丽·博格朗-尚帕涅,1,scriptwriter
+4631,刘成汉,1,scriptwriter
+4632,杨宝文,1,scriptwriter
+4633,苏珊娜·比尔,1,scriptwriter
+4634,安诺斯·托马斯·延森,1,scriptwriter
+4635,Thomas Harris,1,scriptwriter
+4636,何敏文,1,scriptwriter
+4637,杜汶泽,1,scriptwriter
+4638,格拉·巴布鲁阿尼,1,scriptwriter
+4639,格雷格·普鲁斯,1,scriptwriter
+4640,咖啡因,1,scriptwriter
+4641,查文潇,1,scriptwriter
+4642,尼克·弗罗斯特,1,scriptwriter
+4643,杜俊,1,scriptwriter
+4644,孙武,1,scriptwriter
+4645,王小苔,1,scriptwriter
+4646,叶长清,1,scriptwriter
+4647,钟澍佳,1,scriptwriter
+4648,黄洋达,1,scriptwriter
+4649,理查德·拉·格拉文斯,1,scriptwriter
+4650,陈慧翎,1,scriptwriter
+4651,陈惠真,1,scriptwriter
+4652,王玉琪,1,scriptwriter
+4653,陆亦华,1,scriptwriter
+4654,艾伦·鲍尔,1,scriptwriter
+4655,Marc Hyman,1,scriptwriter
+4656,Jez Butterworth,1,scriptwriter
+4657,John-Henry Butterworth,1,scriptwriter
+4658,Valerie Plame,1,scriptwriter
+4659,Joseph Wilson,1,scriptwriter
+4660,瑞克·金,1,scriptwriter
+4661,W·彼得·伊利夫,1,scriptwriter
+4662,菊地秀行,1,scriptwriter
+4663,如小果,1,scriptwriter
+4664,李晓苹,1,scriptwriter
+4665,潘文杰,1,scriptwriter
+4666,乔纳森·黑尔斯,1,scriptwriter
+4667,钟伟雄,1,scriptwriter
+4668,陈奥图,1,scriptwriter
+4669,蒋旭,1,scriptwriter
+4670,安吉拉·沃克曼,1,scriptwriter
+4671,迈克尔·雷,1,scriptwriter
+4672,沈亿丽,1,scriptwriter
+4673,邝丽莎,1,scriptwriter
+4674,富尔维奥·莫尔塞拉,1,scriptwriter
+4675,徐正超,1,scriptwriter
+4676,廖坚为,1,scriptwriter
+4677,朱家宏,1,scriptwriter
+4678,甲元一,1,scriptwriter
+4679,唐基明,1,scriptwriter
+4680,方野,1,scriptwriter
+4681,陈伟雄,1,scriptwriter
+4682,胡人,1,scriptwriter
+4683,玛西·塔吉丁,1,scriptwriter
+4684,姜戎,1,scriptwriter
+4685,张耀辉,1,scriptwriter
+4686,马克·鲍登,1,scriptwriter
+4687,孙法钧,1,scriptwriter
+4688,雪容,1,scriptwriter
+4689,Steve Shibuya,1,scriptwriter
+4690,迈克尔·翁达杰,1,scriptwriter
+4691,Guillaume Vincent,1,scriptwriter
+4692,Philippe Calderon,1,scriptwriter
+4693,Aleksandr Chubaryan,1,scriptwriter
+4694,Steve Moore,1,scriptwriter
+4695,克里斯·登克,1,scriptwriter
+4696,David Johnson,1,scriptwriter
+4697,瓦尔度·绍特,1,scriptwriter
+4698,詹姆斯·里奥·赫林罕,1,scriptwriter
+4699,萧定一,1,scriptwriter
+4700,谢海盟,1,scriptwriter
+4701,裴铏,1,scriptwriter
+4702,阿射,1,scriptwriter
+4703,弗雷德·卡瓦耶,1,scriptwriter
+4704,吴洛缨,1,scriptwriter
+4705,陈惠如,1,scriptwriter
+4706,钱海毅,1,scriptwriter
+4707,虞俏,1,scriptwriter
+4708,Ross Klavan,1,scriptwriter
+4709,迈克尔·麦格鲁德,1,scriptwriter
+4710,Pete Jones,1,scriptwriter
+4711,Kevin Barnett,1,scriptwriter
+4712,约翰·罗曼罗,1,scriptwriter
+4713,麦可·康纳利,1,scriptwriter
+4714,Nicholas Sparks,1,scriptwriter
+4715,Gerald Di Pego,1,scriptwriter
+4716,Jeremy Brock,1,scriptwriter
+4717,莱斯利·迪克逊,1,scriptwriter
+4718,艾伦·格林,1,scriptwriter
+4719,鬼子,1,scriptwriter
+4720,秦雨,1,scriptwriter
+4721,阎连科,1,scriptwriter
+4722,顾长卫,1,scriptwriter
+4723,Todd Farmer,1,scriptwriter
+4724,帕特里克·卢西尔,1,scriptwriter
+4725,巴瑞·莱文森,1,scriptwriter
+4726,洛伦佐·卡克泰拉,1,scriptwriter
+4727,梁柏坚,1,scriptwriter
+4728,安迪·赖利,1,scriptwriter
+4729,凯文·塞西尔,1,scriptwriter
+4730,埃米莉·库克,1,scriptwriter
+4731,凯茜·格林伯格,1,scriptwriter
+4732,史蒂夫·汉密尔顿·肖,1,scriptwriter
+4733,凯利·阿斯博瑞,1,scriptwriter
+4734,罗布·斯普拉克林,1,scriptwriter
+4735,约翰·R·史密斯,1,scriptwriter
+4736,吉姆·艾布拉姆斯,1,scriptwriter
+4737,让·C·阿韦,1,scriptwriter
+4738,Joseph A. Mitchell,1,scriptwriter
+4739,埃里希·玛利亚·雷马克,1,scriptwriter
+4740,乔治·艾博特,1,scriptwriter
+4741,德尔·安德鲁斯,1,scriptwriter
+4742,C·加德纳·苏利文,1,scriptwriter
+4743,孙子荣,1,scriptwriter
+4744,简士耕,1,scriptwriter
+4745,林纯华,1,scriptwriter
+4746,Harrison Stone,1,scriptwriter
+4747,查尔斯·谢尔,1,scriptwriter
+4748,大卫·斯威夫特,1,scriptwriter
+4749,埃里希·卡斯特纳,1,scriptwriter
+4750,南希·迈耶斯,1,scriptwriter
+4751,冯世雄,1,scriptwriter
+4752,李居明,1,scriptwriter
+4753,杨捷,1,scriptwriter
+4754,于洪洋,1,scriptwriter
+4755,武华,1,scriptwriter
+4756,桑尼·墨海,1,scriptwriter
+4757,张镇,1,scriptwriter
+4758,朴光铉,1,scriptwriter
+4759,苏珊·高蒂尔,1,scriptwriter
+4760,布鲁斯·格雷厄姆,1,scriptwriter
+4761,埃里克·塔奇曼,1,scriptwriter
+4762,鲍勃·祖迪克,1,scriptwriter
+4763,诺尼·怀特,1,scriptwriter
+4764,约翰·欧文,1,scriptwriter
+4765,伊丽莎白·梅里威瑟,1,scriptwriter
+4766,John Davies,1,scriptwriter
+4767,谭华,1,scriptwriter
+4768,Christopher Bertolini,1,scriptwriter
+4769,约书亚·斯特宁,1,scriptwriter
+4770,杰弗里·文堤米利亚,1,scriptwriter
+4771,柏邦妮,1,scriptwriter
+4772,金英卓,1,scriptwriter
+4773,申正久,1,scriptwriter
+4774,小D.M.马什曼,1,scriptwriter
+4775,查尔斯·波蒂斯,1,scriptwriter
+4776,雅各布·格林,1,scriptwriter
+4777,威廉·格林,1,scriptwriter
+4778,特里·索泽恩,1,scriptwriter
+4779,彼得·乔治,1,scriptwriter
+4780,方励,1,scriptwriter
+4781,李正浩,1,scriptwriter
+4782,陈大明,1,scriptwriter
+4783,刘易斯-约翰·卡利诺,1,scriptwriter
+4784,弗朗西丝·古德里奇,1,scriptwriter
+4785,艾伯特·哈克特,1,scriptwriter
+4786,弗兰克·卡普拉,1,scriptwriter
+4787,菲利普·范多伦·斯特恩,1,scriptwriter
+4788,基斯·多灵顿,1,scriptwriter
+4789,乔纳森·斯威夫特,1,scriptwriter
+4790,刘存明,1,scriptwriter
+4791,秘天慧,1,scriptwriter
+4792,约翰·艾维德·林德奎斯特,1,scriptwriter
+4793,李智,1,scriptwriter
+4794,米基·诺克斯,1,scriptwriter
+4795,达里奥·阿基多,1,scriptwriter
+4796,大卫·塞德勒,1,scriptwriter
+4797,袁鸿冰,1,scriptwriter
+4798,赵崇邦,1,scriptwriter
+4799,Mario Giordano,1,scriptwriter
+4800,布伦达·奥伯里恩,1,scriptwriter
+4801,丹尼·博伊尔,1,scriptwriter
+4802,阿龙·罗尔斯顿,1,scriptwriter
+4803,赵崇基,1,scriptwriter
+4804,王秋雨,1,scriptwriter
+4805,亚当·霍罗威茨,1,scriptwriter
+4806,布赖恩·克卢格曼,1,scriptwriter
+4807,爱德华·基齐斯,1,scriptwriter
+4808,李·施特恩塔尔,1,scriptwriter
+4809,史蒂文·利斯伯吉尔,1,scriptwriter
+4810,邦尼·麦克伯德,1,scriptwriter
+4811,克里斯·斯帕林,1,scriptwriter
+4812,乔伊斯·胡珀·科林顿,1,scriptwriter
+4813,纳塔莉·阿祖莱,1,scriptwriter
+4814,奥利佛·达扎特,1,scriptwriter
+4815,路易·加德尔,1,scriptwriter
+4816,让-克洛德·吉耶博,1,scriptwriter
+4817,埃里克·瓦力,1,scriptwriter
+4818,罗赛·格维茨,1,scriptwriter
+4819,阿尔瓦罗·罗德里格斯,1,scriptwriter
+4820,沈巍,1,scriptwriter
+4821,某小丫,1,scriptwriter
+4822,乔治·W·特伦德尔,1,scriptwriter
+4823,林乃文,1,scriptwriter
+4824,布莱斯·贝克汉姆,1,scriptwriter
+4825,大卫·菲卡斯,1,scriptwriter
+4826,林诣彬,1,scriptwriter
+4827,菲利普·W·钟,1,scriptwriter
+4828,阿尔弗雷多·博泰洛,1,scriptwriter
+4829,保罗·格林格拉斯,1,scriptwriter
+4830,克里斯多福·劳斯,1,scriptwriter
+4831,张友渔,1,scriptwriter
+4832,李志蔷,1,scriptwriter
+4833,霍华德·科克,1,scriptwriter
+4834,默里·伯内特,1,scriptwriter
+4835,Joan Alison,1,scriptwriter
+4836,梅格·卡伯特,1,scriptwriter
+4837,吉娜·温德科斯,1,scriptwriter
+4838,林呈炘,1,scriptwriter
+4839,邵慧婷,1,scriptwriter
+4840,米歇尔·贡德里,1,scriptwriter
+4841,皮埃尔·比斯毛特,1,scriptwriter
+4842,劳丽·克雷格,1,scriptwriter
+4843,尼克·普斯泰,1,scriptwriter
+4844,碧弗利·柯利瑞,1,scriptwriter
+4845,金辉,1,scriptwriter
+4846,塞思·麦克法兰,1,scriptwriter
+4847,亚历克·苏雷金,1,scriptwriter
+4848,韦尔斯利·怀尔德,1,scriptwriter
+4849,王宁,1,scriptwriter
+4850,牛朝阳,1,scriptwriter
+4851,亚当·库柏,1,scriptwriter
+4852,Bill Collage,1,scriptwriter
+4853,Emily Fox,1,scriptwriter
+4854,陈宝骏,1,scriptwriter
+4855,吴家强,1,scriptwriter
+4856,张翀,1,scriptwriter
+4857,劳伦斯·布洛克,1,scriptwriter
+4858,Eric Heisserer,1,scriptwriter
+4859,约翰·奥罗夫,1,scriptwriter
+4860,埃米尔·斯特恩,1,scriptwriter
+4861,Kathryn Lasky,1,scriptwriter
+4862,洛特·赖尼格,1,scriptwriter
+4863,文章,1,scriptwriter
+4864,冯媛,1,scriptwriter
+4865,李晓,1,scriptwriter
+4866,燕子,1,scriptwriter
+4867,Amy Andelson,1,scriptwriter
+4868,Emily Meyer,1,scriptwriter
+4869,埃里克·古德伯格,1,scriptwriter
+4870,乔·格兰特,1,scriptwriter
+4871,Perce Pearce,1,scriptwriter
+4872,卡尔·法尔伯格,1,scriptwriter
+4873,盖坦··布里兹,1,scriptwriter
+4874,保罗·布里兹,1,scriptwriter
+4875,唐·哈恩,1,scriptwriter
+4876,Elena Driskill,1,scriptwriter
+4877,闵安琪,1,scriptwriter
+4878,石楠,1,scriptwriter
+4879,拉里·克莱默,1,scriptwriter
+4880,菲利普·拉泽布尼克,1,scriptwriter
+4881,格兰·基恩,1,scriptwriter
+4882,本·麦兹里奇,1,scriptwriter
+4883,Theresa Marie,1,scriptwriter
+4884,罗伯特·哈里斯,1,scriptwriter
+4885,爱德华·里科,1,scriptwriter
+4886,维卡斯·巴尔,1,scriptwriter
+4887,Chaitally Parmar,1,scriptwriter
+4888,Parveez Sheikh,1,scriptwriter
+4889,Anvita Dutt,1,scriptwriter
+4890,康格娜·拉瑙特,1,scriptwriter
+4891,阿利斯泰尔·麦克林,1,scriptwriter
+4892,乔什·克劳斯纳,1,scriptwriter
+4893,蔡海哲,1,scriptwriter
+4894,郑兴顺,1,scriptwriter
+4895,钟晓阳,1,scriptwriter
+4896,乌玛·瑟曼,1,scriptwriter
+4897,胡安·何塞·坎帕内利亚,1,scriptwriter
+4898,Eduardo Sacheri,1,scriptwriter
+4899,肯尼斯·罗斯,1,scriptwriter
+4900,查克·费尔,1,scriptwriter
+4901,金国钊,1,scriptwriter
+4902,杨敦平,1,scriptwriter
+4903,帕特里克·奥尼尔,1,scriptwriter
+4904,姜孝镇,1,scriptwriter
+4905,王秉林,1,scriptwriter
+4906,厄普顿·辛克莱,1,scriptwriter
+4907,罗伯特·罗伊·普尔,1,scriptwriter
+4908,张笑天,1,scriptwriter
+4909,张夷非,1,scriptwriter
+4910,李建国,1,scriptwriter
+4911,连秀凤,1,scriptwriter
+4912,沈东,1,scriptwriter
+4913,Matt Lopez ,1,scriptwriter
+4914,Mark Burton,1,scriptwriter
+4915,亚当·F·戈德堡,1,scriptwriter
+4916,罗伯特·汤姆,1,scriptwriter
+4917,查尔斯·B·格里菲斯,1,scriptwriter
+4918,伊布·梅尔基奥尔,1,scriptwriter
+4919,陈虹洁,1,scriptwriter
+4920,王力宏,1,scriptwriter
+4921,刘骐,1,scriptwriter
+4922,周晓,1,scriptwriter
+4923,罗伯特·戈登,1,scriptwriter
+4924,丹尼尔·汉德勒,1,scriptwriter
+4925,阿兰·莫纳,1,scriptwriter
+4926,Nathalie Vailloud,1,scriptwriter
+4927,J·F·劳顿,1,scriptwriter
+4928,布莱恩·舒尔茨,1,scriptwriter
+4929,克莱格·舒尔茨,1,scriptwriter
+4930,科尼利厄斯·乌里亚诺,1,scriptwriter
+4931,查尔斯·M·舒尔茨,1,scriptwriter
+4932,吴天明,1,scriptwriter
+4933,罗雪莹,1,scriptwriter
+4934,肖江虹,1,scriptwriter
+4935,史蒂芬·希夫,1,scriptwriter
+4936,思诺,1,scriptwriter
+4937,隋小东,1,scriptwriter
+4938,约翰·D.,1,scriptwriter
+4939,詹姆斯·R·韦布,1,scriptwriter
+4940,查德·洛,1,scriptwriter
+4941,埃文·劳,1,scriptwriter
+4942,尹丽川,1,scriptwriter
+4943,艾米,1,scriptwriter
+4944,思芜,1,scriptwriter
+4945,马修·萨德,1,scriptwriter
+4946,克里斯托弗·墨菲,1,scriptwriter
+4947,John Morris,1,scriptwriter
+4948,艾琳·克雷斯达·威尔森,1,scriptwriter
+4949,安妮·芳婷,1,scriptwriter
+4950,马丁·赞里维特,1,scriptwriter
+4951,郑瑞景,1,scriptwriter
+4952,莎拉·沃特丝,1,scriptwriter
+4953,崔锡珉,1,scriptwriter
+4954,朱景曦,1,scriptwriter
+4955,理查德·贝里,1,scriptwriter
+4956,Hank Nelken,1,scriptwriter
+4957,乔治·麦克唐纳·弗莱泽,1,scriptwriter
+4958,菲丽丝·奈吉,1,scriptwriter
+4959,Philippe Poulet,1,scriptwriter
+4960,詹姆斯·v·辛普森,1,scriptwriter
+4961,蓝乃才,1,scriptwriter
+4962,陈嘉仪,1,scriptwriter
+4963,凌浩然,1,scriptwriter
+4964,张红叶,1,scriptwriter
+4965,David Paterson,1,scriptwriter
+4966,凯瑟琳·帕特森,1,scriptwriter
+4967,木田纪生,1,scriptwriter
+4968,弗朗西丝·弗拉哈迪,1,scriptwriter
+4969,比利·弗罗利克,1,scriptwriter
+4970,尔羊,1,scriptwriter
+4971,查尔斯·弗雷泽,1,scriptwriter
+4972,约翰·霍普斯金,1,scriptwriter
+4973,John Claflin,1,scriptwriter
+4974,丹尼尔·泽尔曼,1,scriptwriter
+4975,雷宇扬,1,scriptwriter
+4976,克里斯托弗·,1,scriptwriter
+4977,布拉德·霍根,1,scriptwriter
+4978,徐虾,1,scriptwriter
+4979,钱月笙,1,scriptwriter
+4980,罗泓轸,1,scriptwriter
+4981,王美雪,1,scriptwriter
+4982,John Heffernan,1,scriptwriter
+4983,塞巴斯蒂安·古提耶雷兹,1,scriptwriter
+4984,David Dalessandro,1,scriptwriter
+4985,约翰·卡林,1,scriptwriter
+4986,亚历克斯·利特瓦克,1,scriptwriter
+4987,迈克尔·芬奇,1,scriptwriter
+4988,雅克·欧迪亚,1,scriptwriter
+4989,诺亚·德勃雷,1,scriptwriter
+4990,狄赞,1,scriptwriter
+4991,特伦斯·温特,1,scriptwriter
+4992,乔丹·贝尔福特,1,scriptwriter
+4993,张琦,1,scriptwriter
+4994,陈倩,1,scriptwriter
+4995,赵犇,1,scriptwriter
+4996,苏阳,1,scriptwriter
+4997,布莱恩·布鲁姆,1,scriptwriter
+4998,罗卓瑶,1,scriptwriter
+4999,刘尚然,1,scriptwriter
+5000,Mike Jefferies,1,scriptwriter
+5001,侯献岳,1,scriptwriter
+5002,尼克·维林,1,scriptwriter
+5003,迈克尔·勒克,1,scriptwriter
+5004,克里斯·帕克,1,scriptwriter
+5005,贾斯汀·塞洛克斯,1,scriptwriter
+5006,李燕波,1,scriptwriter
+5007,李云菲,1,scriptwriter
+5008,盖伊·特鲁斯佩尔,1,scriptwriter
+5009,杨健,1,scriptwriter
+5010,何燕江,1,scriptwriter
+5011,江奇涛,1,scriptwriter
+5012,胡玫,1,scriptwriter
+5013,钟玲,1,scriptwriter
+5014,乔丹·麦其纳,1,scriptwriter
+5015,陈惠英,1,scriptwriter
+5016,夏占士,1,scriptwriter
+5017,邓燕楠,1,scriptwriter
+5018,李天济,1,scriptwriter
+5019,火火,1,scriptwriter
+5020,贺鑫,1,scriptwriter
+5021,杜良媞,1,scriptwriter
+5022,彭济材,1,scriptwriter
+5023,吴嘉诺,1,scriptwriter
+5024,温可夫,1,scriptwriter
+5025,程小东,1,scriptwriter
+5026,黎大炜,1,scriptwriter
+5027,杰瑞米·索尔尼尔,1,scriptwriter
+5028,刘致祥,1,scriptwriter
+5029,罗杰·阿勒斯,1,scriptwriter
+5030,雷蒙德·辛格,1,scriptwriter
+5031,Gyu-hyeong Lee,1,scriptwriter
+5032,李绍源,1,scriptwriter
+5033,Steve Bencich,1,scriptwriter
+5034,Ron J. Friedman,1,scriptwriter
+5035,Ron Anderson,1,scriptwriter
+5036,深泽一夫,1,scriptwriter
+5037,克里斯托弗·卡南,1,scriptwriter
+5038,史蒂夫·巴兰奇克,1,scriptwriter
+5039,戚家基,1,scriptwriter
+5040,法比安·别林斯基,1,scriptwriter
+5041,格里高利·雅各布,1,scriptwriter
+5042,梁沪生,1,scriptwriter
+5043,王冀邢,1,scriptwriter
+5044,Leslie Caveny,1,scriptwriter
+5045,宫泽贤治,1,scriptwriter
+5046,顾晓阳,1,scriptwriter
+5047,郑晓龙,1,scriptwriter
+5048,迈克尔·巴塞特,1,scriptwriter
+5049,罗伯特·霍华德,1,scriptwriter
+5050,张海靖,1,scriptwriter
+5051,牛佬,1,scriptwriter
+5052,Arthur Herzog Jr.,1,scriptwriter
+5053,Stirling Silliphant,1,scriptwriter
+5054,林蕴衡,1,scriptwriter
+5055,亚瑟·高登,1,scriptwriter
+5056,龙志杰,1,scriptwriter
+5057,彼得·孙,1,scriptwriter
+5058,埃里克·本森,1,scriptwriter
+5059,凯尔西·曼,1,scriptwriter
+5060,彼得·赫奇斯,1,scriptwriter
+5061,张国源,1,scriptwriter
+5062,Duane Capizzi,1,scriptwriter
+5063,甄子丹,1,scriptwriter
+5064,林煌坤,1,scriptwriter
+5065,李康年,1,scriptwriter
+5066,张丽玲,1,scriptwriter
+5067,陈志恒,1,scriptwriter
+5068,王羽,1,scriptwriter
+5069,李柏龄,1,scriptwriter
+5070,梁雄华,1,scriptwriter
+5071,李厚欣,1,scriptwriter
+5072,班内特·耶林,1,scriptwriter
+5073,吉尔伯特·罗尔斯顿,1,scriptwriter
+5074,Eric Bernt,1,scriptwriter
+5075,John Jarrell,1,scriptwriter
+5076,李·安东尼·史密斯,1,scriptwriter
+5077,格雷戈里·J·布拉德利,1,scriptwriter
+5078,黄韵材,1,scriptwriter
+5079,Carlo Mario Franzero,1,scriptwriter
+5080,Appian,1,scriptwriter
+5081,Suetonius,1,scriptwriter
+5082,Valérie Guignabodet,1,scriptwriter
+5083,菲利普·巴里,1,scriptwriter
+5084,瑞恩·罗依,1,scriptwriter
+5085,David Griffiths,1,scriptwriter
+5086,Peter Griffiths,1,scriptwriter
+5087,张蓉,1,scriptwriter
+5088,Irina Diether,1,scriptwriter
+5089,杜云之,1,scriptwriter
+5090,尼古拉斯·莱特,1,scriptwriter
+5091,詹姆斯·A·伍兹,1,scriptwriter
+5092,卡特·布兰查德,1,scriptwriter
+5093,西蒙·威尔斯,1,scriptwriter
+5094,Wendy Wells,1,scriptwriter
+5095,金仁顺,1,scriptwriter
+5096,唐小松,1,scriptwriter
+5097,周周,1,scriptwriter
+5098,金亨俊,1,scriptwriter
+5099,乔恩·科尔顿·巴里,1,scriptwriter
+5100,杰夫·马尔什,1,scriptwriter
+5101,丹·波文迈尔,1,scriptwriter
+5102,黄浩然,1,scriptwriter
+5103,保罗·伯恩纳姆,1,scriptwriter
+5104,格雷厄姆·约斯特,1,scriptwriter
+5105,扬·德·邦特,1,scriptwriter
+5106,兰德尔·麦考密克,1,scriptwriter
+5107,杜夫·龙格尔,1,scriptwriter
+5108,Frank Valdez,1,scriptwriter
+5109,Sara B. Cooper,1,scriptwriter
+5110,西蒙·韦斯特,1,scriptwriter
+5111,约翰·津曼,1,scriptwriter
+5112,周葵,1,scriptwriter
+5113,Robin Lerner,1,scriptwriter
+5114,徐元丰,1,scriptwriter
+5115,岸本齐史,1,scriptwriter
+5116,小太刀右京,1,scriptwriter
+5117,未水,1,scriptwriter
+5118,齐昕,1,scriptwriter
+5119,宋邕江,1,scriptwriter
+5120,黄柯云,1,scriptwriter
+5121,王才涛,1,scriptwriter
+5122,让-皮埃尔·巴克里,1,scriptwriter
+5123,阿涅丝·夏薇依,1,scriptwriter
+5124,李海俊,1,scriptwriter
+5125,李海暎,1,scriptwriter
+5126,Bob Krakower,1,scriptwriter
+5127,Larry Schapiro,1,scriptwriter
+5128,唐·温斯洛,1,scriptwriter
+5129,鲍伟聪,1,scriptwriter
+5130,鲍勃·赫金博格,1,scriptwriter
+5131,罗布·缪尔,1,scriptwriter
+5132,乔·安索拉比赫勒,1,scriptwriter
+5133,保罗·杰曼,1,scriptwriter
+5134,陈奕利,1,scriptwriter
+5135,理查德·弗拉纳根,1,scriptwriter
+5136,Jeff Lowell,1,scriptwriter
+5137,路易斯·邓肯,1,scriptwriter
+5138,格雷格·德保罗,1,scriptwriter
+5139,凯西·威尔逊,1,scriptwriter
+5140,琼·黛安·拉斐尔,1,scriptwriter
+5141,尼尔·布洛姆坎普,1,scriptwriter
+5142,特丽·塔歇尔,1,scriptwriter
+5143,内森·亚历山大,1,scriptwriter
+5144,罗布·伯内特,1,scriptwriter
+5145,Jonathan Evison,1,scriptwriter
+5146,克雷·豪尔,1,scriptwriter
+5147,伊恩·麦克尤恩,1,scriptwriter
+5148,约翰·罗杰斯,1,scriptwriter
+5149,马克·弗格斯,1,scriptwriter
+5150,霍克·奥斯比,1,scriptwriter
+5151,布赖恩·科佩尔曼,1,scriptwriter
+5152,大卫·莱维恩,1,scriptwriter
+5153,Grant Nieporte,1,scriptwriter
+5154,阿伦·沃纳,1,scriptwriter
+5155,约瑟夫·凯塞林,1,scriptwriter
+5156,山姆·雷米,1,scriptwriter
+5157,伊万·莱米,1,scriptwriter
+5158,阿尔文·萨金特,1,scriptwriter
+5159,约翰·里夸,1,scriptwriter
+5160,格伦·费卡拉,1,scriptwriter
+5161,马克·鲍尔,1,scriptwriter
+5162,艾什·布兰农,1,scriptwriter
+5163,萧丽塔,1,scriptwriter
+5164,道格·钱伯林,1,scriptwriter
+5165,克里斯·韦伯,1,scriptwriter
+5166,Shibani Bathija,1,scriptwriter
+5167,Niranjan Iyengar,1,scriptwriter
+5168,黄英,1,scriptwriter
+5169,Clay Frohman,1,scriptwriter
+5170,B·特莱文,1,scriptwriter
+5171,尼尔·拉布特,1,scriptwriter
+5172,迈克·切罗内,1,scriptwriter
+5173,杰森·费拉尔迪,1,scriptwriter
+5174,理查德·凯利,1,scriptwriter
+5175,Brian Taylor,1,scriptwriter
+5176,杰弗里·鲍姆,1,scriptwriter
+5177,贾森·弗莱德伯格,1,scriptwriter
+5178,亚伦·赛尔策,1,scriptwriter
+5179,查尔斯·麦肯恩,1,scriptwriter
+5180,查尔斯·阿尔弗森,1,scriptwriter
+5181,罗伯特·莫里斯克,1,scriptwriter
+5182,张化,1,scriptwriter
+5183,夜郎,1,scriptwriter
+5184,Ted Elliott,1,scriptwriter
+5185,科迪·卡梅伦,1,scriptwriter
+5186,康拉德·弗农,1,scriptwriter
+5187,大卫·艾略特,1,scriptwriter
+5188,保罗·洛维特,1,scriptwriter
+5189,Charles Schneider,1,scriptwriter
+5190,沈治樑,1,scriptwriter
+5191,马克斯·兰迪斯,1,scriptwriter
+5192,坂东贤治,1,scriptwriter
+5193,费尔·海伊,1,scriptwriter
+5194,马特·曼弗莱迪,1,scriptwriter
+5195,J·D·基克,1,scriptwriter
+5196,柯克·琼斯,1,scriptwriter
+5197,马西莫·德·丽塔,1,scriptwriter
+5198,王小帅,1,scriptwriter
+5199,Gideon Raff,1,scriptwriter
+5200,Ryan Swanson,1,scriptwriter
+5201,托妮安约翰森,1,scriptwriter
+5202,Karen Barna,1,scriptwriter
+5203,哈罗德·杰克·布卢姆,1,scriptwriter
+5204,Matt Lopez,1,scriptwriter
+5205,亚历山大·基,1,scriptwriter
+5206,杰米·林登,1,scriptwriter
+5207,理查德·史密斯,1,scriptwriter
+5208,亨利·罗森鲍姆,1,scriptwriter
+5209,A·R·拉曼,1,scriptwriter
+5210,刘永平,1,scriptwriter
+5211,Alexander Vesha,1,scriptwriter
+5212,詹姆斯·罗宾逊,1,scriptwriter
+5213,艾伦·摩尔,1,scriptwriter
+5214,Kevin O'Neill,1,scriptwriter
+5215,Juliet Snowden,1,scriptwriter
+5216,Stiles White,1,scriptwriter
+5217,David Ignatius,1,scriptwriter
+5218,陈召,1,scriptwriter
+5219,沃尔夫·曼考维兹,1,scriptwriter
+5220,特伦斯·杨,1,scriptwriter
+5221,Gary Young,1,scriptwriter
+5222,乔纳森·弗兰克,1,scriptwriter
+5223,尼克·罗恩特里,1,scriptwriter
+5224,阿贾·库马尔,1,scriptwriter
+5225,伍奇伟,1,scriptwriter
+5226,张一白,1,scriptwriter
+5227,帕斯卡莱·普扎杜,1,scriptwriter
+5228,杜可风,1,scriptwriter
+5229,奥利维耶·阿萨亚斯,1,scriptwriter
+5230,诹访敦彦,1,scriptwriter
+5231,韦斯·克雷文,1,scriptwriter
+5232,珍妮特·皮普尔斯,1,scriptwriter
+5233,安妮·莱斯,1,scriptwriter
+5234,Daniel Berendsen,1,scriptwriter
+5235,乔纳森·勒姆金,1,scriptwriter
+5236,史蒂芬·亨特,1,scriptwriter
+5237,艾利克斯·马斯,1,scriptwriter
+5238,罗守耀,1,scriptwriter
+5239,迈克尔·罗伯特·约翰逊,1,scriptwriter
+5240,Robert Reece,1,scriptwriter
+5241,乔纳森·伯恩斯坦,1,scriptwriter
+5242,詹姆斯·格里尔,1,scriptwriter
+5243,琳·巴贝尔,1,scriptwriter
+5244,布鲁斯·乔尔·鲁宾,1,scriptwriter
+5245,奥黛丽·尼芬格,1,scriptwriter
+5246,黃洋达,1,scriptwriter
+5247,河底,1,scriptwriter
+5248,王钟,1,scriptwriter
+5249,比尔·凯利,1,scriptwriter
+5250,T·S·库克,1,scriptwriter
+5251,Larry Doyle,1,scriptwriter
+5252,马丁·惠勒,1,scriptwriter
+5253,利贝罗·德·瑞恩佐,1,scriptwriter
+5254,周浩,1,scriptwriter
+5255,王倦,1,scriptwriter
+5256,陈红杉,1,scriptwriter
+5257,区雪儿,1,scriptwriter
+5258,刘婉仪,1,scriptwriter
+5259,闽燕墨雨,1,scriptwriter
+5260,石伟文,1,scriptwriter
+5261,弗朗西斯·韦贝尔,1,scriptwriter
+5262,Kate DiCamillo,1,scriptwriter
+5263,柯蒂斯·汉森,1,scriptwriter
+5264,路学长,1,scriptwriter
+5265,丁小羊,1,scriptwriter
+5266,理查德·普莱斯,1,scriptwriter
+5267,约翰·辛格顿,1,scriptwriter
+5268,李仟浔,1,scriptwriter
+5269,江阳,1,scriptwriter
+5270,Jon Bernstein,1,scriptwriter
+5271,Aurian Redson,1,scriptwriter
+5272,Joseph Mateo,1,scriptwriter
+5273,Stephen J. Anderson,1,scriptwriter
+5274,Robert L. Baird,1,scriptwriter
+5275,Daniel Gerson,1,scriptwriter
+5276,Shirley Pierce,1,scriptwriter
+5277,米歇尔·菲思勒,1,scriptwriter
+5278,Jacques Dubuisson,1,scriptwriter
+5279,王光利,1,scriptwriter
+5280,黄金刚,1,scriptwriter
+5281,道格拉斯·库克,1,scriptwriter
+5282,大卫·韦斯伯格,1,scriptwriter
+5283,D. Kyle Johnson,1,scriptwriter
+5284,钱道远,1,scriptwriter
+5285,Martha Moran,1,scriptwriter
+5286,桐山勋,1,scriptwriter
+5287,北村龙平,1,scriptwriter
+5288,富山省吾,1,scriptwriter
+5289,三村涉,1,scriptwriter
+5290,沈悦,1,scriptwriter
+5291,Donna Powers,1,scriptwriter
+5292,Wayne Powers,1,scriptwriter
+5293,肯·利佩尔,1,scriptwriter
+5294,田蒙,1,scriptwriter
+5295,陆寿钧,1,scriptwriter
+5296,宋恭权,1,scriptwriter
+5297,罗邦武,1,scriptwriter
+5298,肖温,1,scriptwriter
+5299,捷尔戈,1,scriptwriter
+5300,Emmanuel Dongala,1,scriptwriter
+5301,Jean-Stéphane Sauvaire,1,scriptwriter
+5302,徐云生,1,scriptwriter
+5303,皮埃尔·苏维德,1,scriptwriter
+5304,马塞尔·阿兰,1,scriptwriter
+5305,Jean Halain,1,scriptwriter
+5306,皮埃尔·富科,1,scriptwriter
+5307,姚树华,1,scriptwriter
+5308,成一,1,scriptwriter
+5309,李巨源,1,scriptwriter
+5310,任宝茹,1,scriptwriter
+5311,王兵,1,scriptwriter
+5312,叶大鹰,1,scriptwriter
+5313,彼得·休伊特,1,scriptwriter
+5314,Oscar Fraley,1,scriptwriter
+5315,Eliot Ness,1,scriptwriter
+5316,奚华安,1,scriptwriter
+5317,小江,1,scriptwriter
+5318,蒋钦民,1,scriptwriter
+5319,江湖,1,scriptwriter
+5320,曹海会,1,scriptwriter
+5321,皮特·洛尔,1,scriptwriter
+5322,陈建斌,1,scriptwriter
+5323,霍伊特·耶特曼,1,scriptwriter
+5324,邢鹤涛,1,scriptwriter
+5325,邵庆明,1,scriptwriter
+5326,William M. Finkelstein,1,scriptwriter
+5327,克里斯·布兰卡托,1,scriptwriter
+5328,Dennis Feldman,1,scriptwriter
+5329,约翰·布兰卡托,1,scriptwriter
+5330,迈克尔·费里斯,1,scriptwriter
+5331,斯科特·亚历山大,1,scriptwriter
+5332,拉里·卡拉斯泽斯基,1,scriptwriter
+5333,迈克尔·麦克道尔,1,scriptwriter
+5334,Nick Everhart,1,scriptwriter
+5335,Naomi L. Selfman,1,scriptwriter
+5336,秋逸,1,scriptwriter
+5337,简·皮克瓦,1,scriptwriter
+5338,Peter Barsocchini,1,scriptwriter
+5339,亚历山大·仲马,1,scriptwriter
+5340,斯蒂芬·贝尔伯,1,scriptwriter
+5341,Ben Ramsey,1,scriptwriter
+5342,Brian Pimental,1,scriptwriter
+5343,Jeanne Rosenberg,1,scriptwriter
+5344,埃德·德克特,1,scriptwriter
+5345,劳伦·魏丝伯格,1,scriptwriter
+5346,德克·布莱克曼,1,scriptwriter
+5347,霍华德·麦凯恩,1,scriptwriter
+5348,陈宝光,1,scriptwriter
+5349,史蒂夫·科伦,1,scriptwriter
+5350,马克·奥基夫,1,scriptwriter
+5351,肖恩·韦恩斯,1,scriptwriter
+5352,马龙·韦恩斯,1,scriptwriter
+5353,安东尼·莱昂迪斯,1,scriptwriter
+5354,迈克尔·拉巴什,1,scriptwriter
+5355,艾迪·古泽利安,1,scriptwriter
+5356,艾莉莎·荣格,1,scriptwriter
+5357,庄宇新,1,scriptwriter
+5358,Ken Li,1,scriptwriter
+5359,Erik Bergquist,1,scriptwriter
+5360,玛丽娜·德·范,1,scriptwriter
+5361,Jacques Akchoti,1,scriptwriter
+5362,Mark A. Lewis,1,scriptwriter
+5363,Michael Lewis,1,scriptwriter
+5364,铃木光司,1,scriptwriter
+5365,尤里·贝科夫,1,scriptwriter
+5366,高山文彦,1,scriptwriter
+5367,凯文·门罗,1,scriptwriter
+5368,郭玉波,1,scriptwriter
+5369,吴樾,1,scriptwriter
+5370,田坂启,1,scriptwriter
+5371,西村寿行,1,scriptwriter
+5372,斯戴芬·卢佐维茨基,1,scriptwriter
+5373,彼得·汉德克,1,scriptwriter
+5374,里卡德·赖廷格,1,scriptwriter
+5375,乔·兰福特,1,scriptwriter
+5376,乔根·克卢宾,1,scriptwriter
+5377,菲尔·洛林,1,scriptwriter
+5378,史蒂夫·波赛尔,1,scriptwriter
+5379,Michael Fallon,1,scriptwriter
+5380,马克·维西顿,1,scriptwriter
+5381,鲍勃·福斯,1,scriptwriter
+5382,弗雷德·埃布,1,scriptwriter
+5383,莫里纳·达拉斯·沃特金斯,1,scriptwriter
+5384,约翰·A·戴维斯,1,scriptwriter
+5385,John Nickle,1,scriptwriter
+5386,Albert Ruis,1,scriptwriter
+5387,吕志虔,1,scriptwriter
+5388,郑子滔,1,scriptwriter
+5389,邓荣汞,1,scriptwriter
+5390,迈克尔·布朗宁,1,scriptwriter
+5391,泽本嘉光,1,scriptwriter
+5392,川口晴,1,scriptwriter
+5393,陈剑雨,1,scriptwriter
+5394,朱伟,1,scriptwriter
+5395,Jack Crystal,1,scriptwriter
+5396,贾拉德·保罗,1,scriptwriter
+5397,Andrew Mogel,1,scriptwriter
+5398,丹尼·华莱士,1,scriptwriter
+5399,史蜀君,1,scriptwriter
+5400,金哥,1,scriptwriter
+5401,吴文良,1,scriptwriter
+5402,骆泽芝,1,scriptwriter
+5403,Michael Allin,1,scriptwriter
+5404,河准元,1,scriptwriter
+5405,白哲铉,1,scriptwriter
+5406,李栋,1,scriptwriter
+5407,许宗强,1,scriptwriter
+5408,杜小鸥,1,scriptwriter
+5409,罗辰生,1,scriptwriter
+5410,Frank Dux,1,scriptwriter
+5411,Paul Mones,1,scriptwriter
+5412,苏凌子,1,scriptwriter
+5413,林智祥,1,scriptwriter
+5414,吴境,1,scriptwriter
+5415,Tom Rogers,1,scriptwriter
+5416,王小柱,1,scriptwriter
+5417,白铁军,1,scriptwriter
+5418,鲍十,1,scriptwriter
+5419,沈西城,1,scriptwriter
+5420,娄烨,1,scriptwriter
+5421,西蒙·雷文,1,scriptwriter
+5422,叶步奇,1,scriptwriter
+5423,江道海,1,scriptwriter
+5424,井上テテ,1,scriptwriter
+5425,乾胡桃,1,scriptwriter
+5426,克里斯托夫·鲍里尼,1,scriptwriter
+5427,林祥培,1,scriptwriter
+5428,张鑫炎,1,scriptwriter
+5429,刘晓光,1,scriptwriter
+5430,高健峰,1,scriptwriter
+5431,艾伯特·S·拉迪,1,scriptwriter
+5432,刘仪伟,1,scriptwriter
+5433,陟岫,1,scriptwriter
+5434,丹·哈萌,1,scriptwriter
+5435,罗布·施拉布,1,scriptwriter
+5436,田开良,1,scriptwriter
+5437,张超,1,scriptwriter
+5438,Joe Forte,1,scriptwriter
+5439,邱瓈宽,1,scriptwriter
+5440,彭幼芳,1,scriptwriter
+5441,杨宗宪,1,scriptwriter
+5442,陆柱国,1,scriptwriter
+5443,赵琪,1,scriptwriter
+5444,刘星,1,scriptwriter
+5445,宋业明,1,scriptwriter
+5446,爱德华·卡赫马拉,1,scriptwriter
+5447,约翰·拉夫欧,1,scriptwriter
+5448,莲达·李·卡德威尔,1,scriptwriter
+5449,Mark Sevi,1,scriptwriter
+5450,刘俊伟,1,scriptwriter
+5451,卓冰,1,scriptwriter
+5452,托马斯·里克曼,1,scriptwriter
+5453,宥胜,1,scriptwriter
+5454,Simon Goltsman,1,scriptwriter
+5455,Kirk De Micco,1,scriptwriter
+5456,贾德·阿帕图,1,scriptwriter
+5457,尧术,1,scriptwriter
+5458,肖恩·麦考利,1,scriptwriter
+5459,西蒙·凯尔顿,1,scriptwriter
+5460,姜卫,1,scriptwriter
+5461,纪丁,1,scriptwriter
+5462,Caryn Lucas,1,scriptwriter
+5463,凯蒂·福特,1,scriptwriter
+5464,朱可欣,1,scriptwriter
+5465,黄麦铨,1,scriptwriter
+5466,卢惠英,1,scriptwriter
+5467,苏珊·奥尔琳,1,scriptwriter
+5468,Jonathan Cuba,1,scriptwriter
+5469,Linda Voorhees,1,scriptwriter
+5470,Jenny Wingfield,1,scriptwriter
+5471,Jean-Marc Culiersi,1,scriptwriter
+5472,梁治强,1,scriptwriter
+5473,何树华,1,scriptwriter
+5474,金荣俊,1,scriptwriter
+5475,刘凯,1,scriptwriter
+5476,白鹤,1,scriptwriter
+5477,莱茵,1,scriptwriter
+5478,安东尼·耶科维奇,1,scriptwriter
+5479,杜琪峰,1,scriptwriter
+5480,John McLoughlin,1,scriptwriter
+5481,Donna McLoughlin,1,scriptwriter
+5482,William Jimeno,1,scriptwriter
+5483,Allison Jimeno,1,scriptwriter
+5484,比尔·斯坦克尔纳,1,scriptwriter
+5485,谢利·斯坦克尔纳,1,scriptwriter
+5486,杰夫·洛布,1,scriptwriter
+5487,Matthew Weisman,1,scriptwriter
+5488,徐哲林,1,scriptwriter
+5489,朱显雄,1,scriptwriter
+5490,罗温·艾金森,1,scriptwriter
+5491,查宁·塔图姆,1,scriptwriter
+5492,吕嘉华,1,scriptwriter
+5493,冼志伟,1,scriptwriter
+5494,何国彦,1,scriptwriter
+5495,叶鸿伟,1,scriptwriter
+5496,鲍勃·贝克,1,scriptwriter
+5497,斯蒂夫·博克斯,1,scriptwriter
+5498,Belinda Haas,1,scriptwriter
+5499,伊安·布瑞南,1,scriptwriter
+5500,布拉德·法尔查克,1,scriptwriter
+5501,瑞恩·墨菲,1,scriptwriter
+5502,威尔·芬,1,scriptwriter
+5503,约翰·桑福德,1,scriptwriter
+5504,Matthias Pacht,1,scriptwriter
+5505,孟家宗,1,scriptwriter
+5506,迈克尔·高顿,1,scriptwriter
+5507,Lynn Varley,1,scriptwriter
+5508,郑成武,1,scriptwriter
+5509,解伟,1,scriptwriter
+5510,唐灏,1,scriptwriter
+5511,张思涛,1,scriptwriter
+5512,张弛,1,scriptwriter
+5513,胡坤,1,scriptwriter
+5514,William B. Breuer,1,scriptwriter
+5515,Hampton Sides,1,scriptwriter
+5516,邹亚子,1,scriptwriter
+5517,绍丽琼,1,scriptwriter
+5518,窦牧,1,scriptwriter
+5519,刘新,1,scriptwriter
+5520,Henry Gilroy,1,scriptwriter
+5521,Thomas Hart,1,scriptwriter
+5522,周智勇,1,scriptwriter
+5523,朱姝,1,scriptwriter
+5524,朴正祐,1,scriptwriter
+5525,徐光耀,1,scriptwriter
+5526,朴信宇,1,scriptwriter
+5527,泰布·墨菲,1,scriptwriter
+5528,徐兵,1,scriptwriter
+5529,Stephen Katz,1,scriptwriter
+5530,John Darrouzet,1,scriptwriter
+5531,Vincent Ngo,1,scriptwriter
+5532,文斯·吉里根,1,scriptwriter
+5533,周长赋,1,scriptwriter
+5534,何耀宏,1,scriptwriter
+5535,刘岚,1,scriptwriter
+5536,拉契得·波查拉,1,scriptwriter
+5537,奥利维尔·洛雷勒,1,scriptwriter
+5538,加斯顿·勒鲁,1,scriptwriter
+5539,安德鲁·洛伊德·韦伯,1,scriptwriter
+5540,乔·舒马赫,1,scriptwriter
+5541,吴雪,1,scriptwriter
+5542,陈戈,1,scriptwriter
+5543,丁洪,1,scriptwriter
+5544,戴碧湘,1,scriptwriter
+5545,陈键忠,1,scriptwriter
+5546,克雷格·皮尔斯,1,scriptwriter
+5547,布雷特·莱纳德,1,scriptwriter
+5548,Gimel Everett,1,scriptwriter
+5549,William Nicholson,1,scriptwriter
+5550,约瑟夫·亨,1,scriptwriter
+5551,耶尔齐·霍夫曼,1,scriptwriter
+5552,Józef Ignacy Kraszewski,1,scriptwriter
+5553,沈从文,1,scriptwriter
+5554,姚云,1,scriptwriter
+5555,李隽培,1,scriptwriter
+5556,罗大文,1,scriptwriter
+5557,刘国权,1,scriptwriter
+5558,郎文耀,1,scriptwriter
+5559,Brian Hohlfeld,1,scriptwriter
+5560,Michael Swerdlick,1,scriptwriter
+5561,Doug Richardson,1,scriptwriter
+5562,沃尔特·韦杰,1,scriptwriter
+5563,艺珩,1,scriptwriter
+5564,克里斯蒂安·古德加斯特,1,scriptwriter
+5565,查德·圣·约翰,1,scriptwriter
+5566,张海兴,1,scriptwriter
+5567,梅尔·布鲁克斯,1,scriptwriter
+5568,Thomas Meehan,1,scriptwriter
+5569,勒内·戈西尼,1,scriptwriter
+5570,阿尔伯特·尤德佐,1,scriptwriter
+5571,皮埃尔·切尔尼亚,1,scriptwriter
+5572,杨吉爻,1,scriptwriter
+5573,于向远,1,scriptwriter
+5574,乔纳森·赫尔曼,1,scriptwriter
+5575,S·雷·利萨维治,1,scriptwriter
+5576,艾伦·温库,1,scriptwriter
+5577,Jake Wade Wall,1,scriptwriter
+5578,傅保中,1,scriptwriter
+5579,查理·皮特斯,1,scriptwriter
+5580,奥伦·艾维夫,1,scriptwriter
+5581,查尔斯·西格斯,1,scriptwriter
+5582,米兰·崔克,1,scriptwriter
+5583,Anna McRoberts,1,scriptwriter
+5584,Anne Vince,1,scriptwriter
+5585,邱琪,1,scriptwriter
+5586,泰馨妹,1,scriptwriter
+5587,王为一,1,scriptwriter
+5588,柯受良,1,scriptwriter
+5589,黄柏年,1,scriptwriter
+5590,江瑞宗,1,scriptwriter
+5591,王迎庆,1,scriptwriter
+5592,严敏,1,scriptwriter
+5593,廖媌婧,1,scriptwriter
+5594,李剑,1,scriptwriter
+5595,杰瑞·刘易斯,1,scriptwriter
+5596,大卫·谢菲尔德,1,scriptwriter
+5597,贝瑞·布劳斯坦,1,scriptwriter
+5598,明锐,1,scriptwriter
+5599,哈密斯·麦克尔,1,scriptwriter
+5600,梁德森,1,scriptwriter
+5601,金扬桦,1,scriptwriter
+5602,Drew Gitlin,1,scriptwriter
+5603,Mike Cheda,1,scriptwriter
+5604,闵丙天,1,scriptwriter
+5605,彼得·布里格斯,1,scriptwriter
+5606,史蒂文·保罗,1,scriptwriter
+5607,Gregory Poppen,1,scriptwriter
+5608,罗伯特·尼尔森·雅各布斯,1,scriptwriter
+5609,亚特·蒙特拉斯特里,1,scriptwriter
+5610,杨煜基,1,scriptwriter
+5611,黄柏文,1,scriptwriter
+5612,廖志强,1,scriptwriter
+5613,大卫·N·提驰,1,scriptwriter
+5614,约翰·谢泼德,1,scriptwriter
+5615,Harvey Weitzman,1,scriptwriter
+5616,皮耶罗·特里尼,1,scriptwriter
+5617,Vittorio de Benedetti,1,scriptwriter
+5618,卡斯皮安·特雷德维尔-欧文,1,scriptwriter
+5619,梁智强,1,scriptwriter
+5620,洪汐,1,scriptwriter
+5621,詹姆斯·德莫纳克,1,scriptwriter
+5622,Kevin Fox,1,scriptwriter
+5623,Steven Pressfield,1,scriptwriter
+5624,梁家仁,1,scriptwriter
+5625,拉里·柯恩,1,scriptwriter
+5626,杨振耀,1,scriptwriter
+5627,Clive Cussler,1,scriptwriter
+5628,约翰·C·理查兹,1,scriptwriter
+5629,叶伟民,1,scriptwriter
+5630,克里斯蒂安·佩措尔德,1,scriptwriter
+5631,哈伦·法罗基,1,scriptwriter
+5632,于贝尔·蒙泰耶,1,scriptwriter
+5633,过华,1,scriptwriter
+5634,姜一,1,scriptwriter
+5635,赵冬苓,1,scriptwriter
+5636,郎云,1,scriptwriter
+5637,魏人,1,scriptwriter
+5638,Lloyd Battista,1,scriptwriter
+5639,Jim Bryce,1,scriptwriter
+5640,Jerry Lazarus,1,scriptwriter
+5641,托尼·安东尼,1,scriptwriter
+5642,余伟国,1,scriptwriter
+5643,李公乐,1,scriptwriter
+5644,吕思琳,1,scriptwriter
+5645,拉加·门农,1,scriptwriter
+5646,拉胡尔·南贾,1,scriptwriter
+5647,夏秀轩,1,scriptwriter
+5648,麦启聪,1,scriptwriter
+5649,陈越威,1,scriptwriter
+5650,达纳·奥尔森,1,scriptwriter
+5651,柏辉,1,scriptwriter
+5652,谭锦华,1,scriptwriter
+5653,Keith Sharon,1,scriptwriter
+5654,王星泉,1,scriptwriter
+5655,江浩,1,scriptwriter
+5656,柳琪辉,1,scriptwriter
+5657,屈鸿超,1,scriptwriter
+5658,陈广生,1,scriptwriter
+5659,任旭东,1,scriptwriter
+5660,徐国腾,1,scriptwriter
+5661,王俊益,1,scriptwriter
+5662,潘云山,1,scriptwriter
+5663,陳明華,1,scriptwriter
+5664,程涛,1,scriptwriter
+5665,凯文·史密斯,1,scriptwriter
+5666,王寿康,1,scriptwriter
+5667,李钊,1,scriptwriter
+5668,焦雄健,1,scriptwriter
+5669,石惠,1,scriptwriter
+5670,林俊雄,1,scriptwriter
+5671,屠忠训,1,scriptwriter
+5672,趙東屏,1,scriptwriter
+5673,罗诚,1,scriptwriter
+5674,伍立光,1,scriptwriter
+5675,梁恩东,1,scriptwriter
+5676,石天,1,scriptwriter
+5677,安德鲁·W·马洛,1,scriptwriter
+5678,邓特希,1,scriptwriter
+5679,苏静雯,1,scriptwriter
+5680,刘孝伟,1,scriptwriter
+5681,方志豪,1,scriptwriter
+5682,陈健忠,1,scriptwriter
+5683,夏岩,1,scriptwriter
+5684,坦普尔·马休斯,1,scriptwriter
+5685,卡特·克劳克,1,scriptwriter
+5686,杨盼盼,1,scriptwriter
+5687,陈成东,1,scriptwriter
+5688,蓝海瀚,1,scriptwriter
+5689,科尔姆·托宾,1,scriptwriter
+5690,李世雄,1,scriptwriter
+5691,史美仪,1,scriptwriter
+5692,刘定坚,1,scriptwriter
+5693,张键,1,scriptwriter
+5694,蔡旗志,1,scriptwriter
+5695,水中月,1,scriptwriter
+5696,陈宝珣,1,scriptwriter
+5697,林丹萍,1,scriptwriter
+5698,梁志明,1,scriptwriter
+5699,杜梓杰,1,scriptwriter
+5700,汤明智,1,scriptwriter
+5701,詹姆斯·多默,1,scriptwriter
+5702,泽明,1,scriptwriter
+5703,Stephen Susco,1,scriptwriter
+5704,李晶凌,1,scriptwriter
+5705,丽萨·阿祖洛斯,1,scriptwriter
+5706,约翰·保曼,1,scriptwriter
+5707,廖一梅,1,scriptwriter
+5708,顿河,1,scriptwriter
+5709,孙睿,1,scriptwriter
+5710,约翰·帕克斯顿,1,scriptwriter
+5711,宝卿,1,scriptwriter
+5712,严苏倩,1,scriptwriter
+5713,三宅隆太,1,scriptwriter
+5714,弗朗西斯·鲁,1,scriptwriter
+5715,让·多斯特,1,scriptwriter
+5716,居伊·雅里,1,scriptwriter
+5717,富兰克林·库恩,1,scriptwriter
+5718,弗兰克·戴维斯,1,scriptwriter
+5719,Rose Valland,1,scriptwriter
+5720,霍华德·迪姆斯戴尔,1,scriptwriter
+5721,内德里克·扬,1,scriptwriter
+5722,肖央,1,scriptwriter
+5723,内卡蒂·库马利,1,scriptwriter
+5724,梅廷·埃尔克桑,1,scriptwriter
+5725,呂奇,1,scriptwriter
+5726,乔纳森·詹姆斯,1,scriptwriter
+5727,林小革,1,scriptwriter
+5728,崔民硕,1,scriptwriter
+5729,李在容,1,scriptwriter
+5730,吴晓珍,1,scriptwriter
+5731,Jochen Huth,1,scriptwriter
+5732,安里麻里,1,scriptwriter
+5733,张优优,1,scriptwriter
+5734,罗曼夫,1,scriptwriter
+5735,谢飞,1,scriptwriter
+5736,赵德胤,1,scriptwriter
+5737,比尔·迪比克,1,scriptwriter
+5738,马科斯·伯恩斯坦,1,scriptwriter
+5739,若昂·伊曼纽尔·卡耐偌,1,scriptwriter
+5740,崔东勋,1,scriptwriter
+5741,叶金胜,1,scriptwriter
+5742,柯淑卿,1,scriptwriter
+5743,曾郁雯,1,scriptwriter
+5744,南条范夫,1,scriptwriter
+5745,铃木尚之,1,scriptwriter
+5746,张艺凡,1,scriptwriter
+5747,武智铁二,1,scriptwriter
+5748,大卫·O·拉塞尔,1,scriptwriter
+5749,斯坦·巴斯托,1,scriptwriter
+5750,奥伦·尤济尔,1,scriptwriter
+5751,陈世哲,1,scriptwriter
+5752,傲立,1,scriptwriter
+5753,宋晋川,1,scriptwriter
+5754,理查德·艾欧阿德,1,scriptwriter
+5755,阿威·科林恩,1,scriptwriter
+5756,保罗·热戈夫,1,scriptwriter
+5757,吉恩·凯利,1,scriptwriter
+5758,温亚德·布朗,1,scriptwriter
+5759,诺曼·斯潘塞,1,scriptwriter
+5760,Vittorio Giacci,1,scriptwriter
+5761,Laura Pettini,1,scriptwriter
+5762,Silvia Pettini,1,scriptwriter
+5763,杰伊·沃德,1,scriptwriter
+5764,克雷格·赖特,1,scriptwriter
+5765,Raffaele Donato,1,scriptwriter
+5766,肯特·琼斯,1,scriptwriter
+5767,迈克·卡希尔,1,scriptwriter
+5768,汤姆·戈米肯,1,scriptwriter
+5769,李杨,1,scriptwriter
+5770,董哲,1,scriptwriter
+5771,林启安,1,scriptwriter
+5772,Silvia D'Amico Bendico,1,scriptwriter
+5773,雷夫·拉森,1,scriptwriter
+5774,克里斯蒂·里比,1,scriptwriter
+5775,Francesco Guicciardini,1,scriptwriter
+5776,Niccolò Machiavelli,1,scriptwriter
+5777,詹姆斯·瑟伯,1,scriptwriter
+5778,全哲洪,1,scriptwriter
+5779,金韩民,1,scriptwriter
+5780,张伟雄,1,scriptwriter
+5781,凯特·康杜尔,1,scriptwriter
+5782,罗娜·库克,1,scriptwriter
+5783,克雷格·格伯,1,scriptwriter
+5784,Oi-Lai Tam,1,scriptwriter
+5785,Carlo Cremona,1,scriptwriter
+5786,Ming Tse,1,scriptwriter
+5787,约翰·阿布德,1,scriptwriter
+5788,迈克尔·科尔顿,1,scriptwriter
+5789,布兰登·索耶,1,scriptwriter
+5790,维托里奥·博尼切利,1,scriptwriter
+5791,赵中兴,1,scriptwriter
+5792,袁信义,1,scriptwriter
+5793,迈克尔·斯隆,1,scriptwriter
+5794,理查德·林德海姆,1,scriptwriter
+5795,Philippe Erlanger,1,scriptwriter
+5796,乌戈·格雷戈雷蒂,1,scriptwriter
+5797,田中慎弥,1,scriptwriter
+5798,朱塞佩·帕特罗尼·格里菲,1,scriptwriter
+5799,安东·契诃夫,1,scriptwriter
+5800,Diego Fabbri,1,scriptwriter
+5801,埃胡德·约纳,1,scriptwriter
+5802,格兰特·迈尔斯,1,scriptwriter
+5803,约翰·罗奇,1,scriptwriter
+5804,玛丽·斯威尼,1,scriptwriter
+5805,詹妮弗·肯特,1,scriptwriter
+5806,凯利·玛斯特森,1,scriptwriter
+5807,雅克·罗布,1,scriptwriter
+5808,本杰明·罗格朗,1,scriptwriter
+5809,让-马克·罗切特,1,scriptwriter
+5810,桑德罗·孔蒂嫩扎,1,scriptwriter
+5811,Carlo Infascelli,1,scriptwriter
+5812,朱塞佩·吉欧尼,1,scriptwriter
+5813,Vinicio Marinucci,1,scriptwriter
+5814,埃托尔·斯科拉,1,scriptwriter
+5815,松田裕子,1,scriptwriter
+5816,Sandro De Feo,1,scriptwriter
+5817,Mario Pannunzio,1,scriptwriter
+5818,伊沃·佩里利,1,scriptwriter
+5819,Massimo Mida,1,scriptwriter
+5820,Antonello Trombadori,1,scriptwriter
+5821,肖娜·克罗斯,1,scriptwriter
+5822,盖尔·福尔曼,1,scriptwriter
+5823,贾恩卡洛·维戈雷利,1,scriptwriter
+5824,弗兰科·布鲁萨蒂,1,scriptwriter
+5825,Eduardo Marotta,1,scriptwriter
+5826,朱塞佩·马罗塔,1,scriptwriter
+5827,桥本以藏,1,scriptwriter
+5828,克洛德·奥当-拉哈,1,scriptwriter
+5829,Jules-Amédée Barbey d'Aurevilly,1,scriptwriter
+5830,艾维而.巴赞,1,scriptwriter
+5831,科莱特,1,scriptwriter
+5832,莱奥·若阿农,1,scriptwriter
+5833,卡洛·里姆,1,scriptwriter
+5834,图里·瓦西里,1,scriptwriter
+5835,虞小卉,1,scriptwriter
+5836,陈怡方,1,scriptwriter
+5837,Antonio Lisandrini,1,scriptwriter
+5838,大卫·艾维斯,1,scriptwriter
+5839,利奥波德·冯·萨赫-马索克,1,scriptwriter
+5840,吉安·保罗·卡莱加里,1,scriptwriter
+5841,阿特·科恩,1,scriptwriter
+5842,伦佐·切萨纳,1,scriptwriter
+5843,前川淳,1,scriptwriter
+5844,加藤一彦,1,scriptwriter
+5845,塞缪尔·毛茨,1,scriptwriter
+5846,Ebbe Roe Smith,1,scriptwriter
+5847,方文山,1,scriptwriter
+5848,游智炜,1,scriptwriter
+5849,苏·史密斯,1,scriptwriter
+5850,Dheeraj Akolkar,1,scriptwriter
+5851,Antoine de Baecque,1,scriptwriter
+5852,罗恩·弗里克,1,scriptwriter
+5853,马克·迈吉德森,1,scriptwriter
+5854,萨布里纳·德霍万,1,scriptwriter
+5855,坎布兹亚·帕托维,1,scriptwriter
+5856,贾法·帕纳西,1,scriptwriter
+5857,崔企川,1,scriptwriter
+5858,米尔科·曼彻夫斯基,1,scriptwriter
+5859,约翰·W·理查森,1,scriptwriter
+5860,克里斯托弗·罗奇,1,scriptwriter
+5861,吉安尼·阿梅利奥,1,scriptwriter
+5862,Daniele Gaglianone,1,scriptwriter
+5863,陈辉虹,1,scriptwriter
+5864,江皓昕,1,scriptwriter
+5865,奥斯汀·邦恩,1,scriptwriter
+5866,约翰·克洛基达斯,1,scriptwriter
+5867,鲍勃·尼尔森,1,scriptwriter
+5868,卓然,1,scriptwriter
+5869,宋岳峰,1,scriptwriter
+5870,比尔·伯顿,1,scriptwriter
+5871,钟岳峰,1,scriptwriter
+5872,Mette Heeno,1,scriptwriter
+5873,安德斯·摩根泰勒,1,scriptwriter
+5874,陈茂贤,1,scriptwriter
+5875,潘俊霖,1,scriptwriter
+5876,郑纬机,1,scriptwriter
+5877,蔡明亮,1,scriptwriter
+5878,杨璧莹,1,scriptwriter
+5879,蔡逸君,1,scriptwriter
+5880,三浦建太郎,1,scriptwriter
+5881,罗伯特·奥特曼,1,scriptwriter
+5882,弗兰克·巴希特,1,scriptwriter
+5883,雷蒙德·卡佛,1,scriptwriter
+5884,Marion Bessay,1,scriptwriter
+5885,Giampiero Bona,1,scriptwriter
+5886,森田修平,1,scriptwriter
+5887,石井克人,1,scriptwriter
+5888,カトキハジメ,1,scriptwriter
+5889,山本健介,1,scriptwriter
+5890,莫里斯·恩格尔,1,scriptwriter
+5891,雷·阿什利,1,scriptwriter
+5892,鲁思·奥金,1,scriptwriter
+5893,康桥,1,scriptwriter
+5894,王冰,1,scriptwriter
+5895,史赫然,1,scriptwriter
+5896,Guillermo Ríos,1,scriptwriter
+5897,Leticia López Margalli,1,scriptwriter
+5898,左拉,1,scriptwriter
+5899,马塞尔·卡尔内,1,scriptwriter
+5900,Edgar Bergen,1,scriptwriter
+5901,斯蒂文·奈特,1,scriptwriter
+5902,Emilio Cecchi,1,scriptwriter
+5903,埃托雷·马里亚·马尔加东纳,1,scriptwriter
+5904,福斯托·托齐,1,scriptwriter
+5905,艾卡斯特·泰叻他那,1,scriptwriter
+5906,George Sessions Perry,1,scriptwriter
+5907,雨果·巴特勒,1,scriptwriter
+5908,大和屋竺,1,scriptwriter
+5909,Maurice Hanline,1,scriptwriter
+5910,阿久根知昭,1,scriptwriter
+5911,冈野雄一,1,scriptwriter
+5912,森崎东,1,scriptwriter
+5913,Craig Hamann,1,scriptwriter
+5914,翁贝托·康塔罗,1,scriptwriter
+5915,洛伦佐·森普尔,1,scriptwriter
+5916,迪克·克莱蒙特,1,scriptwriter
+5917,伊安·拉·弗雷奈斯,1,scriptwriter
+5918,弗朗西斯科·德·罗贝蒂斯,1,scriptwriter
+5919,阿索尔·富加德,1,scriptwriter
+5920,保罗·迪尼,1,scriptwriter
+5921,阿里·福尔曼,1,scriptwriter
+5922,Francesco Valitutti,1,scriptwriter
+5923,Sukkosin Akkarapath,1,scriptwriter
+5924,Nattapot Potchumnean,1,scriptwriter
+5925,Pornchai Hongrattanaporn,1,scriptwriter
+5926,Kiatkamon Iamphungporn,1,scriptwriter
+5927,Chanintorn Ulit,1,scriptwriter
+5928,申·阿克,1,scriptwriter
+5929,奥森·斯科特·卡德,1,scriptwriter
+5930,毕比·纳西利,1,scriptwriter
+5931,三浦健太郎,1,scriptwriter
+5932,布兰登·奥布莱恩,1,scriptwriter
+5933,瓦尔特·坎贝尔,1,scriptwriter
+5934,米歇尔·法贝尔,1,scriptwriter
+5935,乔纳森·格雷泽,1,scriptwriter
+5936,夏恩·莫里斯,1,scriptwriter
+5937,James Bodrero,1,scriptwriter
+5938,Del Connell,1,scriptwriter
+5939,Ernest Terrazzas,1,scriptwriter
+5940,Roy Williams,1,scriptwriter
+5941,Ralph Wright,1,scriptwriter
+5942,加文·兰伯特,1,scriptwriter
+5943,Jan Read,1,scriptwriter
+5944,石井寿一,1,scriptwriter
+5945,蔡怡芬,1,scriptwriter
+5946,弗兰科·索利纳斯,1,scriptwriter
+5947,吉洛·彭泰科沃,1,scriptwriter
+5948,Shubhendu Bhattacharya,1,scriptwriter
+5949,朱·查特维迪,1,scriptwriter
+5950,约翰·迈克尔·麦克唐纳,1,scriptwriter
+5951,劳伦斯·D·科昂,1,scriptwriter
+5952,罗伯托·安古列·萨卡撒,1,scriptwriter
+5953,乔治·盖汀斯,1,scriptwriter
+5954,陈源斌,1,scriptwriter
+5955,Eleanor Perry,1,scriptwriter
+5956,András Forgách,1,scriptwriter
+5957,雪莉·杰克逊,1,scriptwriter
+5958,乔治·A·罗梅罗,1,scriptwriter
+5959,Webb Smith,1,scriptwriter
+5960,Ugo Betti,1,scriptwriter
+5961,米家山,1,scriptwriter
+5962,阿里·韩德尔,1,scriptwriter
+5963,马里昂·尼尔森,1,scriptwriter
+5964,罗宾·戴维森,1,scriptwriter
+5965,乔伊·安沙,1,scriptwriter
+5966,克里斯蒂安·霍华德,1,scriptwriter
+5967,鲁斯塔姆·伊布拉吉姆别科夫,1,scriptwriter
+5968,吉尔·E·布洛特博赫尔,1,scriptwriter
+5969,Jule Selbo,1,scriptwriter
+5970,马克·丘罗德柯,1,scriptwriter
+5971,诺埃米·洛夫斯基,1,scriptwriter
+5972,区焯文,1,scriptwriter
+5973,于仁泰,1,scriptwriter
+5974,里见弴,1,scriptwriter
+5975,丽贝卡·伦科维茨,1,scriptwriter
+5976,卡尔·布伦克尔,1,scriptwriter
+5977,托尼·里奇,1,scriptwriter
+5978,吉亚·宋撒努,1,scriptwriter
+5979,阿比彻·坎旁·纳·阿宇尚亚,1,scriptwriter
+5980,威尔·海古德,1,scriptwriter
+5981,李·丹尼尔斯,1,scriptwriter
+5982,丹尼·斯特朗,1,scriptwriter
+5983,亚历山大·希齐博尔-雷尔斯基,1,scriptwriter
+5984,李柏宁,1,scriptwriter
+5985,卡尔森·亨宁,1,scriptwriter
+5986,赵琦彬,1,scriptwriter
+5987,谢定华,1,scriptwriter
+5988,赖舒·彼查,1,scriptwriter
+5989,鲁特维克·奥扎,1,scriptwriter
+5990,金丽玲,1,scriptwriter
+5991,约瑟夫·高登-莱维特,1,scriptwriter
+5992,Jung-Hwa Lee,1,scriptwriter
+5993,Dong-Sun Shin,1,scriptwriter
+5994,Jin-ho Yoon,1,scriptwriter
+5995,查尔斯·伍德,1,scriptwriter
+5996,杰拉德·达米亚诺,1,scriptwriter
+5997,Alireza Bazrafshan,1,scriptwriter
+5998,迈克尔·巴特勒,1,scriptwriter
+5999,丹尼斯·施赖克,1,scriptwriter
+6000,叶天伦,1,scriptwriter
+6001,汤姆·克兰西,1,scriptwriter
+6002,谢尔盖·斯涅日金,1,scriptwriter
+6003,伊里亚·蒂尔金,1,scriptwriter
+6004,卡洛斯·沙尔丹哈,1,scriptwriter
+6005,Benjamin Hayes,1,scriptwriter
+6006,Jacob Vaughan,1,scriptwriter
+6007,图利奥·凯齐赫,1,scriptwriter
+6008,埃曼诺·奥尔米,1,scriptwriter
+6009,雅克·孔帕内茨,1,scriptwriter
+6010,Jacques Rémy,1,scriptwriter
+6011,Judi Barrett,1,scriptwriter
+6012,Ron Barrett,1,scriptwriter
+6013,伏见晁,1,scriptwriter
+6014,Geibei Ibushiya,1,scriptwriter
+6015,罗伯特·哈默,1,scriptwriter
+6016,王爱玲,1,scriptwriter
+6017,加里·霍金斯,1,scriptwriter
+6018,Larry Brown,1,scriptwriter
+6019,汤姆·J·阿瑟尔,1,scriptwriter
+6020,马特·恩贝尔,1,scriptwriter
+6021,克里斯·韦奇,1,scriptwriter
+6022,吉姆·阿格纽,1,scriptwriter
+6023,Sean Keller,1,scriptwriter
+6024,Aaron Strongoni,1,scriptwriter
+6025,克日什托夫·扎努西,1,scriptwriter
+6026,若泽·萨拉马戈,1,scriptwriter
+6027,理查德·菲利普,1,scriptwriter
+6028,斯蒂芬·泰尔利,1,scriptwriter
+6029,保罗·马祖斯基,1,scriptwriter
+6030,罗杰·西蒙,1,scriptwriter
+6031,阿兰·罗布-格里耶,1,scriptwriter
+6032,Dick Huemer,1,scriptwriter
+6033,Dick Kinney,1,scriptwriter
+6034,John Walbridge,1,scriptwriter
+6035,曼尼·夏希希,1,scriptwriter
+6036,柳井隆雄,1,scriptwriter
+6037,尚可,1,scriptwriter
+6038,桥田寿贺子,1,scriptwriter
+6039,Kyle Ward,1,scriptwriter
+6040,Marcel Rodriguez,1,scriptwriter
+6041,Steve Faber,1,scriptwriter
+6042,Bob Fisher,1,scriptwriter
+6043,格雷格·库利奇,1,scriptwriter
+6044,马里奥·莫尼切利,1,scriptwriter
+6045,鲍里斯·奇尔斯科夫,1,scriptwriter
+6046,雅克-雷米·杰瑞德,1,scriptwriter
+6047,Antoine Lanciaux,1,scriptwriter
+6048,斯蒂芬妮·社,1,scriptwriter
+6049,Iouri Tcherenkov,1,scriptwriter
+6050,杨瑾,1,scriptwriter
+6051,李睿珺,1,scriptwriter
+6052,苏童,1,scriptwriter
+6053,里克·赖尔登,1,scriptwriter
+6054,迈克尔·G·库尼,1,scriptwriter
+6055,阿布戴·柯西胥,1,scriptwriter
+6056,茱莉·马罗,1,scriptwriter
+6057,加利亚·拉克鲁瓦,1,scriptwriter
+6058,吉米·海沃德,1,scriptwriter
+6059,斯科特·摩西尔,1,scriptwriter
+6060,大卫·I·斯特恩,1,scriptwriter
+6061,Percy Heath,1,scriptwriter
+6062,Samuel Hoffenstein,1,scriptwriter
+6063,Daniel P. Mannix,1,scriptwriter
+6064,Roger S.H. Schulman,1,scriptwriter
+6065,扎卡里·斯克拉,1,scriptwriter
+6066,荒田正男,1,scriptwriter
+6067,Carter Crocker,1,scriptwriter
+6068,David Reynolds,1,scriptwriter
+6069,斯科特·沃克,1,scriptwriter
+6070,崔西·莱茨,1,scriptwriter
+6071,朱莉·本内特,1,scriptwriter
+6072,埃米利奥·费尔南德斯,1,scriptwriter
+6073,Mauricio Magdaleno,1,scriptwriter
+6074,拉尔夫·赖特,1,scriptwriter
+6075,Jeff Tremaine,1,scriptwriter
+6076,栗村実,1,scriptwriter
+6077,马克斯·苏萨克,1,scriptwriter
+6078,Maurice Griffe,1,scriptwriter
+6079,蔡继光,1,scriptwriter
+6080,许默,1,scriptwriter
+6081,迈克尔·德古兹曼,1,scriptwriter
+6082,马克·安德勒斯,1,scriptwriter
+6083,沃尔夫冈·彼德森,1,scriptwriter
+6084,洛塔尔·G·布赫海姆,1,scriptwriter
+6085,查克·洛根,1,scriptwriter
+6086,贾斯汀·海瑟,1,scriptwriter
+6087,普拉松·乔希,1,scriptwriter
+6088,Guerdon Trueblood,1,scriptwriter
+6089,Gary K. Wolf,1,scriptwriter
+6090,葛夏,1,scriptwriter
+6091,道格拉斯·阿尔尼奥科斯基,1,scriptwriter
+6092,J·C·尚多尔,1,scriptwriter
+6093,玛丽·里维埃,1,scriptwriter
+6094,比耶迪胡山·班德约帕德赫亚,1,scriptwriter
+6095,萨蒂亚吉特·雷伊,1,scriptwriter
+6096,斯科特·库珀,1,scriptwriter
+6097,罗穆亚尔德·卡拉斯,1,scriptwriter
+6098,阿格涅丝卡·霍兰,1,scriptwriter
+6099,爱德华·布罗夫斯基,1,scriptwriter
+6100,爱德华·克罗西斯基,1,scriptwriter
+6101,马辛·拉塔洛,1,scriptwriter
