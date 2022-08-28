@@ -26,7 +26,13 @@ export default (state = defaultState, action) => {
       // }).catch(err => {
       //   console.log(err);
       // });
-      axios.get(`http://127.0.0.1:8001/movie?name=${movieName}`).then(res => {
+      // axios.get(`http://127.0.0.1:8001/movie?name=${movieName}`).then(res => {
+      //   console.log(res, '++++');
+      //   newState.entityQueryRes = res.data || [];
+      // }).catch(err => {
+      //   console.log(err);
+      // });
+      axios.get(`http://127.0.0.1:8002/movie?name=${movieName}`).then(res => {
         console.log(res, '++++');
         newState.entityQueryRes = res.data || [];
       }).catch(err => {
