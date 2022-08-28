@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 // import axios from 'axios';
 import { connect } from "react-redux";
-import { useEffect } from "react";
+// import { useEffect } from "react";
 
 function EntityQuery(props) {
   // eslint-disable-next-line
@@ -19,9 +19,8 @@ function EntityQuery(props) {
     navigate('/detail?movietitle=' + title);
   }
 
-  var timeOut = null;
-
   const antiShake = (fn, wait) => {
+    var timeOut = null;
     return args => {
       if (timeOut) {
         clearTimeout(timeOut);
@@ -31,9 +30,9 @@ function EntityQuery(props) {
     }
   }
 
-  useEffect(() => {
-    console.log(999999999, props);
-  })
+  // useEffect(() => {
+  //   console.log(999999999, props);
+  // })
 
   const searchMovie = () => {
     // const res = props.entityQuery(document.getElementsByClassName('search-input')[0].value);
@@ -51,10 +50,10 @@ function EntityQuery(props) {
           <input type="text"
             className="search-input"
             placeholder="Input the Entity you want to search..."
-            onKeyDown={antiShake(searchMovie, 300)} />
+            onKeyDown={antiShake(searchMovie, 30)} />
           <button type="submit"
             className="search-btn"
-            onClick={antiShake(searchMovie, 300)}>
+            onClick={antiShake(searchMovie, 30)}>
             <FontAwesomeIcon icon={faSearch} />
           </button>
         </div>

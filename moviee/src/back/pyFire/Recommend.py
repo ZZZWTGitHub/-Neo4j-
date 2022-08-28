@@ -1,14 +1,17 @@
 import codecs
 import json
+import string
 import numpy as np
 import pandas as pd
+import sys
 
 entity2id = {}
 movie_entity_set = set()
 
 
 def data_loader():
-    file = r'entity2id.csv'#读入实体名称和序号的对应关系，如肖申克的救赎对应编号40856
+    # file = r'entity2id.csv'#读入实体名称和序号的对应关系，如肖申克的救赎对应编号40856
+    file = r'E:\\2022-1term\\大数据特色课程模块\\HW\Website-for-Knowledge-Graph-Inference\\moviee\\src\\back\\pyFire\\entity2id.csv'
     csv_e = pd.read_csv(file, encoding='utf-8', header=None)
     df_e = pd.DataFrame(csv_e, dtype=str)
 
@@ -46,15 +49,19 @@ def test(id, entity_set, entity_dict):
     rank_order = sorted(rank_dict.items(), key=lambda x: x[1], reverse=False)#排个序找到最小的那个
     return rank_order[0]
 
-
-if __name__ == '__main__':
+def maincode(argv):
+    # print(argv)
     data_loader()
-    name = "肖申克的救赎"
-    id = entity2id[name]#获得电影对应序号
-    movie_entity_set.discard(id)#在所有电影中去除推荐电影本身
-    entity_dict = dataloader(r"entity_50dim_batch252")#导入向量数据的文件
+    name = str(argv[0])
+    id = entity2id[name]    # 获得电影对应序号
+    movie_entity_set.discard(id)    # 在所有电影中去除推荐电影本身
+    entity_dict = dataloader(r"E:\\2022-1term\\大数据特色课程模块\\HW\Website-for-Knowledge-Graph-Inference\\moviee\\src\\back\\pyFire\\entity_50dim_batch252")#导入向量数据的文件
     similar_id = test(id, movie_entity_set, entity_dict)#找相似的电影
-    for movie in entity2id.keys():#遍历一下电影名称和id的字典将电影名称输出
+    for movie in entity2id.keys():  # 遍历一下电影名称和id的字典将电影名称输出
         if entity2id[movie] == similar_id[0]:
+            # print(similar_id[0] - 40856)
             print(movie)
             break
+
+if __name__ == '__main__':
+    maincode(sys.argv[1:])

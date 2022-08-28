@@ -13,10 +13,10 @@ app.use(cors());
 app.get('/movie', (req, res) => {
   // console.log('-----------');
   // console.log('moviename:', req.query.name);
-  query.queryMovie(req.query.name, result => {
+  query.queryMovie(req.query.name.toString().replace(/[\']/g, ''), result => {
     res.send(result);
     // console.log(22222);
-    // console.log(result);
+    console.log(result);
   });
 });
 

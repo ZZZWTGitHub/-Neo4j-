@@ -26,18 +26,18 @@ export default (state = defaultState, action) => {
       // }).catch(err => {
       //   console.log(err);
       // });
-      // axios.get(`http://127.0.0.1:8001/movie?name=${movieName}`).then(res => {
-      //   console.log(res, '++++');
-      //   newState.entityQueryRes = res.data || [];
-      // }).catch(err => {
-      //   console.log(err);
-      // });
-      axios.get(`http://127.0.0.1:8002/movie?name=${movieName}`).then(res => {
+      axios.get(`http://127.0.0.1:8001/movie?name=${movieName}`).then(res => {
         console.log(res, '++++');
         newState.entityQueryRes = res.data || [];
       }).catch(err => {
         console.log(err);
       });
+      // axios.get(`http://127.0.0.1:8002/movie?name=${movieName}`).then(res => {
+      //   console.log(res, '++++');
+      //   newState.entityQueryRes = res.data || [];
+      // }).catch(err => {
+      //   console.log(err);
+      // });
       break;
     }
     case "queryDetail": {
@@ -49,7 +49,17 @@ export default (state = defaultState, action) => {
         console.log(err);
       })
       break;
-    };
+    }
+    case "quest": {
+      const movieName = action.value
+      axios.get(`http://127.0.0.1:8002/quest?moviename=${movieName}`).then(res => {
+        console.log(res, '++++');
+        newState.questRes = res.data;
+      }).catch(err => {
+        console.log(err);
+      })
+      break;
+    }
     default: {
       console.log("no that action");
       break;

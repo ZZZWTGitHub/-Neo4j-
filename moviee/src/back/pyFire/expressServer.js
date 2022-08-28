@@ -1,6 +1,7 @@
 const { spawn } = require('child_process');
 const cors = require('cors');
 const path = require('path');
+const iconv = require('iconv-lite');
 
 const express = require('express');
 
@@ -8,14 +9,18 @@ const app = express();
 
 app.use(cors());
 
-app.get('/movie', (req, res) => {
+app.get('/quest', (req, res) => {
   console.log('in pyFire');
-  const exec = spawn('python', [path.join(__dirname, 'test.py')]);
+  const exec = spawn('python', [
+    path.join(__dirname, 'Recommend.py'),
+    req.query.moviename
+  ]);
   exec.stdout.on('data', data => {
-    console.log('stdout: ' + data);
+    console.log('stdout: ' + iconv.decode(data, 'gbk').toString().replace(/[\n\r]/g, ''));
+    res.send(iconv.decode(data, 'gbk').toString().replace(/[\n\r]/g, ''))
   });
   exec.stderr.on('data', data => {
-    console.log('stderr: ' + data);
+    console.log('stderr: ' + iconv.decode(data, 'gbk'));
   });
   exec.stderr.on('close', () => {
     console.log("Closed");
