@@ -1,5 +1,5 @@
 import React from 'react';
-import "./RelationQuery.css";
+import "./RelationQuery.less";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiagramProject, faSearch } from "@fortawesome/free-solid-svg-icons";
 import * as echarts from 'echarts';

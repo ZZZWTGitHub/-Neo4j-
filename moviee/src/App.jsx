@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
 import logo from "./image/logo_moviee.png";
 
-import "./App.css";
+import "./App.less";
 
 function App(props) {
 

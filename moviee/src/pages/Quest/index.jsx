@@ -1,5 +1,5 @@
 import React from 'react';
-import "../RelationQuery/RelationQuery.css";
+import "../RelationQuery/RelationQuery.less";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch, faComment } from "@fortawesome/free-solid-svg-icons";
 import { useSearchParams, useNavigate } from "react-router-dom";
